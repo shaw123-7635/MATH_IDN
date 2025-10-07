@@ -1,0 +1,2002 @@
+{
+    "1": {
+        "content": "Konversikna titik $(0,3)$ saka koordinat kartesius dadi koordinat polar. Wangsulana nganggo bentuk $(r,\\theta),$ sing $r > 0$ lan $0 \\le \\theta < 2\\pi.$",
+        "answer": ""
+    },
+    "2": {
+        "content": "Definisikna\n\\[\np = \\sum_{k = 1}^\\infty \\frac{1}{k^2} \\quad \\text{lan} \\quad q = \\sum_{k = 1}^\\infty \\frac{1}{k^3}.\n\\]\nGolekana cara kanggo nulis\n\\[\n\\sum_{j = 1}^\\infty \\sum_{k = 1}^\\infty \\frac{1}{(j + k)^3}\n\\]\nnganggo $p$ lan $q.$",
+        "answer": ""
+    },
+    "3": {
+        "content": "Yen $f(x) = \\frac{3x-2}{x-2}$, pira nilaie $f(-2) + f(-1) + f(0)$? Tulisen wangsulanmu nganggo pecahan biasa.",
+        "answer": ""
+    },
+    "4": {
+        "content": "Ana pira pembagi wilangan bulat positif saka 196?",
+        "answer": ""
+    },
+    "5": {
+        "content": "Hasil latihan lari tim lintas negara digambarke ing ngisor iki. Siswa endi sing nduweni kecepatan rata-rata paling gedhe? [asy]\nfor ( int i = 1; i <= 7; ++i )\n{\n\ndraw((i,0)--(i,6));\n}\n\nfor ( int i = 1; i <= 5; ++i )\n{\n\ndraw((0,i)--(8,i));\n}\ndraw((-0.5,0)--(8,0), linewidth(1));\ndraw((0,-0.5)--(0,6), linewidth(1));\nlabel(\"$O$\", (0,0), SW);\nlabel(scale(.85)*rotate(90)*\"jarak\", (0, 3), W);\nlabel(scale(.85)*\"waktu\", (4, 0), S);\ndot((1.25, 4.5));\nlabel(scale(.85)*\"Evelyn\", (1.25, 4.8), N);\ndot((2.5, 2.2));\nlabel(scale(.85)*\"Briana\", (2.5, 2.2), S);\ndot((4.25,5.2));\nlabel(scale(.85)*\"Carla\", (4.25, 5.2), SE);\ndot((5.6, 2.8));\nlabel(scale(.85)*\"Debra\", (5.6, 2.8), N);\ndot((6.8, 1.4));\nlabel(scale(.85)*\"Angela\", (6.8, 1.4), E);\n[/asy]",
+        "answer": ""
+    },
+    "6": {
+        "content": "Sawijining segi enam beraturan bisa dibagi dadi enem segitiga sama sisi. Yen keliling salah siji segitiga iku 21 inci, pira keliling segi enam beraturan kuwi, ing inci?",
+        "answer": ""
+    },
+    "7": {
+        "content": "Apa wilangan kubik sempurna positif paling cilik sing bisa ditulis dadi jumlah telung wilangan bulat berturut-turut?",
+        "answer": ""
+    },
+    "8": {
+        "content": "Himpunan titik $(x,y,z)$ sing menuhi\n\\[2x = 3y = -z\\]\niku sawijining garis.\n\nHimpunan titik $(x,y,z)$ sing menuhi\n\\[6x = -y = -4z\\]\niku garis liyane.\n\nGolekana sudut antarane loro garis iki, ing derajat.",
+        "answer": ""
+    },
+    "9": {
+        "content": "Pira jarake, ing unit, antarane titik $(2, -6)$ lan $(-4, 3)$? Wangsulana nganggo bentuk akar paling sederhana.",
+        "answer": ""
+    },
+    "10": {
+        "content": "Soal matematika $2\\cdot 3 \\cdot 4\\cdot 5+1$ iki padha karo 121, amarga operasi perkalian dilakokaké luwih dhisik tinimbang penjumlahan. Nanging, kita bisa entuk hasil liyane saka soal iki yen diijini nambahake tandha kurung. Contone, kita bisa entuk 144 yen nulis \\[\n(2\\cdot (3\\cdot 4)) \\cdot (5+1) = 144.\n\\]\nSakabehe, ana pira jumlah nilai sing bisa diduweni saka ekspresi $2\\cdot 3\\cdot 4 \\cdot 5 + 1$ yen nambahake tandha kurung? (Cathetan, ora oleh ngubah urutan penulisan, mung bisa nambahake tandha kurung wae).",
+        "answer": ""
+    },
+    "11": {
+        "content": "Pira ciliké kelipatan positif saka 30 sing bisa ditulis mung nganggo angka 0 lan 2?",
+        "answer": ""
+    },
+    "12": {
+        "content": "Ayo $p(x)$ dadi polinomial drajat 5 sing nduweni sifat\n\\[\np(n) = \\frac{n}{n^2 - 1}\n\\]\nkanggo $n = 2,$ 3, 4, $\\dots,$ 7.  Temokake $p(8).$",
+        "answer": ""
+    },
+    "13": {
+        "content": "Pembagi sejati saka 12 yaiku 1, 2, 3, 4, lan 6. Pembagi sejati saka sawijining wilangan bulat $N$ yaiku pembagi positife $N$ sing luwih cilik tinimbang $N$. Pira jumlah pembagi sejati saka jumlah divisor wicaksana saka 284?",
+        "answer": ""
+    },
+    "14": {
+        "content": "Volume silinder sing digambarna iki yaiku $45\\pi$ cm kubik. Pira dhuwure silinder iku ing sentimeter? [asy]\nsize(120);\ndraw(shift(2.2,0)*yscale(0.3)*Circle((0,0), 1.2));\n\ndraw((1,0)--(1,-2));\ndraw((3.4,0)--(3.4,-2));\n\ndraw((1,-2)..(2.2,-2.36)..(3.4,-2));\n\nlabel(\"$h$\",midpoint((3.4,0)--(3.4,-2)),E);\n\ndraw (((2.2,0)--(3.4,0)));\n\nlabel(\"$r=3$\",midpoint((2.2,0)--(3.4,0)),N);\n\n[/asy]",
+        "answer": ""
+    },
+    "15": {
+        "content": "Anggep $\\sin D = 0.7$ ing gambar ing ngisor iki. Pira $DE$? [asy]\npair D,E,F;\nF = (0,0);\nD = (sqrt(51),7);\nE = (0,7);\ndraw(D--E--F--D);\ndraw(rightanglemark(D,E,F,15));\nlabel(\"$D$\",D,NE);\nlabel(\"$E$\",E,NW);\nlabel(\"$F$\",F,SW);\nlabel(\"$7$\",(E+F)/2,W);\n[/asy]",
+        "answer": ""
+    },
+    "16": {
+        "content": "Anggep $z = 2 + \\sqrt{2} - (3 + 3 \\sqrt{2})i$, lan anggep $c = 2 - 3i$.  Anggep $w$ yaiku hasile saka $z$ sing diputer ngelawan arah jam ngubengi $c$ nganggo $\\frac{\\pi}{4}$.\n\n[asy]\nunitsize(0.6 cm);\n\npair C, W, Z;\n\nZ = (2 + sqrt(2), -3 - 3*sqrt(2));\nC = (2,-3);\nW = rotate(45,C)*(Z);\n\ndraw(Z--C--W);\n\ndot(\"$c$\", C, N);\ndot(\"$w$\", W, SE);\ndot(\"$z$\", Z, S);\nlabel(\"$\\frac{\\pi}{4}$\", C + (0.6,-1));\n[/asy]\n\nGolekana $w.$\"",
+        "answer": ""
+    },
+    "17": {
+        "content": "Itungen: $1-2+3-4+5- \\dots +99-100$.",
+        "answer": ""
+    },
+    "18": {
+        "content": "Ing ngisor iki ana grafik $y = a \\sin (bx + c) + d$ kanggo sawetara konstanta positif $a,$ $b,$ $c,$ lan $d.$ Golekana nilai paling cilik saka $c.$\n\n[asy]import TrigMacros;\n\nsize(400);\n\nreal f(real x)\n{\nreturn 2*sin(3*x + pi) + 1;\n}\n\ndraw(graph(f,-3*pi,3*pi,n=700,join=operator ..),red);\ntrig_axes(-3*pi,3*pi,-4,4,pi/2,1);\nlayer();\nrm_trig_labels(-5,5, 2);\n\nlabel(\"$1$\", (0,1), E);\nlabel(\"$2$\", (0,2), E);\nlabel(\"$3$\", (0,3), E);\nlabel(\"$-1$\", (0,-1), E);\nlabel(\"$-2$\", (0,-2), E);\nlabel(\"$-3$\", (0,-3), E);\n[/asy]",
+        "answer": ""
+    },
+    "19": {
+        "content": "$\\overline{BC}$ iku sejajar karo segmen liwat $A$, lan $AB = BC$. Pira drajat sing diwakili karo $x$?\n\n[asy]\ndraw((0,0)--(10,0));\ndraw((0,3)--(10,3));\ndraw((2,3)--(8,0));\ndraw((2,3)--(4,0));\nlabel(\"$A$\",(2,3),N);\nlabel(\"$B$\",(4,0),S);\nlabel(\"$C$\",(8,0),S);\nlabel(\"$124^{\\circ}$\",(2,3),SW);\nlabel(\"$x^{\\circ}$\",(4.5,3),S);\n[/asy]",
+        "answer": ""
+    },
+    "20": {
+        "content": "Anggep $a$ iku wilangan real positif sing kabeh akare saka\n\\[\nx^3 + ax^2 + ax + 1 = 0\n\\]\niku real. Temtokna nilai paling cilik sing mungkin saka $a$.",
+        "answer": ""
+    },
+    "21": {
+        "content": "Evaluasina $(1+2i)6-3i$.",
+        "answer": ""
+    },
+    "22": {
+        "content": "Golekana wilangan bulat paling gedhe sing luwih cilik tinimbang $(\\sqrt{7} + \\sqrt{5})^6.$  (Aja nganggo kalkulator!)",
+        "answer": ""
+    },
+    "23": {
+        "content": "Denali lan Nate kerja ing bisnis jasa ngajaki asu mlaku-mlaku lan dibayar saben asu sing diajak mlaku-mlaku. Denali nduweni tanggung jawab marang $16$ asu lan Nate nduweni tanggung jawab marang $12$ asu. Miturut aturan anyar perusahaan, Denali lan Nate bakal nampa utawa kelangan jumlah asu anyar ing kelompok $x$ asu. Rasio gaji Denali marang Nate bakal tetep padha yen Denali nambah $4x$ asu maneh lan Nate tetep $12$ asu, utawa yen $x$ asune Nate dipindhah menyang Denali. Golekana $x$ yen $x\\neq0$.",
+        "answer": ""
+    },
+    "24": {
+        "content": "Golekana kabeh nilai $x$ sing menuhi persamaan $x = \\!\\sqrt{11-2x} + 4$.",
+        "answer": ""
+    },
+    "25": {
+        "content": "Siji pekerja nampa gaji tahunan $\\$20{,}000$, sing saben akhir taun tansah disimpen ing akun tabungan. Ing pungkasan taun katelu (nalika dheweke arep setor kaping katelu), dheweke pengin nduweni paling ora $\\$66,200$ ing akun kasebut kanggo tuku omah. Pira tingkat bunga majemuk minimal sing kudu diterima akun tabungan kasebut? Tulisen wangsulanmu ing bentuk persentase, nanging aja nganggo tandha persen.",
+        "answer": ""
+    },
+    "26": {
+        "content": "Fungsi $f$ menuhi persamaan fungsional\n\\[\nf(x) + f(y) = f(x + y) - xy - 1\n\\]\nkanggo sakabehe $x$ lan $y$ wilangan real. Yen $f(1) = 1,$ temokake kabeh wilangan bulat $n$ sing menuhi $f(n) = n.$  Lebokna kabeh bilangan bulat kuwi, dipisah nganggo koma.",
+        "answer": ""
+    },
+    "27": {
+        "content": "Ana pira cara $7$ wong bisa lungguh ing sak meja bundher yen ora ana loro saka $3$ wong, yaiku Pierre, Rosa, lan Thomas, sing bisa lungguh jejeran? (Susunan lungguh sing mung beda rotasi dianggep padha.)",
+        "answer": ""
+    },
+    "28": {
+        "content": "Sawijining klub matematika lagi dodolan kue kanggo nglumpukake dana kanggo kegiatan lelungan siswa. Klub iku dodolan $54$ kukis regane $\\$1$ saben telung kukis, lan $20$ cupcake sing regane $\\$2$ sawijine, lan $35$ brownies sing regane $\\$1$ sawijine. Yen biayane gawe kue-kue iki yaiku $\\$15$, pira bathine klub matematika kasebut?",
+        "answer": ""
+    },
+    "29": {
+        "content": "Ana rotasi $90^\\circ$ ngubengi titik asal ngelawan jarum jam diterapake marang $7 + 2i.$  Pira bilangan kompleks sing dihasilake?\"",
+        "answer": ""
+    },
+    "30": {
+        "content": "Tentara Yunani ana rong jenis prajurit: prajurit kelas atas lan prajurit kelas bawah. Yen ana total 5 prajurit kelas atas, lan 10 prajurit kelas bawah ing salah sijining daerah bagian Athena, lan perang Thermopylae mbutuhake pasukan saka 4 prajurit kelas atas lan 8 prajurit kelas bawah, ana pira kombinasi susunan batalyon beda sing bisa dikirim?",
+        "answer": ""
+    },
+    "31": {
+        "content": "Golekana hasil perkalian saka $6_8 \\cdot 7_8.$ Tulisen wangsulanmu nganggo basis $8.$",
+        "answer": ""
+    },
+    "32": {
+        "content": "Sederhanana $\\sqrt{242}$.",
+        "answer": ""
+    },
+    "33": {
+        "content": "Ana pirang cara 8 wong bisa lungguh ngubengi meja bundher yen 3 wong -- Pierre, Rosa, lan Thomas -- kabeh pengin lungguh bareng? (Loro susunan panglungguhan dianggep padha yen salah sijine mung rotasi saka liyane.)",
+        "answer": ""
+    },
+    "34": {
+        "content": "Diwenehi barisan geometri $\\frac{125}{9}, \\frac{25}{3}, 5, 3, \\ldots$. Pira suku kaping wolu saka barisan iki? Tulisen wangsulanmu nganggo pecahan biasa.",
+        "answer": ""
+    },
+    "35": {
+        "content": "Golekana suku konstanta saka pangembangane $$\\left(10x^3-\\frac{1}{2x^2}\\right)^{5}$$",
+        "answer": ""
+    },
+    "36": {
+        "content": "Yen $n \\equiv 2 \\pmod{7}$, banjur golekana sisane pembagian nalika $(n + 2)(n + 4)(n + 6)$ dibagi karo 7.",
+        "answer": ""
+    },
+    "37": {
+        "content": "Golekana akar-akar saka $(x - 3)^3 + (x -7)^3 = (2x - 10)^3.$",
+        "answer": ""
+    },
+    "38": {
+        "content": "Siji pentagon beraturan diputer ngelawan arah jarum jam ngubengi pusaté. Piro minimal derajat sing kudu diputer supaya pentagon kuwi pas maneh karo posisi asalé?",
+        "answer": ""
+    },
+    "39": {
+        "content": "Yen siji kaleng cilik buah persik nduweni $40$ kalori lan iku $2\\%$ saka kebutuhan kalorine wong saben dina, pira kalori sing dibutuhake kanggo nyukupi kebutuhan kalorine wong saben dina?",
+        "answer": ""
+    },
+    "40": {
+        "content": "Apa hasile nalika faktor persekutuan paling gedhé saka 6432 lan 132 ditambah 11?",
+        "answer": ""
+    },
+    "41": {
+        "content": "Siji segi wolu beraturan nduweni keliling sing padha karo segi enem beraturan sing ditunjukna ing kene sing dawa sisine 16 cm. Pira dawa saben sisi saka segi wolu kuwi? [asy]size(80); pair A = dir(120); pair B=dir(60); pair M=(A+B)/2; draw(dir(360)--B--A--dir(180)--dir(240)--dir(300)--cycle); label(\"16 cm\", M, N);[/asy]",
+        "answer": ""
+    },
+    "42": {
+        "content": "Koordinat jajar genjang yaiku (5, 3), (6, 8), (7, 4) lan $(x, y)$ lan $x > 7$. Pira nilaie $x + y$?",
+        "answer": ""
+    },
+    "43": {
+        "content": "Solusi saka $-4 < 2(x - 1) < 8$ iku diwenehi ing bentuk $a < x < b$. Temtokna nilai saka $a + b$.",
+        "answer": ""
+    },
+    "44": {
+        "content": "Kanggo $0 \\le x \\le 40$ lan $0 \\le y \\le 50,$ golekana nilai minimum saka\n\\[\\sqrt{x^2 + 400} + \\sqrt{y^2 + 900} + \\sqrt{x^2 + y^2 - 80x - 100y + 4100}.\\]",
+        "answer": ""
+    },
+    "45": {
+        "content": "Bill mlaku $\\frac{1}{2}$ mil menyang kidul, banjur $\\frac{3}{4}$ mil menyang wetan, lan pungkasan $\\frac{1}{2}$ mil maneh menyang kidul. Pira jarake Bill saka titik wiwitane yen ditarik garis lurus? Tulisen wangsulanmu nganggo desimal nganti dua angka sakwise tandha koma.\"",
+        "answer": ""
+    },
+    "46": {
+        "content": "Ing segitiga siku-siku $ABC$ kanthi $\\angle B = 90^\\circ$, kita duwe $\\sin A = 2\\cos A$.  Pira nilai $\\tan A$?",
+        "answer": ""
+    },
+    "47": {
+        "content": "Pira wilangan bulat positif paling cilik $n$ sing saben akare saka $z^4 + z^2 + 1 = 0$ iku akar kapisanan sing pangkate $n$?",
+        "answer": ""
+    },
+    "48": {
+        "content": "Grafik saka $f(x)=\\frac{2x}{x^2-5x-14}$ nduweni asimtot vertikal $x=a$ lan $x=b$, lan asimtot horisontal $y=c$. Golekana $a+b+c$.",
+        "answer": ""
+    },
+    "49": {
+        "content": "Pangkat pira saka 4 sing hasile padha karo 8? Wangsulana nganggo pecahan biasa.",
+        "answer": ""
+    },
+    "50": {
+        "content": "Setengah saka $3x-9$ yaiku $x+37$. Pira nilaie $x$?",
+        "answer": ""
+    },
+    "51": {
+        "content": "Kowe nduweni pitung kantong dhuwit koin emas. Cacahe koin emas saben kantong padha kabeh. Ing sawijining dina, kowe nemokake siji kantong anyar isine 53 koin. Kowe mutusake mbagi maneh kabeh koin sing ana supaya kabeh wolu kantong sing kowe duweni jumlah koin isine padha. Kowe bisa mbagi kabeh koin kasebut kanthi rata, lan kowe uga nyathet yen jumlah koinmu luwih saka 200. Pira jumlah koin paling sithik sing diduweni sadurunge nemokake kantong isi 53 koin kuwi?",
+        "answer": ""
+    },
+    "52": {
+        "content": "Golekana hasil bagine $x^6 - 3$ karo $x + 1.$",
+        "answer": ""
+    },
+    "53": {
+        "content": "Sederhanana: $\\frac{\\sqrt{2.5^2-0.7^2}}{2.7-2.5}$.",
+        "answer": ""
+    },
+    "54": {
+        "content": "Itungen $\\arcsin \\left( -\\frac{1}{2} \\right).$  Wangsulana nganggo radian.",
+        "answer": ""
+    },
+    "55": {
+        "content": "Tulisen $\\frac{3}{20}$ nganggo desimal.",
+        "answer": ""
+    },
+    "56": {
+        "content": "Anggep wae $f$ iku polinomial sing nyukupi \\[(x-1)\\cdot f(x)=3x^4+x^3 - 25x^2 +38x -17.\\]Pira drajate $f$?",
+        "answer": ""
+    },
+    "57": {
+        "content": "Jumlah saka $N$ angka ganjil positif pisanan yaiku 121. Pira nilai $N$?",
+        "answer": ""
+    },
+    "58": {
+        "content": "Riproarin' Ringo lagi ngiket anak sapi liar sing angel diatur. Ringo mutusake kanggo menehi kelonggaran marang anak sapi kuwi kanthi ngitung \\[|(1-i)^8|\\] sadurunge ngejar anak sapi kuwi maneh. Wangsulan apa sing kudune ditemokake Ringo?",
+        "answer": ""
+    },
+    "59": {
+        "content": "Itungen $99^2+99+1$ nganggo pikiranmu.\"",
+        "answer": ""
+    },
+    "60": {
+        "content": "Ing sawijining kelas ana 50 siswa, 28 melu MATHCOUNTS, 21 melu klub sains, lan 6 siswa ora melu loro-lorone. Pira siswa sing melu loro-lorone, yaiku MATHCOUNTS lan klub sains?",
+        "answer": ""
+    },
+    "61": {
+        "content": "Polinomial $x^3 - 3x^2 + 4x - 1$ iku faktor saka $x^9 + px^6 + qx^3 + r.$ Temtokna tripel terurut $(p,q,r).$",
+        "answer": ""
+    },
+    "62": {
+        "content": "Kanggo sawetara angka real $a$ lan $b$, persamaan \\[\n8x^3 + 4ax^2 + 2bx + a = 0\n\\] nduwèni telu akar positif sing béda-béda. Yen jumlah logaritma basis-2 saka akaré yaiku 5, pira nilaie $a$?",
+        "answer": ""
+    },
+    "63": {
+        "content": "Golekana angka real positif paling cilik $C$ ing ngendi\n\\[\n\\left\\| \\begin{pmatrix} 2 & 3 \\\\ 0 & -2 \\end{pmatrix} \\bold{v} \\right\\| \\le C \\|\\bold{v}\\|\n\\]\nkanggo saben vektor rong dimensi $\\bold{v}.$\n\nCatetan, kanggo vektor rong dimensi $\\mathbf{a},$ $\\|\\mathbf{a}\\|$ iku magnitudo saka $\\mathbf{a}.$",
+        "answer": ""
+    },
+    "64": {
+        "content": "Anggep\n\n\\[\nx^8 + 3x^4 - 4 = p_1(x) p_2(x) \\dotsm p_k(x),\n\\]\n\ning ngendi saben polinomial sing ora konstan $p_i(x)$ iku polinomial monik sing duwe koefisien wilangan bulat, lan ora bisa difaktorna maneh nganggo wilangan bulat.  Itungen $p_1(1) + p_2(1) + \\dots + p_k(1).$",
+        "answer": ""
+    },
+    "65": {
+        "content": "Ana konstanta $a$, $b$, $c$, lan $d$ sing ndadekake\n\\[(\\sin x)^7 = a \\sin 7x + b \\sin 5x + c \\sin 3x + d \\sin x\\]\nkanggo kabeh sudut $x$. Golekana nilai $d$.",
+        "answer": ""
+    },
+    "66": {
+        "content": "Pira hasile $1^{(2^{235423523})}$?",
+        "answer": ""
+    },
+    "67": {
+        "content": "Uraina lan sederhanana nganti rampung: \\begin{align*}\nx\\left(x(1+x)+2x\\right)-3(x^2-x+2)\n\\end{align*}",
+        "answer": ""
+    },
+    "68": {
+        "content": "Dawane rong sisi sing saling ngadep berlawanan saka persegi dikurangi $40\\%$ dene dawane rong sisi liyane ditambahi $50\\%$ nganti mbentuk persegi panjang. Piro persen penurunan luas persegi mau?",
+        "answer": ""
+    },
+    "69": {
+        "content": "Kanggo sawenehing nilai $x,$ $0 < x < 180,$\n\\[\\tan 53^\\circ \\tan 81^\\circ \\tan x^\\circ = \\tan 53^\\circ + \\tan 81^\\circ + \\tan x^\\circ.\\]\nGolekana $x.$",
+        "answer": ""
+    },
+    "70": {
+        "content": "Anggep $z$ iku angka kompleks sing nduweni sifat $z^5 = 1$ lan $z \\neq 1.$  Itung\n\\[\nz + \\frac{1}{z} + z^2 + \\frac{1}{z^2}.\n\\]",
+        "answer": ""
+    },
+    "71": {
+        "content": "Itungen $58_9 - 18_9.$ Tulisen wangsulanmu nganggo basis $9.$",
+        "answer": ""
+    },
+    "72": {
+        "content": "Wilangan biner $10101001110_{2}$ padha karo wilangan pira ing basis wolu?",
+        "answer": ""
+    },
+    "73": {
+        "content": "Pira dawae, ing satuan jarak, jari-jari bal sing volume lan luas permukaane, ing siji unit kubik lan siji unit persegi, kuwi nduweni nilai numerik sing podho?",
+        "answer": ""
+    },
+    "74": {
+        "content": "Operasi $\\&$ didefinisina kanggo wilangan bulat positif $a$ lan $b$ kanthi aturan $a \\& b = \\displaystyle\\frac{\\sqrt{a b + a}}{\\sqrt{a b - b}}$. Pira nilaie $9 \\& 2$? Tulisen wangsulanmu ing pecahan umum nganggo bentuk akar paling sederhana.",
+        "answer": ""
+    },
+    "75": {
+        "content": "Sederhanana\n\\[\\frac{\\sec x}{\\sin x} - \\frac{\\sin x}{\\cos x}.\\]",
+        "answer": ""
+    },
+    "76": {
+        "content": "Loro dadu adil sing duwe 6 sisi diuncal bareng. Apa probabilitase yen hasil perkalian loro angka sing metu iku kelipatan 5? Wangsulana nganggo pecahan biasa.",
+        "answer": ""
+    },
+    "77": {
+        "content": "Yen domain fungsi $\\log x^2$ yaiku $x < a$ utawa $x > b$, kanggo sawenehing $a$ lan $b$, Temtokna $a + b$.",
+        "answer": ""
+    },
+    "78": {
+        "content": "Yen $2^8=4^x$, pira nilaie $x$?",
+        "answer": ""
+    },
+    "79": {
+        "content": "Anggep $f(x) = x^3 + 3x^2 + 1.$ Ana wilangan real $a \\neq 0$ lan $b,$ supaya\n\\[\nf(x) - f(a) = (x - a)^2 (x - b).\n\\]\nTulisen pasangan terurut $(a, b).$",
+        "answer": ""
+    },
+    "80": {
+        "content": "Kanggo nilai $x$ pira $2^3\\cdot3^x=72$ iku bener?",
+        "answer": ""
+    },
+    "81": {
+        "content": "Golekana jumlah nilai integer $k$ ing interval tertutup $[-500,500]$ ing ngendi persamaan $\\log(kx)=2\\log(x+2)$ nduwèni persis siji solusi real.",
+        "answer": ""
+    },
+    "82": {
+        "content": "Sepuluh treek bobote padha karo telung squig lan siji goolee. Loro treek lan siji goolee bobote padha karo siji squig. Jumlah treek pira sing gabungan bobote padha karo siji squig?",
+        "answer": ""
+    },
+    "83": {
+        "content": "Titik $A$ posisine ana ing antarane njero lan tepine bangun persegi sing duwe pojok-pojok berlawanan ing $(0,0)$ lan $(2,2)$. Titik $B$ posisine ana ing antarane njero lan tepine bangun persegi sing duwe pojok-pojok berlawanan ing $(4,2)$ lan $(5,3)$. Pira nilai gradien paling gedhe saka garis sing ngliwati titik $A$ lan $B$? Tulisen wangsulanmu nganggo pecahan biasa.",
+        "answer": ""
+    },
+    "84": {
+        "content": "Golekana $x$ ing persamaan iki: $3^{2x} + 19 = 10^x$.",
+        "answer": ""
+    },
+    "85": {
+        "content": "Hasil perkalian $3t^2+5t+a$ lan $4t^2+bt-2$ yaiku $12t^4+26t^3-8t^2-16t+6$. Pira nilai $a+b$?",
+        "answer": ""
+    },
+    "86": {
+        "content": "Sawijining tangki silinder tegak sing alase bunder lagi diisi banyu nganggo kecepatan $20\\pi$ meter kubik saben jam. Nalika tandon diisi, permukaan banyune munggah papat meter saben jam. Pira jari-jari tandon kasebut, ing meter? Tulisen wangsulanmu nganggo bentuk akar paling sederhana.",
+        "answer": ""
+    },
+    "87": {
+        "content": "Kowe duwe 5 kaos, 6 celana, lan 8 topi. Ana pira kombinasi sandhangan sing bisa digawe yen saben kombinasi sandhangan kudu ana siji kaos, siji celana, lan siji topi?",
+        "answer": ""
+    },
+    "88": {
+        "content": "Golekana nilai paling gedhe saka $x$ sing menuhi persamaan $|5x-1|=x+3$.",
+        "answer": ""
+    },
+    "89": {
+        "content": "Wenehana fungsi \\[ f(x) =\n\\begin{cases}\nax^2 & \\text{yen } x \\geq a,\\\\\nax +2a& \\text{yen } x <a,\n\\end{cases}\n\\]ing ngendi $a$ iku sawijining angka.\n\nPira nilaie $a$ paling gedhe supaya grafik $y=f(x)$ bisa ngiris saben garis horisontal minimal sepisan?",
+        "answer": ""
+    },
+    "90": {
+        "content": "Golekana faktor persekutuan paling gedhe saka $3339$, $2961$, lan $1491$.",
+        "answer": ""
+    },
+    "91": {
+        "content": "Remmy arep mbagi $10$ karo $\\frac{2}{3}$, nanging dheweke ora kelingan carane. Karo angka pira kudune dheweke ngali $10$ supaya entuk wangsulané?",
+        "answer": ""
+    },
+    "92": {
+        "content": "Diwenehi $f(x) = \\frac{\\sqrt{x-1}}{x-2}$, pira nilai wilangan bulat paling cilik kanggo $x$ supaya $f(x)$ nduweni nilai wilangan real?",
+        "answer": ""
+    },
+    "93": {
+        "content": "Sawijining bajak laut nggoleki harta karun sing didhelikake ing pitung pulo. Yen saben pulo nduweni kasempatan $\\frac{1}{5}$ ana harta karune, pira probabilitas yen persis 4 saka pitung pulo kuwi ana harta karune?",
+        "answer": ""
+    },
+    "94": {
+        "content": "Kanggo nilai real $c$ pira lingkaran sing duwé persamaan $x^2 - 10x + y^2 + 6y + c = 0$ bakal nduwèni jari-jari 1?",
+        "answer": ""
+    },
+    "95": {
+        "content": "Ing bangun segi papat quadrilateral $ABCD$, sudut $BAD$ lan sudut $CDA$ dibagi telu kaya ing gambar. Pira ukuran sudut $AFD$ ing derajat?\n\n[asy]\nsize(150);\npair A , B, C, D; A = (0,0); B = (2, 4); C = (7,4); D = (7, -2);\ndraw( (0,0)--(2,4) -- (7,4) -- (7, -2)-- cycle);\nlabel(\"$A$\", A, SW);\nlabel(\"$B$\", B, NW);\nlabel(\"$C$\", C, NE);\nlabel(\"$D$\", D, SE);\npair E, F;\nE = (4.5-.2,1-.2); F = (5, 3);\ndraw(A--E--D); draw(A--F--D);\nlabel(\"$E$\", E, N); label(\"$F$\", F, NW);\ndot(A);dot(B);dot(C);dot(D);dot(E);dot(F);\nlabel(\"$x$\", (1, 1.5), S); label(\"$x$\", (2, 1), S+W); label(\"$x$\", (2, -1), N+N+N+W);\nlabel(\"$y$\", (5.5+.3, .5-.3), S); label(\"$y$\", (6.5+.3, 0)); label(\"$y$\", (5+.5, -1.5+.3));\nlabel(\"$110^{\\circ}$\",(2.5,3.5)); label(\"$100^{\\circ}$\",(6.5-.2,3.5));\n[/asy]",
+        "answer": ""
+    },
+    "96": {
+        "content": "Proyeksi saka $\\begin{pmatrix} 2 \\\\ y \\\\ -5 \\end{pmatrix}$ marang $\\begin{pmatrix} 1 \\\\ -2 \\\\ 1 \\end{pmatrix}$ yaiku\n\\[\\frac{5}{6} \\begin{pmatrix} 1 \\\\ -2 \\\\ 1 \\end{pmatrix}.\\]\nTemtokna nilai $y.$",
+        "answer": ""
+    },
+    "97": {
+        "content": "Golekana akar-akar real saka\n\\[\\frac{( x+ 1)(x - 3)}{5(x + 2)(x - 4)} + \\frac{(x + 3)(x - 5)}{9(x + 4)(x - 6)} - \\frac{2(x + 5)(x - 7)}{13(x + 6)(x - 8)} = \\frac{92}{585}.\\]\nLebokna akar-akar real kasebut, dipisah nganggo koma.",
+        "answer": ""
+    },
+    "98": {
+        "content": "Sawijining pemain seluncur es ngadhep lor nalika dheweke miwiti muter menyang tengen. Dheweke muter 2250 derajat. Ngadhep arah endi (lor, kidul, wetan utawa kulon) dheweke nalika rampung muter?",
+        "answer": ""
+    },
+    "99": {
+        "content": "Sederhanana $(-k + 4) + (-2 + 3k)$.\"",
+        "answer": ""
+    },
+    "100": {
+        "content": "Yen $\\mathbf{a} = \\begin{pmatrix} 1 \\\\ 1 \\\\ 1 \\end{pmatrix},$ banjur Temtokna vektor $\\mathbf{v}$ sing menuhi $\\mathbf{a} \\cdot \\mathbf{v} = 2$ lan $\\mathbf{a} \\times \\mathbf{v} = \\begin{pmatrix} 1 \\\\ -2 \\\\ 1 \\end{pmatrix}.$",
+        "answer": ""
+    },
+    "101": {
+        "content": "Ana segi enem sing digambarake ing njero lingkaran: [asy]\npair pA, pB, pC, pD, pE, pF, pO;\npO = (0, 0);\npA = pO + dir(-10);\npB = pO + dir(60);\npC = pO + dir(130);\npD = pO + dir(170);\npE = pO + dir(-160);\npF = pO + dir(-80);\ndraw(pA--pB--pC--pD--pE--pF--pA);\nlabel(\"$105^\\circ$\", pF, N * 2);\nlabel(\"$110^\\circ$\", pB, SW * 1.5);\nlabel(\"$\\alpha$\", pD, E);\ndraw(circle(pO, 1));\n[/asy] Piro ukuran $\\alpha$ ing derajat?",
+        "answer": ""
+    },
+    "102": {
+        "content": "Persamaan\n\\[\nx^{10}+(13x-1)^{10}=0\\,\n\\]\nduwé 10 akar kompleks $r_1,$ $\\overline{r}_1,$ $r_2,$ $\\overline{r}_2,$ $r_3,$ $\\overline{r}_3,$ $r_4,$ $\\overline{r}_4,$ $r_5,$ $\\overline{r}_5,$ ing ngendi garis bar nuduhaké konjugasi kompleks. Temtokna nilai saka\n\\[\n\\frac 1{r_1\\overline{r}_1}+\\frac 1{r_2\\overline{r}_2}+\\frac 1{r_3\\overline{r}_3}+\\frac 1{r_4\\overline{r}_4}+\\frac 1{r_5\\overline{r}_5}.\n\\]",
+        "answer": ""
+    },
+    "103": {
+        "content": "Faktorke soal matematika $ab+5b+2a+10$.",
+        "answer": ""
+    },
+    "104": {
+        "content": "Anggep $\\lambda$ iku konstanta, $0 \\le \\lambda \\le 4,$ lan anggep $f : [0,1] \\to [0,1]$ didefinisina nganggo\n\\[f(x) = \\lambda x(1 - x).\\]\nGolekana nilai-nilaine $\\lambda,$ $0 \\le \\lambda \\le 4,$ sing ana $x \\in [0,1]$ saengga $f(x) \\neq x$ nanging $f(f(x)) = x.$\"",
+        "answer": ""
+    },
+    "105": {
+        "content": "Grafik $x^2 + y^2 + 6x - 24y + 72 = 0$ lan $x^2 - y^2 + 6x + 16y - 46 = 0$ podo ketemu ing papat titik potong. Itungen jumlah jarak saka papat titik potong iki menyang titik $(-3,2).$",
+        "answer": ""
+    },
+    "106": {
+        "content": "Kanggo wolung daerah sing didaftar ing ngisor iki, pira median jumlah siswa ing $2005?$\n\n\\begin{tabular}[t]{|l|c|c|c|c|c|}\n\\multicolumn{6}{c}{\\textbf{Jumlah Siswa saben Kabupaten}}\\\\\\hline\n\\textbf{KABUPATEN}&\\textbf{$2001$}&\\textbf{$2002$}&\\textbf{$2003$}&\\textbf{$2004$}&\\textbf{$2005$}\\\\\\hline\nAiken&124&141&130&143&136\\\\\\hline\nBamberg&17&15&15&14&11\\\\\\hline\nBarnwell&25&22&26&28&29\\\\\\hline\nBerkeley&583&557&554&553&524\\\\\\hline\nCalhoun&15&12&10&18&11\\\\\\hline\nCherokee&19&13&18&13&19\\\\\\hline\nChesterfield&46&18&13&22&29\\\\\\hline\nColleton&64&49&52&46&41\\\\\\hline\n\\end{tabular}\"",
+        "answer": ""
+    },
+    "107": {
+        "content": "Ing nilai $y$ pira ana asimtot horisontal kanggo grafik persamaan $y=\\frac{4x^3+2x-4}{3x^3-2x^2+5x-1}$?",
+        "answer": ""
+    },
+    "108": {
+        "content": "Pira cacahe unsur sing ana ing irisan saka himpunan kabeh bilangan prima kurang saka 30 lan himpunan kabeh bilangan ganjil luwih saka nol?",
+        "answer": ""
+    },
+    "109": {
+        "content": "Anggep $F_1$ lan $F_2$ yaiku titik fokus elips $kx^2 + y^2 = 1,$ ing ngendi $k > 1$ iku konstanta. Anggep ana lingkaran sing ngliwati $F_1$ lan $F_2$ lan sing nyinggung elips ing rong titik ing sumbu-$x$. Itung nilai $k.$\"",
+        "answer": ""
+    },
+    "110": {
+        "content": "Golekana ukuran derajat saka sudut positif paling cilik $\\theta$ ing ngendi \n\\[\n\\tan \\theta = \\frac{\\cos 5^\\circ \\cos 20^\\circ + \\cos 35^\\circ \\cos 50^\\circ - \\sin 5^\\circ \\sin 20^\\circ - \\sin 35^\\circ \\sin 50^\\circ}{\\sin 5^\\circ \\cos 20^\\circ - \\sin 35^\\circ \\cos 50^\\circ + \\cos 5^\\circ \\sin 20^\\circ - \\cos 35^\\circ \\sin 50^\\circ}.\n\\]",
+        "answer": ""
+    },
+    "111": {
+        "content": "Ana barisan deret wilangan cacah positif $a_1$, $a_2$, $a_3$, $\\dots$ sing nambah terus lan nduweni sifat yen kanggo saben wilangan cacah positif $k$, sub-barisan $a_{2k-1}$, $a_{2k}$, $a_{2k+1}$ ngabentuk barisan geometri lan sub-barisan $a_{2k}$, $a_{2k+1}$, $a_{2k+2}$ ngabentuk barisan aritmetika. Yen $a_{13} = 2016$, Temtokna $a_1$.",
+        "answer": ""
+    },
+    "112": {
+        "content": "Pak Brennan nduweni 7 siswa lanang lan 4 siswa wadon ing kelas statistike. Ana pira cara sing bisa ditindakake Pak Brennan kanggo milih 3 siswa lanang lan 2 siswa wadon gawe menehi presentasi kelompok sesuk? (Urutan milih siswa lanang lan siswa wadon ora dadi masalah.)",
+        "answer": ""
+    },
+    "113": {
+        "content": "Sederhanana $\\frac{1+\\sqrt{2}}{2+\\sqrt{3}}$. Solusimu bisa diubah dadi bentuk $A(1+\\sqrt{B})-(\\sqrt{C}+\\sqrt{D})$, ing ngendi $A$, $B$, $C$, lan $D$ iku wilangan cacah positif. Pira nilai $A+B+C+D$?",
+        "answer": ""
+    },
+    "114": {
+        "content": "Pira nilaie $(26^2 - 24^2 - 10)^2 - 10^2$?",
+        "answer": ""
+    },
+    "115": {
+        "content": "Temokake hasil perkalian $CD$ saka wilangan bulat $C$ lan $D$ ing ngendi\n\\[\\frac{C}{x-3}+\\frac{D}{x+8}=\\frac{4x-23}{x^2+5x-24}\\]\nkanggo kabeh nilai $x$ real kajaba $-8$ lan $3$.",
+        "answer": ""
+    },
+    "116": {
+        "content": "Temtokna ana pira cara kanggo nyusun huruf-huruf ing tembung ELLIPSE.",
+        "answer": ""
+    },
+    "117": {
+        "content": "Golekana solusi saka $x$: $2^{2x} = 256^\\frac{1}{2}$.\"",
+        "answer": ""
+    },
+    "118": {
+        "content": "Yen $\\sqrt{3x-5}=2$, golekana kabeh nilai $x$ sing mungkin.",
+        "answer": ""
+    },
+    "119": {
+        "content": "Golekana pira cacahe pasangan terurut $(a,b)$ saka bilangan bulat supaya $|a + bi| \\le 5.$",
+        "answer": ""
+    },
+    "120": {
+        "content": "Soal matematika $$1 + 2 + 3 - 4 + 5 + 6$$ iki padha karo 13. Yen kita nambahake tanda kurung ing panggonan-panggonan tartamtu, kita bisa ngganti nilaine. Contone, $1+2+3-(4+5)+6=1+2+3-9+6=6-9+6=3$. Yen mung nambahake tanda kurung (lan ora ngganti urutan penulisan), pira nilai minimal sing mungkin saka soal iki? (Kanggo masalah iki, kita ora bisa ngganti operasi penjumlahan utawa pengurangan dadi perkalian. Contone, $ (1+2+3)(-4)+5+6 $ iku ora dianggep penempatan tanda kurung sing bener.)\n\nWangsulana nganggo siji nilai.",
+        "answer": ""
+    },
+    "121": {
+        "content": "Anggep $f(x)$ iku fungsi ganjil, lan $g(x)$ iku fungsi genap. Apa $f(f(g(f(g(f(x))))))$ iku fungsi genap, fungsi ganjil, utawa dudu loro-lorone?\n\nWangsulana nganggo tembung 'ganjil', 'genap', utawa 'dudu loro-lorone'.",
+        "answer": ""
+    },
+    "122": {
+        "content": "Golekana $x$: $\\frac{x}2 + \\frac{x}3 = 5$",
+        "answer": ""
+    },
+    "123": {
+        "content": "Daniel nyambut gawe ing toko elektronik, lan dheweke ngaku yen popularitas televisi (diukur saka cacahe penjualan) iku proporsional kuwalik karo regane. Yen ana 15 pelanggan tuku televisi sing regane $\\$1500$, miturut teorine Daniel, pira pelanggan sing bakal tuku televisi sing regane $\\$2500$?",
+        "answer": ""
+    },
+    "124": {
+        "content": "Ing diagram iki, $D$ lan $E$ iku titik tengah saka $\\overline{AB}$ lan $\\overline{BC}$.  Golekana luas bangun segi papat quadrilateral $DBEF$. [asy]\nsize(180); defaultpen(linewidth(.7pt)+fontsize(10pt));\npair A, B, C, D, E, F;\nA=(0,6);\nB=(0,0);\nC=(8,0);\nD=(0,3);\nE=(4,0);\nF=(8/3,2);\ndraw(E--A--C--D);\ndraw((-1,0)--(10,0), EndArrow);\ndraw((0,-1)--(0,8), EndArrow);\nlabel(\"$A(0,6)$\", A, W);\nlabel(\"$B(0,0)$\", B, SW);\nlabel(\"$C(8,0)$\", C, S);\nlabel(\"$D$\", D, W);\nlabel(\"$E$\", E, S);\nlabel(\"$F$\", F, SW);\nlabel(\"$x$\", (10,0), dir(0));\nlabel(\"$y$\", (0,8), dir(90));\n[/asy]",
+        "answer": ""
+    },
+    "125": {
+        "content": "Yen $|x+5|-|3x-6|=0$, golekana nilai paling gedhe saka $x$. Wangsulana nganggo bentuk pecahan tak wajar.",
+        "answer": ""
+    },
+    "126": {
+        "content": "Evaluasi $\\lceil (3.6)^2 \\rceil - ( \\lceil 3.6 \\rceil ) ^2$.",
+        "answer": ""
+    },
+    "127": {
+        "content": "Anggep $F(z)=\\frac{z+i}{z-i}$ kanggo kabeh bilangan kompleks $z\\not= i,$ lan anggep $z_n=F(z_{n-1})$ kanggo kabeh wilangan bulat positif $n.$ Diwenehi $z_0=\\frac 1{137}+i,$ goleka $z_{2002}.$",
+        "answer": ""
+    },
+    "128": {
+        "content": "Ekspresikna $555_{10}$ nganggo basis $5$.\"",
+        "answer": ""
+    },
+    "129": {
+        "content": "Suzanne mlaku papat mil saben telung dina. Pira paling sithik jumlah mil sing bisa dheweke lakoni ing wulan Februari?",
+        "answer": ""
+    },
+    "130": {
+        "content": "Ing segitiga $ABC$, $AB = 17$, $AC = 8$, lan $BC = 15$.  Anggep $D$ iku kaki garis tinggi saka $C$ menyang $AB$.  Golekana luas segitiga $ACD$.\"",
+        "answer": ""
+    },
+    "131": {
+        "content": "Pira integer $n$ sing menuhi $0\\le n<18$ lan $$n\\equiv -11213141\\pmod{18}~?$$\"",
+        "answer": ""
+    },
+    "132": {
+        "content": "Yen $f(x)=ax^4-bx^2+x+5$ lan $f(-3)=2,$ mula pira regane $f(3)$?",
+        "answer": ""
+    },
+    "133": {
+        "content": "Rick lagi mikir salah siji faktor positif saka $14$ lan Steve lagi mikir salah siji faktor positif saka $42$. Yen Rick lan Steve mikir angka sing padha, ana pira kemungkinan angka sing bisa dipikirake?",
+        "answer": ""
+    },
+    "134": {
+        "content": "Ing sawijining segi papat cembung, ukuran sudut paling gedhé iku kaping pindho saka ukuran sudut paling cilik, lan loro sudut liyané padha-padha sudut siku-siku. Pira drajat ukuran sudut paling gedhé kuwi?",
+        "answer": ""
+    },
+    "135": {
+        "content": "Anggep $F_1 = (10,2)$ lan $F_2 = (-16,2).$  Banjur, himpunan titik $P$ supaya\n\\[\n|PF_1 - PF_2| = 24\n\\]\nmbentuk hiperbola. Persamaan hiperbola iki bisa ditulis kaya ngene:\n\\[\n\\frac{(x - h)^2}{a^2} - \\frac{(y - k)^2}{b^2} = 1.\n\\]\nGolekana $h + k + a + b.$\"",
+        "answer": ""
+    },
+    "136": {
+        "content": "Pira cacahe angka nol ing $42!$ (42 faktorial)?  (Elinga: Angka $n!$ iku hasil perkalian wilangan bulat saka 1 nganti $n$. Contone, $5! = 5 \\cdot 4 \\cdot 3 \\cdot 2 \\cdot 1 = 120$.)",
+        "answer": ""
+    },
+    "137": {
+        "content": "Anggep $(a_1, a_2, \\dots, a_n)$ iku barisan angka real positif, supaya\n\\[\\sum_{i = 1}^n a_i = 96, \\quad \\sum_{i = 1}^n a_i^2 = 144, \\quad \\sum_{i = 1}^n a_i^3 = 216.\\]\nGolekana jumlah kabeh kemungkinan nilai $n.$",
+        "answer": ""
+    },
+    "138": {
+        "content": "Uraina hasil bagi $413_5 \\div 2_5$ ing basis 5.\"",
+        "answer": ""
+    },
+    "139": {
+        "content": "Bob lan Alice saben-saben nduweni tas sing isine siji bal saben warna biru, ijo, oranye, abang, lan ungu. Alice milih acak siji bal saka tasé banjur dilebokaké ing tasé Bob. Sabanjuré, Bob milih acak siji bal saka tasé banjur dilebokaké ing tasé Alice. Apa probabilitasé yèn sawisé proses iki isi loro tas kuwi padha?",
+        "answer": ""
+    },
+    "140": {
+        "content": "Golekana nilai maksimum saka\n\\[\nf(x,y) = x \\sqrt{1 - y^2} + y \\sqrt{1 - x^2},\n\\]\ning ngendi $-1 \\le x,$ $y \\le 1.$",
+        "answer": ""
+    },
+    "141": {
+        "content": "Anggep $n$ iku wilangan cacah positif.  Pira nilai paling gedhé sing paling mungkin saka $\\gcd(n + 7, 2n + 1)$?",
+        "answer": ""
+    },
+    "142": {
+        "content": "Zach nduweni telung tas lan akeh potlot sing arep dilebokake ing tas-tas kuwi. Dheweke diwenehi tugas kudu nglebokna cacahe potlot sing paling akeh ing saben tas, nanging jumlah potlot ing saben tas kudu padha. Pira cacahe potlot paling akeh sing isih bisa dheweke sisakna?",
+        "answer": ""
+    },
+    "143": {
+        "content": "Komite Senat isine 5 wong Demokrat, 5 wong Republik, lan 1 wong Independen. Ana pira cara supaya kabeh anggota komite kuwi bisa lungguh ngubengi meja bundar yen anggota saben partai kudu lungguh jejeran? (Rong aturan lungguh dianggep padha yen mung beda rotasine wae.)\"",
+        "answer": ""
+    },
+    "144": {
+        "content": "Titik $O,$ $A,$ lan $B$ nduweni syarat $\\overrightarrow{OA} = \\begin{pmatrix} 1 \\\\ 2 \\\\ 3 \\end{pmatrix}$ lan $\\overrightarrow{OB} = \\begin{pmatrix} -3 \\\\ -2 \\\\ 1 \\end{pmatrix}.$  Temtokna luas segitiga $OAB.$",
+        "answer": ""
+    },
+    "145": {
+        "content": "Sawijining kurva diparameterake dening\n\\[(x,y) = (t^3 + 7, -3t^2 - 6t - 5).\\]\nGolekana titik sing diliwati kurva nalika $t = 2.$",
+        "answer": ""
+    },
+    "146": {
+        "content": "Anggep $z$ iku sawijining nomer kompleks sing nduweni syarat\n\\[z + \\frac{1}{z} = \\frac{1 + \\sqrt{5}}{2}.\\]\nGolekana\n\\[z^{85} + \\frac{1}{z^{85}}.\\]",
+        "answer": ""
+    },
+    "147": {
+        "content": "Sederhanana iki:$$\\frac{3}{\\sqrt{27}}$$",
+        "answer": ""
+    },
+    "148": {
+        "content": "Anggep $x,$ $y,$ lan $z$ iku wilangan real positif sing nduweni syarat $xyz = 2.$  Golekana nilai minimum saka\n\\[\nx^4 + 4y^2 + 4z^4.\n\\]",
+        "answer": ""
+    },
+    "149": {
+        "content": "Tulisna solusi gawe $x$ nganggo persamaan iki : \\[ \\ \\frac{2}{3} = \\frac{4}{x-5}.\\]",
+        "answer": ""
+    },
+    "150": {
+        "content": "Yen umuré Rosa dibagi 2, 3, 4, utawa 6, sisané 1. Yen umuré dibagi 7, sisané 0. Umuré Rosa kurang saka 75 taun. Pira umuré Rosa?",
+        "answer": ""
+    },
+    "151": {
+        "content": "Kanggo saben bilangan bulat positif $n$, diarani $\\text{mod}_5 (n)$ yaiku nilai sisa sing diduweni nalika $n$ dibagi 5. Definisina fungsi $f: \\{0,1,2,3,\\dots\\} \\times \\{0,1,2,3,4\\} \\to \\{0,1,2,3,4\\}$ rekursif kaya ing ngisor iki:\n\n\\[\nf(i,j) = \\begin{cases}\n\\text{mod}_5 (j+1) & \\text{yen } i = 0 \\text{ lan } 0 \\le j \\le 4 \\text{,}\\\\\nf(i-1,1) & \\text{yen } i \\ge 1 \\text{ lan } j = 0 \\text{, lan} \\\\\nf(i-1, f(i,j-1)) & \\text{yen } i \\ge 1 \\text{ lan } 1 \\le j \\le 4.\n\\end{cases}\n\\]\nPira nilai $f(2015,2)$?",
+        "answer": ""
+    },
+    "152": {
+        "content": "Anggep $x_1,$ $x_2,$ $x_3,$ $y_1,$ $y_2,$ lan $y_3$ iku bilangan nyata sing nyukupi\n\\begin{align*}\n(x_1 - x_2)^2 + (y_1 - y_2)^2 &= 9, \\\\\n(x_1 - x_3)^2 + (y_1 - y_3)^2 &= 16, \\\\\n(x_2 - x_3)^2 + (y_2 - y_3)^2 &= 25.\n\\end{align*}\nGolekana nilai saka $\\begin{vmatrix} x_1 & y_1 & 1 \\\\ x_2 & y_2 & 1 \\\\ x_3 & y_3 & 1 \\end{vmatrix}^2.$",
+        "answer": ""
+    },
+    "153": {
+        "content": "Garis $AD$, $BE$, lan $CF$ iku median saka segitiga $ABC$ sing padha ketemu ing centroid $G$.  Garis sing liwat $G$ sejajar karo $BC$ motong $AB$ lan $AC$ ing titik $M$ lan $N$.  Yen luas segitiga $ABC$ yaiku 144, temokna luas segitiga $ENG$.",
+        "answer": ""
+    },
+    "154": {
+        "content": "Himpunan telung titik dipilih acak saka kisi grid sing dituduhake ing gambar. Saben pasangan himpunan telung titik nduweni peluang kepilih sing padha. Pira probabilitas titik-titik kasebut ana ing siji garis lurus sing padha?\n\n[asy]\nsize(50);\nfor (int i=0; i<3; ++i) {\nfor (int j=0; j<3; ++j) {\ndot((i,j));};}\n[/asy]",
+        "answer": ""
+    },
+    "155": {
+        "content": "Ana tokek ing sawijining kamar sing dawaé 12 kaki, ambané 10 kaki, lan dhuwuré 8 kaki. Tokek kuwi saiki ana ing tembok sisih samping ($10^{\\prime}$ kali $8^{\\prime}$), jarake siji kaki saka langit-langit lan siji kaki saka tembok mburi ($12^{\\prime}$ kali $8^{\\prime}$). Tokek weruh laler ana ing tembok sisih ngelawané, jarake siji kaki saka lantai lan siji kaki saka tembok ngarep. Pira dawane dalan paling cedhak sing bisa ditempuh tokek kanggo nekani laler, anggepen gekko ora mlumpat lan mung bisa mlaku liwat langit-langit lan tembok-tembok? Wangsulana nganggo bentuk akar paling sederhana.",
+        "answer": ""
+    },
+    "156": {
+        "content": "Siji titik $(x,y)$ dipilih acak kanthi $0 \\le x \\le 8$ lan $0 \\le y \\le 4$. Pira probabilitase yen $x+y \\le 4$? Wangsulana nganggo bentuk pecahan biasa.",
+        "answer": ""
+    },
+    "157": {
+        "content": "Ana rong pelari, $A$ lan $B,$ miwiti mlayu saka titik $O$ ing trek lurus, lan miwiti mlayu menyang arah sing padha. Pelari $B$ mlayu kaping telu luwih cepet tinimbang pelari $A.$ Ana wong sing ngamati ing titik $P$ supaya $\\overline{OP}$ tegak lurus karo trek. Golekana nilai maksimum saka $\\angle APB,$ ing derajat.\n\n[asy]\nunitsize(2 cm);\n\npair A, B, O, P;\n\nA = (0.4,0);\nB = (1.2,0);\nO = (0,0);\nP = (0,1);\n\ndraw((-0.5,0)--(2,0));\ndraw(O--P);\ndraw(P--A);\ndraw(P--B);\n\nlabel(\"$A$\", A, S);\nlabel(\"$B$\", B, S);\nlabel(\"$O$\", O, S);\nlabel(\"$P$\", P, N);\n[/asy]",
+        "answer": ""
+    },
+    "158": {
+        "content": "Itungen $a+b+c,$ yen $a,$ $b,$ lan $c$ iku akar-akar saka \\[\\frac{1}{x} + 5x^2 = 6x - 24.\\]",
+        "answer": ""
+    },
+    "159": {
+        "content": "Pira jumlah kabeh kelipatan 7 sing ana ing antarane 100 lan 200?",
+        "answer": ""
+    },
+    "160": {
+        "content": "Persamaan kuadrat $x^2+(2.6)x+3.6$ bisa ditulis dadi $(x+b)^2+c$, ing ngendi $b$ lan $c$ iku konstanta. Pira nilai $b+c$ (ing desimal)?",
+        "answer": ""
+    },
+    "161": {
+        "content": "Hasil perkalian saka rong bilangan bulat positif genap berurutan yaiku 288. Pira bilangan sing luwih gedhe saka rong bilangan kuwi?\"",
+        "answer": ""
+    },
+    "162": {
+        "content": "Evaluasi $\\log_264$.",
+        "answer": ""
+    },
+    "163": {
+        "content": "Pira probabilitase yèn ana siji wilangan bulat sing dipilih acak saka himpunan $$\\{1,2,3,\\ldots,100\\}$$ iku bisa dibagi 2 lan ora bisa dibagi 3? Wangsulana nganggo pecahan biasa.",
+        "answer": ""
+    },
+    "164": {
+        "content": "Yen $-6\\leq a \\leq -2$ lan $3 \\leq b \\leq 5$, pira nilai paling gedhe saka $\\displaystyle\\left(a+\\frac{1}{b}\\right)\\left(\\frac{1}{b}-a\\right) $? Wangsulana nganggo bentuk pecahan biasa.",
+        "answer": ""
+    },
+    "165": {
+        "content": "Sederhanana $\\tan 100^\\circ + 4 \\sin 100^\\circ.$\"",
+        "answer": ""
+    },
+    "166": {
+        "content": "Ana lemari buku disusun saka 3 rak isine total 24 buku. Rak paling ndhuwur diisi 8 buku misteri. Rak tengah diisi 10 buku matematika. Rak paling ngisor diisi 6 buku sains. Saiki, rong buku dijupuk saka saben rak. Pira pecahan buku-buku sing isih ana ing telung rak kuwi sing kalebu kategori buku matematika? Tulisen wangsulanmu nganggo pecahan biasa.",
+        "answer": ""
+    },
+    "167": {
+        "content": "Sak persegi lan sak heptagon beraturan ana ing siji bidang sing padha lan bareng nuduhake siji sisi sing padha $\\overline{AD}$, kaya sing digambarake. Pira ukuran sudut $BAC$ ing derajat? Wangsulana nganggo pecahan biasa.\n\n[asy]\nfor(int i=0; i <=7; ++i) {\ndraw(dir(360*i/7+90)--dir(360*(i+1)/7+90));\n}\npair A = dir(360*3/7+90);\npair F = dir(360*4/7+90);\npair C = A+dir(90)*(F-A);\npair D = C+F-A;\npair B = dir(360*2/7+90);\n\ndraw(A--C--D--F);\n\nlabel(\"$A$\",A,S);\nlabel(\"$B$\",B,W);\nlabel(\"$C$\",C,SE);\nlabel(\"$D$\",F,S);\n\n[/asy]",
+        "answer": ""
+    },
+    "168": {
+        "content": "Volume sawijining kerucut diwenehi saka rumus $V = \\frac{1}{3}Bh$, ing ngendi $B$ iku luas alas lan $h$ iku dhuwure. Luas alas kerucut yaiku 30 unit persegi, lan dhuwure 6,5 unit. Pira volume kerucut kasebut ing satuan kubik?",
+        "answer": ""
+    },
+    "169": {
+        "content": "Ana totalé 70 persegi saka telung ukuran bedo-bedo sing titik sudute iku titik-titik ing kisi persegi panjang $3\\times n$ iki. Pira nilai $n$?\n\n[asy]\n\nunitsize(0.4 inch);\n\ndot((0,0),linewidth(9bp));\ndot((1,0),linewidth(9bp));\ndot((2,0),linewidth(9bp));\ndot((0,1),linewidth(9bp));\ndot((0,2),linewidth(9bp));\ndot((1,1),linewidth(9bp));\ndot((2,1),linewidth(9bp));\ndot((1,2),linewidth(9bp));\ndot((2,2),linewidth(9bp));\n\nfilldraw((2.95,-0.05)--(3.05,-0.05)--(3.05,0.05)--(2.95,0.05)--cycle,black);\nfilldraw((2.45,-0.05)--(2.55,-0.05)--(2.55,0.05)--(2.45,0.05)--cycle,black);\nfilldraw((3.45,-0.05)--(3.55,-0.05)--(3.55,0.05)--(3.45,0.05)--cycle,black);\n\nfilldraw((2.95,0.95)--(3.05,0.95)--(3.05,1.05)--(2.95,1.05)--cycle,black);\nfilldraw((2.45,0.95)--(2.55,0.95)--(2.55,1.05)--(2.45,1.05)--cycle,black);\nfilldraw((3.45,0.95)--(3.55,0.95)--(3.55,1.05)--(3.45,1.05)--cycle,black);\n\nfilldraw((2.95,1.95)--(3.05,1.95)--(3.05,2.05)--(2.95,2.05)--cycle,black);\nfilldraw((2.45,1.95)--(2.55,1.95)--(2.55,2.05)--(2.45,2.05)--cycle,black);\nfilldraw((3.45,1.95)--(3.55,1.95)--(3.55,2.05)--(3.45,2.05)--cycle,black);\n\ndot((4,0),linewidth(9bp));\ndot((5,0),linewidth(9bp));\ndot((4,1),linewidth(9bp));\ndot((5,1),linewidth(9bp));\ndot((4,2),linewidth(9bp));\ndot((5,2),linewidth(9bp));\n\n[/asy]",
+        "answer": ""
+    },
+    "170": {
+        "content": "Pira cacahe unit persegi ing segitiga sing sisi-sisine dawane 5, 5, lan 6 unit?",
+        "answer": ""
+    },
+    "171": {
+        "content": "Golekana hasile perkalian saka $y$-koordinat saka kabeh solusi sing beda $(x,y)$ kanggo rong persamaan $y=x^2-8$ lan $y^2=-5x+44$.",
+        "answer": ""
+    },
+    "172": {
+        "content": "Louis lan Jack lagi bebarengan mangan pie. Louis mangan $\\frac{1}{5}$ saka pie, lan Jack mangan $\\frac{2}{3}$ saka pie. Pira bagian pie sing dipangan Louis lan Jack bareng-bareng?",
+        "answer": ""
+    },
+    "173": {
+        "content": "Yen suku kaping papat saka barisan aritmetika iku $200$ lan suku kaping wolu iku $500$, pira suku kaping enem?",
+        "answer": ""
+    },
+    "174": {
+        "content": "Pertimbangna deret geometri $4+\\frac{12}{a}+\\frac{36}{a^2}+\\cdots$. Yen jumlah derete iku dadi kuadrat sempurna, pira nilai paling cilik sing mungkin saka $a$ yen $a$ iku wilangan bulat positif?",
+        "answer": ""
+    },
+    "175": {
+        "content": "Ana pira titik potong ing sumbu $y$ ing grafik parabola $x = y^2 - 4y - 1$?\"",
+        "answer": ""
+    },
+    "176": {
+        "content": "Yen $m$ lan $n$ iku wilangan bulat supaya $3m + 4n = 100$, pira nilai paling cilik saka $\\left| m - n \\right|$ ?",
+        "answer": ""
+    },
+    "177": {
+        "content": "Konversina $\\frac{21}{2^2 \\cdot 5^7}$ dadi desimal pungkasan (terminating decimal).",
+        "answer": ""
+    },
+    "178": {
+        "content": "Ing diagram, ana papat lingkaran jari-jarine 1 sing pusaté $P$, $Q$, $R$, lan $S$ padha saling sesinggungan lan uga nyinggung sisi-sisi $\\triangle ABC$, kaya ing gambar. [asy]\nsize(200);\npair A, B, C, P, Q, R, S;\nR=(0,0);\nQ=(-2,0);\nS=(2,0);\nP=(1,1.732);\nB=(-5.73,-1);\nC=(3.732,-1);\nA=(1.366,3.098);\ndraw(A--B--C--A);\ndraw(circle(P, 1));\ndraw(circle(Q, 1));\ndraw(circle(R, 1));\ndraw(circle(S, 1));\nlabel(\"A\", A, N);\nlabel(\"B\", B, SW);\nlabel(\"C\", C, SE);\ndot(P);\ndot(Q);\ndot(R);\ndot(S);\nlabel(\"P\", P, N);\nlabel(\"Q\", Q, SW);\nlabel(\"R\", R, SW);\nlabel(\"S\", S, SE);\n[/asy]\n\n\nPira ukuran sudut terkecil ing segitiga $PQS$?\"",
+        "answer": ""
+    },
+    "179": {
+        "content": "Pira akar kuadrat positif saka hasil perkalian $10 \\times 15 \\times 24$?",
+        "answer": ""
+    },
+    "180": {
+        "content": "Golekana persamaan bidang sing nglewati titik-titik $(0,-1,-1),$ $(-4,4,4),$ lan $(4,5,1).$ Wangsulana nganggo bentuk\n\\[\nAx + By + Cz + D = 0,\n\\]\ning ngendi $A,$ $B,$ $C,$ $D$ iku bilangan bulat kanthi syarat $A > 0$ lan $\\gcd(|A|,|B|,|C|,|D|) = 1.$",
+        "answer": ""
+    },
+    "181": {
+        "content": "Ana pira wilangan bulat rong digit positif sing dadi faktor saka 100 lan 150?",
+        "answer": ""
+    },
+    "182": {
+        "content": "Sederhanakake lan tulisen hasilé nganggo penyebut rasional: $$\\sqrt{\\sqrt[3]{\\sqrt{\\frac{1}{729}}}}$$",
+        "answer": ""
+    },
+    "183": {
+        "content": "Loro per telu siswa ing Baker Middle School melu pelajaran musik. Ana 834 siswa sing melu musik. Pira jumlah siswa kabeh ing Baker Middle School?",
+        "answer": ""
+    },
+    "184": {
+        "content": "Yen kita nulis $\\sqrt{2}+\\frac{1}{\\sqrt{2}} + \\sqrt{3} + \\frac{1}{\\sqrt{3}}$ ing bentuk $\\dfrac{a\\sqrt{2} + b\\sqrt{3}}{c}$ kanthi $a$, $b$, lan $c$ iku bilangan bulat positif lan $c$ minangka paling cilik, pira nilai $a+b+c$?",
+        "answer": ""
+    },
+    "185": {
+        "content": "Anggep $a,$ $b,$ lan $c$ iku bilangan real positif. Golekana sakumpulan kabeh nilai sing mungkin saka\n\\[\n\\frac{c}{a} + \\frac{a}{b + c} + \\frac{b}{c}.\n\\]",
+        "answer": ""
+    },
+    "186": {
+        "content": "Golekana $k$, yen ${(3^k)}^6=3^6$.",
+        "answer": ""
+    },
+    "187": {
+        "content": "Ana pira bilangan bulat positif $n>1$ sing bener yen $2^{24}$ iku sawijining pangkat $n^{\\text{th}}$ sing sampurna?",
+        "answer": ""
+    },
+    "188": {
+        "content": "Hillary nduweni sewelas koin, kabeh koin iku dimes lan nickels. Sakabehe, koin-koin kuwi nilaie 75 sen. Pira jumlah nickel sing diduweni Hillary?\"",
+        "answer": ""
+    },
+    "189": {
+        "content": "Golekana nilai $x$ paling gedhe ing ngendi grafik $f(x)=e^{3x^2-|\\lfloor x \\rfloor|!}+\\binom{22+735235|\\lfloor x \\rfloor |}{2356}+\\phi(|\\lfloor x \\rfloor|+1)+72x^4+3x^3-6x^2+2x+1$ lan $g(x)=e^{3x^2-|\\lfloor x \\rfloor|!}+\\binom{22+735235|\\lfloor x \\rfloor |}{2356}+\\phi(|\\lfloor x \\rfloor|+1)+72x^4+4x^3-11x^2-6x+13$ padha, ing ngendi $\\lfloor x \\rfloor$ iku fungsi lantai saka $x$, lan $\\phi(n)$ iku jumlah saka bilangan positif $\\leq n$ lan prima relatif marang $n$.\"",
+        "answer": ""
+    },
+    "190": {
+        "content": "Ana limang titik $A$, $B$, $C$, $D$, lan $O$ ing bidang sing rata. $A$ ana ing sisih loré $O$, $B$ ana ing sisih kuloné $O$, $C$ ana ing sisih kidulé $O$, lan $D$ ana ing sisih wétané $O$. Jarak antara $C$ lan $D$ yaiku 140 m. Siji balon udara panas diposisina ing udara ing titik $H$ persis ing ndhuwuré $O$. Balon kasebut ditaleni nganggo papat tali yaiku $HA$, $HB$, $HC$, lan $HD$. Tali $HC$ dawaé 150 m lan tali $HD$ dawaé 130 m. [asy]\nsize(250);\npair A, B, C, D, O, H, W, X, Y, Z;\nO=(0,0);\nA=(1,1);\nD=(1.5,-.3);\nB=(-1.5,.3);\nC=(-1,-1);\nH=(0,2.5);\nW=(5/3)*(A+D);\nX=(5/3)*(A+B);\nY=(-1)*(W);\nZ=(-1)*(X);\ndraw(W--X--Y--Z--W);\ndraw(A--C);\ndraw(B--D);\ndraw(O--H, linewidth(1));\ndraw(A--H, dashed);\ndraw(B--H, dashed);\ndraw(C--H, dashed);\ndraw(D--H, dashed);\ndot(A);\ndot(B);\ndot(C);\ndot(D);\ndot(O);\ndot(H);\nlabel(\"A\", A, NE);\nlabel(\"B\", B, SW);\nlabel(\"C\", C, SE);\nlabel(\"D\", D, NE);\nlabel(\"O\", O, SE);\nlabel(\"H\", H, NW);\n[/asy]\n\nKanggo ngurangi total dawane tali sing digunakake, tali $HC$ lan tali $HD$ arep diganti nganggo siji tali $HP$ ing ngendi $P$ iku titik ing garis lurus antara $C$ lan $D$. (Balon tetep ana ing posisi $H$ ing ndhuwur $O$ kaya sing wis dijelasaké sadurungé.) Temtokna dawa tali paling akèh sing bisa diirit.",
+        "answer": ""
+    },
+    "191": {
+        "content": "Paul lan Jesse saben-saben milih acak siji angka saka enem wilangan prima kapisanan. Pira probabilitas yen jumlah angka sing dipilih Paul lan Jesse iku genap?",
+        "answer": ""
+    },
+    "192": {
+        "content": "Titik $(a, b)$ ana ing garis sing persamaane $3x + 2y = 12.$ Yen $a = 4$, pira nilaie $b$?",
+        "answer": ""
+    },
+    "193": {
+        "content": "Ing $\\triangle PQR$, diwenehi $PQ = QR = 34$ lan $PR = 32$. Golekana nilai median $\\overline{QM}$.",
+        "answer": ""
+    },
+    "194": {
+        "content": "Sawijining polinomial nduweni koefisien wilangan bulat sing mbentuk\n\\[2x^4 + a_3 x^3 + a_2 x^2 + a_1 x + 1 = 0.\\]\nTemtokna cacahe akar rasional sing bisa beda-beda saka polinomial iki.",
+        "answer": ""
+    },
+    "195": {
+        "content": "Golekana nilai maksimum saka\n\\[\n\\frac{x - y}{x^4 + y^4 + 6}\n\\]\nkanggo kabeh $x$ lan $y$ wilangan real.",
+        "answer": ""
+    },
+    "196": {
+        "content": "Anggep $p(x)$ dadi polinomial monik pangkat 4. Telu akare $p(x)$ yaiku 1, 2, lan 3. Golekana $p(0) + p(4).$",
+        "answer": ""
+    },
+    "197": {
+        "content": "$441+2(21)(19)+361=x$. Golekana solusine $x$.\"",
+        "answer": ""
+    },
+    "198": {
+        "content": "Yen $x^3$ iku faktor positif saka $10!,$ ana pira wilangan wutuh $x$ sing mungkin?  (Catetan: Kanggo wilangan wutuh positif $n$, ekspresi $n!$ tegese hasil perkalian saka bilangan 1 nganti (kalebu) $n$.)",
+        "answer": ""
+    },
+    "199": {
+        "content": "Ana pira cara 6 bocah wadon lan 2 bocah lanang bisa lungguh jejer sebaris yen 2 bocah lanang mau kudu lungguh sakjejeran?",
+        "answer": ""
+    },
+    "200": {
+        "content": "Rata-rata saka 7, 2, $x$ lan 10 yaiku 9. Pira nilaie $x$?",
+        "answer": ""
+    },
+    "201": {
+        "content": "Yen 4 daps = 7 yaps, lan 5 yaps = 3 baps, pira daps sing padha karo 42 baps?",
+        "answer": ""
+    },
+    "202": {
+        "content": "Sak klompok ana $N$ siswa, ing ngendi $N < 50$, lagi kunjungan lapangan. Yen gurune ngelompokke siswa-siswa kuwi dadi klompok isi 8, klompok terakhir isine 5 siswa. Yen gurune ngelompokke dadi klompok isi 6, klompok terakhir isine 3 siswa. Pira jumlah kabeh kemungkinan nilai $N$?",
+        "answer": ""
+    },
+    "203": {
+        "content": "Alice lan Bob lagi dolanan game. Alice miwiti dhisik. Ing gilirane Alice, dheweke nguncalake koin. Yen entuk kepalane koin (gambar), dheweke menang. Yen ora, giliran pindhah menyang Bob. Ing gilirane Bob, dheweke nguncalake koin. Yen entuk ekore koin (angka), dheweke menang. Yen ora, giliran bali menyang Alice. Pira probabilitase Alice menang ing game iki?",
+        "answer": ""
+    },
+    "204": {
+        "content": "Golekana sisane $(5x + 9)^{611} + (x + 5)^{11} + (x - 1)^{11} + 3x^2 + 1$ nalika dibagi nganggo $x + 2.$",
+        "answer": ""
+    },
+    "205": {
+        "content": "Anggepen $a,$ $b,$ $c,$ $d$ iku wilangan kompleks sing unik supaya $|a| = |b| = |c| = |d| = 1$ lan $a + b + c + d = 0.$  Golekana nilai maksimum saka\n\\[\n|(a + b)(a + c)(a + d)(b + c)(b + d)(c + d)|.\n\\]",
+        "answer": ""
+    },
+    "206": {
+        "content": "Anggepen $\\mathbf{A}$ iku matriks sing nduweni sifat\n\\[\\mathbf{A} \\begin{pmatrix} 3 \\\\ 1 \\\\ 0 \\end{pmatrix} = \\begin{pmatrix} 2 \\\\ 4 \\\\ -3 \\end{pmatrix} \\quad \\text{lan} \\quad \\mathbf{A} \\begin{pmatrix} -5 \\\\ 2 \\\\ 2 \\end{pmatrix} = \\begin{pmatrix} 0 \\\\ -5 \\\\ -5 \\end{pmatrix}.\\]\nGolekana $\\mathbf{A} \\begin{pmatrix} -13 \\\\ 3 \\\\ 4 \\end{pmatrix}.$",
+        "answer": ""
+    },
+    "207": {
+        "content": "Sawijining garis diparameterake nganggo\n\\[\n\\begin{pmatrix} x \\\\ y \\end{pmatrix} = \\begin{pmatrix} 8 \\\\ -1 \\end{pmatrix} + t \\begin{pmatrix} 2 \\\\ 3 \\end{pmatrix}.\n\\]\nPersamaan garis kasebut bisa diungkapake nganggo bentuk $y = mx + b.$  Lebokna pasangan terurut $(m,b).$",
+        "answer": ""
+    },
+    "208": {
+        "content": "Mikka arep pesen pizza nganggo rong topping sing beda. Dheweke nduweni 8 pilihan topping sing beda-beda. Ana pira pilihan pizza beda sing bisa dipesen Mikka?",
+        "answer": ""
+    },
+    "209": {
+        "content": "Ana pirang angka saka satus pertamane wilangan bulat positif sing bisa dibagi $3, 4,$ lan $5?$",
+        "answer": ""
+    },
+    "210": {
+        "content": "Nalika bilangan cacah rong digit $``\\text{AB}\"$ dipangkat telu, nilai hasilé yaiku $912,\\!673$. Pira $A + B$?",
+        "answer": ""
+    },
+    "211": {
+        "content": "Ana rolas persegi 1 x 1 sing mbentuk persegi panjang, kaya sing digambarake. Pira total luas daerah sing diarsir? [asy]\nsize(4cm);defaultpen(linewidth(0.75));\n\n// Filled portions\nfill((0, 4)--(0, 0)--(2, 0)--cycle, gray(0.75));\nfill((0, 4)--(3, 4)--(3, 0)--cycle, gray(0.75));\n\n// grid\nint j;\nfor (j = 0; j < 4; ++j) {draw((j, 0)--(j, 4));}\nfor (j = 0; j < 5; ++j) {draw((0, j)--(3, j));}\n\n//diagonals\ndraw((0, 4)--(3, 0)); draw((0, 4)--(2, 0));\n[/asy]",
+        "answer": ""
+    },
+    "212": {
+        "content": "Ekspresikna $5^5\\div5^4-5^3+5^2\\cdot5^1$ dadi wilangan bulat.",
+        "answer": ""
+    },
+    "213": {
+        "content": "Sektasan iki, Frank nglakoni tes kemampuan bakat sing ana satus pitakonan, ing ngendi saben jawaban bener entuk skor $5$ poin, saben jawaban salah entuk skor $-2$ poin, lan saben pitakonan sing ora dijawab entuk skor nol. Frank njawab $80$ pitakonan lan entuk skor $232$ poin. Pira pitakonan sing dijawab bener karo Frank?",
+        "answer": ""
+    },
+    "214": {
+        "content": "Itungen\n\\[\n\\sum_{n = 1}^\\infty \\frac{F_{n + 1}}{F_n F_{n + 2}},\n\\]\ning ngendi $F_n$ iku tegesé angka Fibonacci kaping-$n$, dadi $F_0 = 0$ lan $F_1 = 1.$",
+        "answer": ""
+    },
+    "215": {
+        "content": "Ana 360 wong ing sekolahanku. Ana 15 wong sing njupuk kalkulus, fisika, lan kimia, lan ana 15 wong sing ora njupuk salah siji wae. Ana 180 wong sing njupuk kalkulus. Jumlah murid sing njupuk kimia iku kaping pindho luwih akeh tinimbang sing njupuk fisika. Ana 75 wong sing njupuk kalkulus lan kimia, lan ana 75 wong sing njupuk fisika lan kimia. Mung ana 30 wong sing njupuk fisika lan kalkulus. Pira jumlah murid sing njupuk fisika?",
+        "answer": ""
+    },
+    "216": {
+        "content": "Yen $x^2 - x - 1 = 0$, pira nilaie $x^3 - 2x + 1$?",
+        "answer": ""
+    },
+    "217": {
+        "content": "Ing negeri Ink, sistem dhuwite iku unik. Siji Trinket padha karo 4 Blinket, lan 3 Blinket padha karo 7 Drinket. Yen diitung nganggo Trinket, pira nilai 56 Drinket?",
+        "answer": ""
+    },
+    "218": {
+        "content": "Pira kelipatan positif saka 450 sing paling cilik sing kabèh digit-é mung nol lan siji?",
+        "answer": ""
+    },
+    "219": {
+        "content": "Golekana titik tengah saka garis sing ngubungake $(-5,5)$ lan $(3,7)$. Tulisen wangsulanmu nganggo pasangan terurut, $(x,y)$.",
+        "answer": ""
+    },
+    "220": {
+        "content": "Roda sing digambar mau diputer kaping pindho, supaya nomer-nomer sing dituduhake pointer ditetepake sacara acak (kanthi saben nomer ing roda nduweni kemungkinan sing padha). Rong nomer sing ditemtokake nganggo cara iki dicathet. Nomer kapisan dibagi 4, nemtokake salah siji sisa 1, 2, 3 sing dadi kolom ing papan catur sing diduduhake. Nomer kaping loro dibagi 5, nemtokake salah siji sisa 1, 2, 3, 4 sing dadi baris ing papan catur. Pungkasan, siji bidak catur dideleh ing kothak papan catur pertemuane kolom lan baris kasebut. Pira probabilitase bidak catur kasebut dideleh ing kothak sing diarsir ing papan catur?",
+        "answer": ""
+    },
+    "221": {
+        "content": "Sam lagi nggawa ember isine 2 galon susu menyang omahe saka kandhang, sing jarake 3 mil saka omahe. Nanging, ember kasebut bocor. Saben mil sing dilakoni, isine susu ing ember dadi $\\frac{2}{3}$ saka jumlah susu ing awal mil kasebut. Pira galon susu sing isih ana ing ember nalika Sam tekan omah?",
+        "answer": ""
+    },
+    "222": {
+        "content": "Hasil perkalian wilangan bulat 240 lan $k$ iku sawijining wilangan kubik sempurna. Pira nilai positif paling cilik saka $k$ sing mungkin?",
+        "answer": ""
+    },
+    "223": {
+        "content": "Luas $\\triangle ABC$ yaiku 6 sentimeter persegi. $\\overline{AB}\\|\\overline{DE}$. $BD=4BC$. Pira sentimeter persegi luas $\\triangle CDE$? [asy]\ndraw((-.3,-3)--(.1,1)--(-1,0)--(3,0)--cycle);\nlabel(\"$A$\",(.1,1),N);\nlabel(\"$B$\",(-1,0),W);\nlabel(\"$C$\",(0,0),NE);\nlabel(\"$D$\",(3,0),E);\nlabel(\"$E$\",(-.3,-3),S);\n[/asy]",
+        "answer": ""
+    },
+    "224": {
+        "content": "Pira jumlahé angka-angka ing representasi desimal sing mandheg saka pecahan $\\frac{4321}{5^7\\cdot2^8}$?",
+        "answer": ""
+    },
+    "225": {
+        "content": "Golekana $\\sin 20^\\circ \\sin 40^\\circ \\sin 60^\\circ \\sin 80^\\circ \\sin 100^\\circ \\sin 120^\\circ \\sin 140^\\circ \\sin 160^\\circ.$",
+        "answer": ""
+    },
+    "226": {
+        "content": "Pira nilaie $$\n(3x-2)(4x+1)-(3x-2)4x+1\n$$ nalika $x=4$?\"",
+        "answer": ""
+    },
+    "227": {
+        "content": "Ana pirang cara kanggo ndheleh 5 bal ing 2 kothak yen bal-bale ora bisa dibedakake lan kothak-kothake uga ora bisa dibedakake?",
+        "answer": ""
+    },
+    "228": {
+        "content": "Kanggo konstanta $c,$ ing koordinat silinder $(r,\\theta,z),$ golekana bentuk sing dijelasno ing persamaan\n\\[z = c.\\]\n(A) Garis  \n(B) Lingkaran  \n(C) Bidang  \n(D) Bola  \n(E) Silinder  \n(F) Kerucut  \n\nLebokna huruf saka pilihan sing bener.",
+        "answer": ""
+    },
+    "229": {
+        "content": "Kanggo titik $P,$ anggepen $d_1,$ $d_2,$ lan $d_3$ ngewakili jarak saka $P$ menyang bidang $x - z = 0,$ $x - 2y + z = 0,$ lan $x + y + z = 0.$ Anggep $S$ dadi himpunan titik $P$ sing menuhi\n\\[d_1^2 + d_2^2 + d_3^2 = 36.\\]\nTemtokna volume daerah sing dibatesi karo $S.$",
+        "answer": ""
+    },
+    "230": {
+        "content": "Yann lan Camille lunga menyang restoran. Yen ana 10 menu ing restoran, lan saben wong pesen siji panganan, ana pira kombinasi panganan sing bisa dipesen Yann lan Camille yen dheweke ora gelem pesen panganan sing padha? (Sapa sing pesen panganan apa iku penting—Yann pesen pitik lan Camille pesen iwak iku beda karo Yann pesen iwak lan Camille pesen pitik.)",
+        "answer": ""
+    },
+    "231": {
+        "content": "Diwenehi $a,$ $b,$ $c,$ $d,$ $e$ iku angka real lan padha karo\n\\begin{align*}\na + b + c + d + e &= 8, \\\\\na^2 + b^2 + c^2 + d^2 + e^2 &= 16.\n\\end{align*}\nTemtokna nilai maksimum saka $e.$",
+        "answer": ""
+    },
+    "232": {
+        "content": "Rata-rata umur Amy, Ben, lan Chris yaiku 6. Patang taun kepungkur, umur Chris padha karo umur Amy saiki. Patang taun maneh, umur Ben bakal $\\frac{3}{5}$ saka umur Amy ing wektu kuwi. Pira umur Chris saiki?",
+        "answer": ""
+    },
+    "233": {
+        "content": "Yen $\\omega^{1997} = 1$ lan $\\omega \\neq 1,$ banjur itungen\n\\[\n\\frac{1}{1 + \\omega} + \\frac{1}{1 + \\omega^2} + \\dots + \\frac{1}{1 + \\omega^{1997}}.\n\\]",
+        "answer": ""
+    },
+    "234": {
+        "content": "Yen $\\mathbf{a}$ lan $\\mathbf{b}$ iku vektor-vektor sing nduweni $\\|\\mathbf{a}\\| = 2,$ $\\|\\mathbf{b}\\| = 7,$ lan\n\\[\n\\mathbf{a} \\times \\mathbf{b} = \\begin{pmatrix} 3 \\\\ 2 \\\\ 6 \\end{pmatrix},\n\\]\ntemokake sudut paling cilik antarane $\\mathbf{a}$ lan $\\mathbf{b},$ ing derajat.",
+        "answer": ""
+    },
+    "235": {
+        "content": "Anggep $f$ minangka fungsi sing didefinisina dening $f(x) = x^3 - 49x^2 + 623x - 2015,$ lan paringana $g(x) = f(x + 5).$  Itungen jumlah akar-akare saka $g.$",
+        "answer": ""
+    },
+    "236": {
+        "content": "Itungen: $0.\\overline{7}-0.\\overline{4}+0.\\overline{2}$. Wangsulana nganggo bentuk pecahan biasa.",
+        "answer": ""
+    },
+    "237": {
+        "content": "Itungen\n\\[\n\\frac{1}{\\cos^2 10^\\circ} + \\frac{1}{\\sin^2 20^\\circ} + \\frac{1}{\\sin^2 40^\\circ}.\n\\]",
+        "answer": ""
+    },
+    "238": {
+        "content": "Yen $x$, $y$, lan $z$ iku positif kanthi $xy = 24$, $xz = 48$, lan $yz = 72$, mula golekana $x + y + z.$",
+        "answer": ""
+    },
+    "239": {
+        "content": "Pira nilai real $x$ sing ora ana ing domain\n\n$f(x)=\\frac{1}{|x^2+3x-4|+|x^2+9x+20|}$?",
+        "answer": ""
+    },
+    "240": {
+        "content": "Jajar genjang sing diwatesi dening garis $y=ax+c$, $y=ax+d$, $y=bx+c$, lan $y=bx+d$ nduweni luas 18. Jajar genjang sing diwatesi dening garis $y=ax+c$, $y=ax-d$, $y=bx+c$, lan $y=bx-d$ nduweni luas 72. Yen $a$, $b$, $c$, lan $d$ iku wilangan bulat positif, pira nilai paling cilik saka $a+b+c+d$?",
+        "answer": ""
+    },
+    "241": {
+        "content": "Ing diagram, $PT$ sejajar karo $QR.$ Pira sudut $\\angle PQR$ ing derajat?\n\n[asy]\ndraw((0,0)--(10,0),black+linewidth(1));\ndraw((0,0)--(10,0),MidArrow);\ndraw((10,0)--(20,0),black+linewidth(1));\ndraw((0,0)--(-7,10)--(7,10)--(10,0),black+linewidth(1));\ndraw((-5,10)--(7,10),MidArrow);\nlabel(\"$x^{\\circ}$\",(-6,10),SE);\nlabel(\"$2x^{\\circ}$\",(7,10),SW);\nlabel(\"$128^{\\circ}$\",(10,0),NE);\nlabel(\"$P$\",(-7,10),N);\nlabel(\"$T$\",(7,10),N);\nlabel(\"$R$\",(10,0),S);\nlabel(\"$Q$\",(0,0),S);\n[/asy]",
+        "answer": ""
+    },
+    "242": {
+        "content": "Jarak paling cilik antara titik asal lan titik ing grafik $y=\\frac{1}{2}x^2-9$ bisa diungkapake minangka $a$. Golekana $a^2$.",
+        "answer": ""
+    },
+    "243": {
+        "content": "Ana investasi $\\$24,\\!000$ sing disimpen ing obligasi pemerintah sing bakal menehi bunga $1\\%$ saben rong wulan (tegesé, investasi bakal nambah $1\\%$ saben rong wulan). Ing pungkasan taun kalima, pira total dhuwit dolar ing investasi iki?\n\nTulisen wangsulanmu nganggo wilangan bulat sing paling cedhak.",
+        "answer": ""
+    },
+    "244": {
+        "content": "Siji segitiga nduweni sisi-sisi dawane 1 unit lan 3 unit. Dawa sisi katelu yaiku wilangan bulat. Pira dawane sisi katelu, ing unit jarak?",
+        "answer": ""
+    },
+    "245": {
+        "content": "Pira cacahe sisi ing sawijining poligon cembung yen jumlah kabeh sudut njerone kajaba siji yaiku $1070^{\\circ}$?",
+        "answer": ""
+    },
+    "246": {
+        "content": "Wenehana $f(x) = x^{10}+5x^9-8x^8+7x^7-x^6-12x^5+4x^4-8x^3+12x^2-5x-5$.\n\nTanpa nggunakake pembagian panjang (sing mesthi angel banget!), golekana sisane pembagian nalika $f(x)$ dibagi karo $x^2-1$.",
+        "answer": ""
+    },
+    "247": {
+        "content": "Rolas kekancan padha ketemu kanggo nedha bengi ing Oscar's Overstuffed Oyster House, lan saben wong pesen siji porsi. Total porsine gedhe banget, nganti cukup kanggo 18 wong. Yen padha bareng-bareng mangan, pira porsi kudune dipesen supaya cukup kanggo 12 wong wae?",
+        "answer": ""
+    },
+    "248": {
+        "content": "Anggep $p(x)$ iku polinomial kuadrat sing koefisiene bilangan bulat lan nduweni $4-\\sqrt{11}$ minangka salah siji akare. Itungen nilai $\\frac{p(3)}{p(4)}.$\"",
+        "answer": ""
+    },
+    "249": {
+        "content": "Diwenehi\n\\[\\mathbf{A} = \\begin{pmatrix} 3 & 7 \\\\ -1 & -2 \\end{pmatrix},\\]\nitungen $\\mathbf{A}^{27} + \\mathbf{A}^{31} + \\mathbf{A}^{40}.$",
+        "answer": ""
+    },
+    "250": {
+        "content": "Golekana wilangan bulat $\\textbf{ganjil}$ unik $t$ sing $0<t<23$ lan $t+2$ iku invers saka $t$ modulo $23$.",
+        "answer": ""
+    },
+    "251": {
+        "content": "Yen $a$ iku titik potong $x$, $b$ iku titik potong $y$, lan $m$ iku gradien kemiringan garis ing persamaan $\\frac{x}4 + \\frac{y}{12} = 1$, mula pira regané $a + b + m$?",
+        "answer": ""
+    },
+    "252": {
+        "content": "Ana enem mobil mandheg ing lampu abang, siji-siji. Ing lampu abang kuwi ana telung jalur, siji jalur kanggo belok kiwa, siji jalur kanggo maju terus, lan siji jalur kanggo belok tengen. Ana pirang cara mobil-mobil kuwi bisa baris supaya kabeh telung jalur kuwi keisi?\n\nElinga, yen mobil pisanan belok kiwa lan mobil kapindho maju terus, iki dianggep beda karo mobil pisanan maju terus lan mobil kapindho belok kiwa. Tegese, mobil-mobil kuwi bisa dibedakake siji-sijine, nanging mandheg ing perempatan ing urutan barisan sing wis tetep.",
+        "answer": ""
+    },
+    "253": {
+        "content": "Pira nilai maksimum saka $4(x + 7)(2 - x)$, kanggo kabeh nilai real $x$?",
+        "answer": ""
+    },
+    "254": {
+        "content": "Pira pecahan saka 2 kaki sing padha karo 3 inci? Tulisen wangsulanmu nganggo pecahan biasa.",
+        "answer": ""
+    },
+    "255": {
+        "content": "Pat arep milih enem kue saka nampan sing isine mung kue coklat chip, oatmeal, lan sele kacang. Ing nampan ana minimal jumlahe enem saka saben jenis kue kasebut. Ana pira cara beda kanggo milih kombinasi enem kue kasebut? (Elinga yen kue saka jenis sing padha ora bisa dibedakake.)",
+        "answer": ""
+    },
+    "256": {
+        "content": "Golekana kurva sing didefinisina karo persamaan\n\\[r^2 \\cos 2 \\theta = 4.\\]\n(A) Garis  \n(B) Lingkaran  \n(C) Parabola  \n(D) Elips  \n(E) Hiperbola\n\nLebokna huruf pilihan sing bener.",
+        "answer": ""
+    },
+    "257": {
+        "content": "Sederhanana $\\frac{1}{5}\\cdot \\frac{8}{7}\\div \\frac{12}{20}$.\"",
+        "answer": ""
+    },
+    "258": {
+        "content": "Pira total luas permukaan, ing inci persegi, saka kubus sing volumene $1$ kaki kubik?",
+        "answer": ""
+    },
+    "259": {
+        "content": "Aku duwe kantong sing isine kelereng kuning lan biru. Saiki, rasio kelereng biru karo kelereng kuning yaiku 4:3. Yen aku nambah 5 kelereng biru lan ngurangi 3 kelereng kuning, rasione bakal dadi 7:3. Pira cacahe kelereng biru sing ana ing kantong sadurunge aku nambah maneh?",
+        "answer": ""
+    },
+    "260": {
+        "content": "Itungen hasil perkalian saka angka $5+\\sqrt{3}$ lan konjugat radikalé.",
+        "answer": ""
+    },
+    "261": {
+        "content": "Anggep $A = (1,-11,2),$ $B = (3,-4,1),$ lan $C = (-2,1,-1).$  Itungen $\\angle ABC,$ ing derajat.",
+        "answer": ""
+    },
+    "262": {
+        "content": "Siji segitiga $\\triangle ABC$ kanthi $\\angle A = 14^\\circ$ digambar ing njero lingkaran, ing ngendi $AB$ iku diametere. Pira derajat $\\angle B$?",
+        "answer": ""
+    },
+    "263": {
+        "content": "Yen $10^x - 10 = 9990,$ pira nilai sing padha karo $x$?\"",
+        "answer": ""
+    },
+    "264": {
+        "content": "Ing sawijining poligon beraturan, ukuran sudut njero iku 6,5 kaping ukuran sudut njaba. Pira jumlah sisihe poligon kuwi?",
+        "answer": ""
+    },
+    "265": {
+        "content": "Ing gambar ing ngisor iki, segi papat quadrilateral $CDEG$ iku persegi sing $CD = 3$, lan segi papat $BEFH$ iku persegi panjang. Yen $BE = 5$, pira dawa $BH$? Tulisen wangsulanmu nganggo pecahan campuran. [asy]\nunitsize(5mm);\ndefaultpen(linewidth(.7pt)+fontsize(8pt));\n\npair A=(0,0), B=(3,0), C=(6,0), D=(9,0), Ep=(9,3), G=(6,3);\npair F0=bisectorpoint(B,2*Ep-B), H0=bisectorpoint(Ep,2*B-Ep);\npair H=extension(B,H0,A,G);\npair F=extension(Ep,F0,A,G);\n\ndraw(H--B--Ep--F--A--D--Ep--G--C);\nlabel(\"$A$\",A,S);\nlabel(\"$B$\",B,S);\nlabel(\"$C$\",C,S);\nlabel(\"$D$\",D,S);\nlabel(\"$E$\",Ep,E);\nlabel(\"$F$\",F,N);\nlabel(\"$G$\",G,NW);\nlabel(\"$H$\",H,NW);\n[/asy]",
+        "answer": ""
+    },
+    "266": {
+        "content": "Apa suku ke-2003 saka barisan angka ganjil 1, 3, 5, 7, $\\dots$?",
+        "answer": ""
+    },
+    "267": {
+        "content": "Sawijining angka dipilih acak saka 1 nganti 100.  Pira probabilitase yen angka kuwi minangka kelipatan 3?",
+        "answer": ""
+    },
+    "268": {
+        "content": "Ing lingkaran $J$, $HO$ lan $HN$ iku garis singgung lingkaran ing $O$ lan $N$. Temtokna jumlah derajat saka $m\\angle J$ lan $m\\angle H$. [asy]\nsize(150);\nimport graph;\npair J = (0,0), H = (6,0), O, N;\npath circ = Circle(J,3);\npair M = midpoint(J--H);\npath secCirc = Circle(M,3);\npair[] tangentPoints = intersectionpoints(circ,secCirc);\nO = tangentPoints[0]; N = tangentPoints[1];\ndraw(J--N--H--O--cycle);\ndraw(circ);\nlabel(\"$H$\",H,E);\nlabel(\"$J$\",J,W);\nlabel(\"$N$\",N,S);\nlabel(\"$O$\",O,NE);\n[/asy]",
+        "answer": ""
+    },
+    "269": {
+        "content": "Pira sisané nalika $1 + 2 + 3 + 4 + \\dots + 9 + 10$ dibagi karo 9?",
+        "answer": ""
+    },
+    "270": {
+        "content": "Sawijining wong jenius matematika arep nyusun 2 medali emas IMO-ne sing ora bisa dibedakake lan 2 medali emas IPhO-ne sing uga ora bisa dibedakake dadi siji baris. Ana pira susunan beda sing bisa digawe?",
+        "answer": ""
+    },
+    "271": {
+        "content": "Siji tiket kanggo nonton pertunjukan regane $\\$20$ yen tuku rega penuh. Susan tuku $4$ tiket nganggo kupon sing menehi diskon $25\\%$. Pam tuku $5$ tiket nganggo kupon sing menehi diskon $30\\%$. Pira dolar luwih akeh Pam mbayar tinimbang Susan?\"",
+        "answer": ""
+    },
+    "272": {
+        "content": "Itungen $997^{-1}$ modulo $1000$. Tulisen wangsulanmu minangka wilangan bulat saka $0$ nganti $999$.",
+        "answer": ""
+    },
+    "273": {
+        "content": "Yen $0.\\overline{1331}$ ditulis dadi pecahan $\\frac{a}{b}$ kanthi $a$ lan $b$ iku bilangan bulat positif sing faktor persekutuan terbesare 1, pira $a+b$?",
+        "answer": ""
+    },
+    "274": {
+        "content": "Ing taun 1992, tuku sak scoop sendok es krim gelato ing Italia regane 1200 lire. Gelato sing jumlahe padha bakal regane $\\$1.50$ ing Amerika Serikat. Yen nggunakake kurs tukar sing padha antarane lire lan dolar, pira dolar sing padha karo 1.000.000 lire?",
+        "answer": ""
+    },
+    "275": {
+        "content": "Anggep $S$ iku gabungan saka sakabehe titik-titik ing njero nonagon beraturan sing dawa sisine $2$ unit lan himpunan titik-titik sing jarake kurang saka $1$ unit saka titik ing perimeter nonagon kuwi. Pira, ing unit, keliling $S$?\"",
+        "answer": ""
+    },
+    "276": {
+        "content": "Anggep $f(x) = 2x-3$ lan $g(x) = x+1$. Pira nilaie $g(f(5)-1)$?",
+        "answer": ""
+    },
+    "277": {
+        "content": "Ana pira nilai wilangan real $x$ supaya $\\sqrt{120-\\sqrt{x}}$ dadi wilangan bulat?",
+        "answer": ""
+    },
+    "278": {
+        "content": "Pira $\\sqrt{53}$ ing bentuk radikal paling sederhana?\"",
+        "answer": ""
+    },
+    "279": {
+        "content": "Pira angka paling gedhé wolu digit ing basis 2? Wangsulana nganggo basis 10.",
+        "answer": ""
+    },
+    "280": {
+        "content": "Ing diagram, ana telung lingkaran konsentris (sepusat) sing duwé jari-jari $4,$ $6,$ lan $7.$ Ana telung wilayah sing diwènèhi label $X,$ $Y,$ utawa $Z$ ing ngisor iki. Saka telung wilayah iki, pira bedane antara luas wilayah sing paling gedhé karo luas wilayah sing paling cilik? Tulisen wangsulanmu nganggo bentuk eksak.\n\n[asy]\nimport graph;\nfilldraw(circle((0,0),7), lightgray, black+linewidth(1));\nfilldraw(circle((0,0),6), gray, black+linewidth(1));\nfilldraw(circle((0,0),4), white, black+linewidth(1));\ndot((0,0));\nlabel(\"$X$\",(2,0));\nlabel(\"$Y$\",(5,0));\nlabel(\"$Z$\",(6.5,0));\n[/asy]\"",
+        "answer": ""
+    },
+    "281": {
+        "content": "Anggep $a$ lan $b$ iku loro-lorone wilangan prima sing beda lan luwih gedhe saka 2. Ana pira pembagi wilangan bulat saka wilangan $a(2a+b)-2a^{2}+ab$?",
+        "answer": ""
+    },
+    "282": {
+        "content": "Ing pentagon beraturan $FGHIJ$, perpanjangane sisi-sisi pentagon, kaya ing gambar, mbentuk lintang. Piro sudut $A$ ing gambar kasebut?",
+        "answer": ""
+    },
+    "283": {
+        "content": "Ing barisan deret wilangan 0, 1, 1, 3, 6, 9, 27, ..., suku kapisan iku 0. Suku-suku sabanjure dihasilna saka gantian nambah lan ngali saben angka sakteruse diwiwiti saka 1. Contone, suku kapindho dihasilna saka nambah 1 marang suku kapisan; suku katelu dihasilna saka ngali suku kapindho karo 1; suku kapapat dihasilna saka nambah 2 marang suku katelu; lan sakpanunggalane. Pira nilai suku wilangan pisanan sing luwih gedhe tinimbang 125?",
+        "answer": ""
+    },
+    "284": {
+        "content": "Pira $\\left(4\\dfrac{5}{8}\\right)^{55} \\cdot \\left(\\dfrac{8}{37}\\right)^{55}$?",
+        "answer": ""
+    },
+    "285": {
+        "content": "Golekana kabeh solusine saka\n\\[\\sin \\left( \\tan^{-1} (x) + \\cot^{-1} \\left( \\frac{1}{x} \\right) \\right) = \\frac{1}{3}.\\]\nLebokna kabeh solusine, dipisah nganggo koma.",
+        "answer": ""
+    },
+    "286": {
+        "content": "Steve ngomong marang Jon, \"Aku mikirake ana polinomial sing akare kabeh bilangan bulat positif. Polinomial iki nduweni bentuk $P(x) = 2x^3-2ax^2+(a^2-81)x-c$ kanggo sawetara bilangan bulat positif $a$ lan $c$. Apa kowe bisa nyebutake nilai $a$ lan $c$?\"\n\nSawise ngitung-ngitung, Jon ngomong, \"Ana luwih saka siji polinomial sing kaya ngono.\"\n\nSteve ngomong, \"Kowe bener. Iki nilai $a$-ne.\" Dheweke nulis siji bilangan bulat positif lan takon, \"Saiki kowe bisa nyebutake nilai $c$?\"\n\nJon ngomong, \"Isih ana loro kemungkinan nilai $c$.\"\n\nGolekana jumlah saka loro kemungkinan nilai $c$ kasebut.",
+        "answer": ""
+    },
+    "287": {
+        "content": "Anggepen $T$ iku minangka himpunan kabeh tripel $(a,b,c)$ saka wilangan bulat positif kanthi ana segitiga sing dawa sisine $a,$ $b,$ $c.$  Itungen\n\\[\\sum_{(a,b,c) \\in T} \\frac{2^a}{3^b 5^c}.\\]",
+        "answer": ""
+    },
+    "288": {
+        "content": "Siji roda gigi muter $33\\frac{1}{3}$ kali saben sak menit. Roda gigi liyane muter 45 kali saben sak menit. Awale, ana tandha ing saben roda gigi nuding menyang lor. Sawise pira detik loro-lorone roda gigi kasebut tandhane bakal padha nuding lor maneh?",
+        "answer": ""
+    },
+    "289": {
+        "content": "Sawijining garis ditemtokake dening\n\\[\\begin{pmatrix} 3 \\\\ -10 \\\\ 1 \\end{pmatrix} + t \\begin{pmatrix} 2 \\\\ -9 \\\\ -2 \\end{pmatrix}.\\]\nGaris liyane ditemtokake dening\n\\[\\begin{pmatrix} -5 \\\\ -3 \\\\ 6 \\end{pmatrix} + u \\begin{pmatrix} 4 \\\\ -18 \\\\ -4 \\end{pmatrix}.\\]\nRong garis iki sejajar. Golekana jarak antarane rong garis iki.",
+        "answer": ""
+    },
+    "290": {
+        "content": "Anggep $a,$ $b,$ $c,$ $d$ iku bilangan real positif. Golekana nilai minimum saka\n\\[\n(a + b + c + d) \\left( \\frac{1}{a} + \\frac{1}{b} + \\frac{1}{c} + \\frac{1}{d} \\right).\n\\]\"",
+        "answer": ""
+    },
+    "291": {
+        "content": "Golekana nilai $r$ supaya $$\\frac{6r^2 -19r - 7}{2r-7} = 4r-3.$$",
+        "answer": ""
+    },
+    "292": {
+        "content": "Anggep daerah persegi panjang duwe titik-titik iki dadi sudut-sudute: $$(5,4), (-5,4), (-5,-4), (5,-4).$$ Ana pira titik sing koordinate wilangan bulat sing bakal ana ing njero daerah persegi panjang iki?",
+        "answer": ""
+    },
+    "293": {
+        "content": "Diwenehi \\begin{align*}\nx_{1}&=211,\\\\ \nx_{2}&=375,\\\\ \nx_{3}&=420,\\\\ \nx_{4}&=523,\\ \\text{lan}\\\\ \nx_{n}&=x_{n-1}-x_{n-2}+x_{n-3}-x_{n-4}\\ \\text{nalika}\\ n\\geq5, \n\\end{align*}\ngolekana nilaie $x_{531}+x_{753}+x_{975}$.",
+        "answer": ""
+    },
+    "294": {
+        "content": "Golekana kabeh $p$ sing menuhi pertidaksamaan $0\\ge 54p-144$ lan $0>12-20p$. Tulisen wangsulanmu nganggo notasi interval, lan yen ana pecahan, sederhanakake dhisik.",
+        "answer": ""
+    },
+    "295": {
+        "content": "Palindrom iku wilangan sing yen diwaca saka ngarep lan mburi tetep padha. Jumlahe himpunan telung bilangan bulat positif sing jejeg berurutan iku palindrom telung digit. Yen jumlah kasebut kurang saka 220, pira nilai paling gedhe sing bisa diduweni wilangan paling gedhe saka telu wilangan kasebut?",
+        "answer": ""
+    },
+    "296": {
+        "content": "Solusi-solusi saka persamaan $z^4+4z^3i-6z^2-4zi-i=0$ yaiku titik-titik sing dadi pucuk-pucuke poligon cembung ing bidang kompleks. Luas poligon iki bisa diungkapake nganggo bentuk $p^{a/b},$ ing ngendi $a,$ $b,$ $p$ iku bilangan bulat positif, $p$ iku bilangan prima, lan $a$ lan $b$ prima relatif. Golekana $a + b + p.$",
+        "answer": ""
+    },
+    "297": {
+        "content": "Anggep $0 < r < 3$. Ing ngisor iki ana limang persamaan kanggo $x$. Endi persamaan sing nduweni solusi $x$ paling gedhe?\n\n$\\textbf{(A)}\\ 3(1 + r)^x = 7\\qquad \\textbf{(B)}\\ 3(1 + r/10)^x = 7\\qquad \\textbf{(C)}\\ 3(1 + 2r)^x = 7$ $\\textbf{(D)}\\ 3(1 + \\sqrt {r})^x = 7\\qquad \\textbf{(E)}\\ 3(1 + 1/r)^x = 7$",
+        "answer": ""
+    },
+    "298": {
+        "content": "Sawijining buku diarani nduwèni $n$ lembar yen buku kuwi kasusun saka $n$ lembar kertas. Saliyane, jumlah halaman iku kaping pindhone jumlah lembar, amarga saben sisih lembar kertas dianggep minangka siji halaman.\n\nYen jumlah halaman ing buku iku $3$ luwih akeh tinimbang kelipatan $7$, lan jumlah lembar luwih saka $100$, pira jumlah lembar buku paling sithik sing mungkin?",
+        "answer": ""
+    },
+    "299": {
+        "content": "Anggepen $\\mathbf{a},$ $\\mathbf{b},$ $\\mathbf{c}$ iku telung vektor sing nduweni syarat\n\\[\\mathbf{a} \\times \\mathbf{b} = \\begin{pmatrix} 6 \\\\ -7 \\\\ 3 \\end{pmatrix}, \\quad \\mathbf{a} \\times \\mathbf{c} = \\begin{pmatrix} 4 \\\\ 7 \\\\ 2 \\end{pmatrix}, \\quad \\mathbf{b} \\times \\mathbf{c} = \\begin{pmatrix} 1 \\\\ -7 \\\\ 18 \\end{pmatrix}.\\]\nItungen $(2 \\mathbf{b} - \\mathbf{a}) \\times (3 \\mathbf{c} + \\mathbf{a}).$",
+        "answer": ""
+    },
+    "300": {
+        "content": "Anggepen persegi panjang sing titik-titik sudute $(5,4),$ $(5,-4),$ $(-5,4),$ $(-5,-4)$. Ana pira koordinat wilangan bulat sing ana ing njero area persegi panjang kuwi?",
+        "answer": ""
+    },
+    "301": {
+        "content": "Ana papat bunderan unik sing digambar ing sawijining bidang. Pira maksimalé jumlah titik kanggo ngiris minimal rong bunderan bebarengan?",
+        "answer": ""
+    },
+    "302": {
+        "content": "$\\textbf{Panggonan Kenangan Juan}$\n\nJuan ngatur koleksi perangkone miturut negara lan dekade nalika perangko kasebut diterbitake. Rega sing dibayar Juan kanggo perangko-perangko kasebut ing toko perangko yaiku: Brasil lan Prancis, $6$ sen saben siji, Peru $4$ sen saben siji, lan Spanyol $5$ sen saben siji. (Brasil lan Peru iku negara Amerika Selatan, lan Prancis lan Spanyol ana ing Eropa.) [asy]\n/* AMC8 2002 #8, 9, 10 Problem */\nsize(3inch, 1.5inch);\nfor ( int y = 0; y <= 5; ++y )\n{\n\ndraw((0,y)--(18,y));\n}\ndraw((0,0)--(0,5));\ndraw((6,0)--(6,5));\ndraw((9,0)--(9,5));\ndraw((12,0)--(12,5));\ndraw((15,0)--(15,5));\ndraw((18,0)--(18,5));\n\nlabel(scale(0.8)*\"50s\", (7.5,4.5));\nlabel(scale(0.8)*\"4\", (7.5,3.5));\nlabel(scale(0.8)*\"8\", (7.5,2.5));\nlabel(scale(0.8)*\"6\", (7.5,1.5));\nlabel(scale(0.8)*\"3\", (7.5,0.5));\n\nlabel(scale(0.8)*\"60s\", (10.5,4.5));\nlabel(scale(0.8)*\"7\", (10.5,3.5));\nlabel(scale(0.8)*\"4\", (10.5,2.5));\nlabel(scale(0.8)*\"4\", (10.5,1.5));\nlabel(scale(0.8)*\"9\", (10.5,0.5));\n\nlabel(scale(0.8)*\"70s\", (13.5,4.5));\nlabel(scale(0.8)*\"12\", (13.5,3.5));\nlabel(scale(0.8)*\"12\", (13.5,2.5));\nlabel(scale(0.8)*\"6\", (13.5,1.5));\nlabel(scale(0.8)*\"13\", (13.5,0.5));\n\nlabel(scale(0.8)*\"80s\", (16.5,4.5));\nlabel(scale(0.8)*\"8\", (16.5,3.5));\nlabel(scale(0.8)*\"15\", (16.5,2.5));\nlabel(scale(0.8)*\"10\", (16.5,1.5));\nlabel(scale(0.8)*\"9\", (16.5,0.5));\n\nlabel(scale(0.8)*\"Country\", (3,4.5));\nlabel(scale(0.8)*\"Brazil\", (3,3.5));\nlabel(scale(0.8)*\"France\", (3,2.5));\nlabel(scale(0.8)*\"Peru\", (3,1.5));\nlabel(scale(0.8)*\"Spain\", (3,0.5));\n\nlabel(scale(0.9)*\"Juan's Stamp Collection\", (9,0), S);\nlabel(scale(0.9)*\"Number of Stamps by Decade\", (9,5), N);\n[/asy] Pira regane rata-rata, ing sen, perangko-perangko saka taun $70\\text{'an}$ sing diduweni Juan? Wangsulana nganti siji desimal paling cedhak ing sen.",
+        "answer": ""
+    },
+    "303": {
+        "content": "Nalika ngowahi $\\frac{31}{11111}$ dadi desimal, desimal hasile dadi desimal sing berulang. Pira cacahé digit sing dibaleni ing desimal berulang iki?\n\nContone, ing desimal berulang $0.\\overline{123},$ wangsulane $3,$ lan ing $0.436\\overline{7},$ wangsulane $1.$",
+        "answer": ""
+    },
+    "304": {
+        "content": "Anggep $ABCD$ iku trapesium sing $\\overline{AD}|| \\overline{BC}$.  Diwenehi $\\overline{AC}\\perp\\overline{CD}$, $\\overline{AC}$ mbagi loro sudut $\\angle BAD$, lan $[ABCD]=42$, banjur itungen $[\\triangle ACD]$.",
+        "answer": ""
+    },
+    "305": {
+        "content": "Golekana nilai minimum saka\n\\[\\frac{(x + 5)(x + 2)}{x + 1}\\]\nkanggo $x > 0.$",
+        "answer": ""
+    },
+    "306": {
+        "content": "Yen $\\frac{\\sqrt{2x}}{\\sqrt{3x-1}}=\\frac32$, golekana nilai $x$. Tulisen wangsulanmu nganggo bentuk pecahan sing paling sederhana.",
+        "answer": ""
+    },
+    "307": {
+        "content": "Golekana pira jumlah persamaan kuadrat sing bentuké $x^2 + ax + b = 0,$ sing nduwèni sifat yèn saben $c$ iku akar persamaan, $c^2 - 2$ uga dadi akar persamaan kuwi.",
+        "answer": ""
+    },
+    "308": {
+        "content": "Pira rentange saka fungsi $y=\\log_2 (\\sqrt{\\sin x})$ kanggo $0^\\circ< x < 180^\\circ$?\"",
+        "answer": ""
+    },
+    "309": {
+        "content": "Anggepen $ABCD$ iku tetrahedron beraturan sing dawa sisine 2. Siji bidang sing sejajar karo rusuk $AB$ lan $CD$ lan ana ing tengah-tengah antarane loro kuwi, mbagi $ABCD$ dadi loro bagian. Golekana luas permukaan salah siji bagian kuwi.",
+        "answer": ""
+    },
+    "310": {
+        "content": "Hasil perkalian saka himpunan wilangan bulat positif sing beda-beda yaiku 84. Pira jumlah paling sithik saka bilangan-bilangan kuwi?",
+        "answer": ""
+    },
+    "311": {
+        "content": "Operasi @ didefinisina $\\frac{m}{n}@\\frac{p}{q} = (m)(p)\\left(\\frac{q}{n}\\right)$ kanggo pecahan $\\frac{p}{q}$ sing wis disederhanakake.  Pira hasile sing wis disederhanakake saka $\\frac{7}{30}@\\frac{10}{21}$?",
+        "answer": ""
+    },
+    "312": {
+        "content": "Yen $$1+12+123+1234+12345+123456+1234567+12345678$$ kongruen karo $n$ modulo 9, ing ngendi $0\\le n<9$, pira regane $n$?",
+        "answer": ""
+    },
+    "313": {
+        "content": "Itungen\n\\[\\frac{1}{x - 5} > 0.\\]\nWangsulana nganggo notasi interval.",
+        "answer": ""
+    },
+    "314": {
+        "content": "Charlie lagi numpak sepeda roda sijine. Yen rodae sepedane nduweni jari-jari 9 inci lan muter 2 puteran saben 3 detik, pira kecepatane sepeda kuwi ing inci saben detik?",
+        "answer": ""
+    },
+    "315": {
+        "content": "Titik $(0,0)$ dipantulake marang garis vertikal $x=1$. Nalika bayangane dipantulake maneh marang garis $y=2$, titik apa sing dihasilake?\n\nWangsulana nganggo bentuk $(x, y)$ ing ngendi $x$ lan $y$ iku angka nyata.",
+        "answer": ""
+    },
+    "316": {
+        "content": "Wilangan bulat positif $a$, $b$, lan $2009$, kanthi $a<b<2009$, mbentuk barisan geometri sing nduweni rasio bilangan bulat. Pira nilai $a$?",
+        "answer": ""
+    },
+    "317": {
+        "content": "Soal matematika $10x^2-x-24$ bisa ditulis dadi $(Ax-8)(Bx+3),$ ing ngendi $A$ lan $B$ iku bilangan bulat. Pira nilai $AB + B$?",
+        "answer": ""
+    },
+    "318": {
+        "content": "Aja $a,$ $b,$ lan $c$ iku angka nyata sing beda-beda. Golek derajate polinomial\n\\[\np(x) = \\frac{(x - b)(x - c)}{(a - b)(a - c)} + \\frac{(x - a)(x - c)}{(b - a)(b - c)} + \\frac{(x - a)(x - b)}{(c - a)(c - b)}.\n\\]\"",
+        "answer": ""
+    },
+    "319": {
+        "content": "Tulisna ekspresi \\[\\frac{4+6a}{5}-\\frac{1+3a}{4}\\] dadi pecahan tunggal.",
+        "answer": ""
+    },
+    "320": {
+        "content": "Ing persamaan $|x-4| -10 = 2$, pira hasil perkalian saka kabeh nilai $x$ sing mungkin?",
+        "answer": ""
+    },
+    "321": {
+        "content": "Ing diagram ing ngisor iki, kita duwe $\\sin \\angle RPQ = \\frac{7}{25}$.  Pira $\\cos \\angle RPS$?\n\n[asy]\n\npair R,P,Q,SS;\n\nSS = (-2,0);\n\nP = (0,0);\n\nQ = (2,0);\n\nR = rotate(aSin(7/25))*(1.5,0);\n\ndot(\"$S$\",SS,S);\n\ndot(\"$Q$\",Q,S);\n\ndot(\"$R$\",R,N);\n\ndot(\"$P$\",P,S);\n\ndraw(Q--SS);\n\ndraw(P--R);\n\n[/asy]",
+        "answer": ""
+    },
+    "322": {
+        "content": "Robot maju nganggo kacepetan tetep, butuh wektu 2,5 jam kanggo nempuh jarak 1 kilometer. Yen maju nganggo kacepetan tetep sing padha, robot butuh wektu 90 detik kanggo nempuh dawane lorong tartamtu. Pirang meter dawane lorong kasebut?",
+        "answer": ""
+    },
+    "323": {
+        "content": "Paringna $f(x) = x - 3$ lan $q(x) = bx + 1$. Yen $f(q(1)) = -3$, pira $b$?",
+        "answer": ""
+    },
+    "324": {
+        "content": "Papat titik, $A$, $B$, $C$, lan $D$, dipilih acak lan mandiri ing kelilinge lingkaran. Pira probabilitasé yèn ruas garis $AB$ lan $CD$ podo silangan?",
+        "answer": ""
+    },
+    "325": {
+        "content": "Ing diagram, ana rong lingkaran, saben-saben lingkaran duwé pusat $D$, duwé jari-jari $1$ lan $2$. Totalé luas daerah sing diarsir yaiku $\\frac5{12}$ saka luas lingkaran sing luwih gedhé. Pira drajat ukuran (lingkaran sing luwih cilik) $\\angle ADC$?\n\n[asy]\nsize(4cm);\ndefaultpen(linewidth(0.75));\nreal adc = 100;\npair d = (0, 0); pair a = 2 * dir(100); pair c = (2, 0);\npath inner = arc(d, a/2, c/2, CW);\n\npath outer = arc(d, c, a, CCW);\nguide region1 = (a--a/2)..inner..(c/2--c)..outer..cycle;\nguide region2 = arc(d, a/2, c/2, CCW)..(c/2--d--a/2)..cycle;\nfill(region1, gray(0.75));\nfill(region2, gray(0.75));\ndraw(unitcircle); draw(scale(2) * unitcircle);\ndraw(a--d--c);\nlabel(\"$A$\", a, N); label(\"$C$\", c, E); label(\"$D$\", d, NE);\n[/asy]",
+        "answer": ""
+    },
+    "326": {
+        "content": "Siji gelas ukur silinder iku dhuwure 8 cm lan jari-jarine 3 cm. Pira cacahe gelas ukur kasebut sing diisi banyu kanggo ngisi tandon sing wujude bola nduweni jari-jari 6 cm?",
+        "answer": ""
+    },
+    "327": {
+        "content": "Evaluasi\n\\[\n\\sin (\\arcsin 0.4 + \\arcsin 0.5) \\cdot \\sin (\\arcsin 0.5 - \\arcsin 0.4).\n\\]",
+        "answer": ""
+    },
+    "328": {
+        "content": "Anggep $P(x)$ iku polinomial monik drajate 3.  Anggepen $P(x)$ nduweni sisa $R(x)$ nalika dibagi karo $(x - 1)(x - 4),$ lan nduweni sisa $2R(x)$ nalika dibagi karo $(x - 2)(x - 3).$  Yen $P(0) = 5,$ golekana $P(5).$",
+        "answer": ""
+    },
+    "329": {
+        "content": "Anggepen $f(x)=\\left\\lfloor\\left(-\\frac{5}{8}\\right)^x\\right\\rfloor$ minangka fungsi sing didefinisina kanggo kabeh nilai $x$ ing $[0,\\infty)$ supaya $f(x)$ iku angka real. Ana pira nilai beda sing ana ing jangkauane fungsi $f(x)$?",
+        "answer": ""
+    },
+    "330": {
+        "content": "Sepeda lagi mlaku kanthi kecepatan 20 kaki saben menit. Pira kecepatane sepeda kasebut yen diungkapake ing inci saben detik?",
+        "answer": ""
+    },
+    "331": {
+        "content": "Siji komite Senat isine 8 wong Republikan lan 6 wong Demokrat. Ana pira cara kanggo mbentuk sub-komite sing isine 5 anggota, supaya minimal ana wakile anggota saben partai?",
+        "answer": ""
+    },
+    "332": {
+        "content": "Sederhanana ekspresi ing ngisor iki dadi pecahan paling sederhana: $$\\sqrt{\\dfrac{\\dfrac{5}{\\sqrt{80}}+\\dfrac{\\sqrt{845}}{9}+\\sqrt{45}}{\\sqrt5}}.$$",
+        "answer": ""
+    },
+    "333": {
+        "content": "Anggep $x,$ $y,$ lan $z$ iku bilangan real positif sing menuhi $xyz(x + y + z) = 1.$  Golekana nilai minimum saka\n\\[(x + y)(y + z).\\]\"",
+        "answer": ""
+    },
+    "334": {
+        "content": "Yen\n\\[\\sqrt[3]{2} = a + \\cfrac{1}{b + \\cfrac{1}{c + \\cfrac{1}{d + \\dotsb}}},\\]\ning ngendi $a,$ $b,$ $c,$ $d$ iku bilangan bulat positif, golekana $b.$",
+        "answer": ""
+    },
+    "335": {
+        "content": "Yen $a+b=8$, $b+c=-3$, lan $a+c= -5$, pira hasil perkalian $abc$?",
+        "answer": ""
+    },
+    "336": {
+        "content": "Barisan Fibonacci yaiku barisan 1, 1, 2, 3, 5, $\\ldots$ sing saben sukune iku jumlah saka loro suku sadurunge. Pira sisane suku ke $100^{\\mathrm{th}}$ ing barisan kasebut yen dibagi 4?",
+        "answer": ""
+    },
+    "337": {
+        "content": "Pira nilaie $513^2 - 487^2$?",
+        "answer": ""
+    },
+    "338": {
+        "content": "Hasil perkalian saka telu wilangan bulat berurutan yaiku 120. Hasil perkalian kuwi yen dibagi rata-ratane telu wilangan kuwi asilé 24. Pira wilangan bulat paling gedhé saka telu wilangan berurutan kuwi?",
+        "answer": ""
+    },
+    "339": {
+        "content": "Pira padanané $999_{10}$ ing basis enem?",
+        "answer": ""
+    },
+    "340": {
+        "content": "Parabola nduweni persamaan $y=ax^2+bx+c$ lan titik puncak $(h,k)$ dipantulna marang garis $y=k$. Iki ngasilake parabola anyar kanthi persamaan $y=dx^2+ex+f$. Tulisen $a+b+c+d+e+f$ nganggo variabel $k$.",
+        "answer": ""
+    },
+    "341": {
+        "content": "Anggep $\\mathbf{a}$ lan $\\mathbf{b}$ iku vektor-vektor sing sudut antarane $\\mathbf{a}$ lan $\\mathbf{b}$ yaiku $29^\\circ,$ lan sudut antarane $\\mathbf{b}$ lan $\\mathbf{a} - \\mathbf{b}$ yaiku $84^\\circ.$  Temtokna sudut antarane $\\mathbf{a}$ lan $\\mathbf{a} - \\mathbf{b}.$",
+        "answer": ""
+    },
+    "342": {
+        "content": "Pira angka paling cilik sing nilaie minus siji saka kapindhone kuwalikane dhéwé?",
+        "answer": ""
+    },
+    "343": {
+        "content": "Pira bilangan bulat $x$ sing menuhi $\\frac{1}{4}<\\frac{x}{7}<\\frac{1}{3}$?",
+        "answer": ""
+    },
+    "344": {
+        "content": "Pira jumlah plat nomer sing bisa digawe yen saben plat nomer nduweni 2 huruf sing beda (A nganti Z) dilanjutna karo 2 angka siji digit (0-9) sing uga beda?",
+        "answer": ""
+    },
+    "345": {
+        "content": "Anggep\n\n\\[\nf(n) =\n\\begin{cases}\n4n+3 &\\text{yen }n<a, \\\\\n7n-12 &\\text{yen }n\\ge{a}.\n\\end{cases}\n\\]\n\nGolekana $a$ yen grafik $y=f(n)$ iku kontinu.",
+        "answer": ""
+    },
+    "346": {
+        "content": "Yen $t(x) = 3-g(x)$ lan $g(x) = \\sqrt{x}$, banjur pira $t(g(16))$?",
+        "answer": ""
+    },
+    "347": {
+        "content": "Golekana nilai positif saka $x$ supaya $\\sqrt[3]{x^2 - 4x + 4} = 16$.",
+        "answer": ""
+    },
+    "348": {
+        "content": "Sederhanana $4(3r^3+5r-6)-6(2r^3-r^2+4r)$, lan tulisen wangsulanmu ing bentuk $Ar^2 + Br + C$, ngendi $A$, $B$, lan $C$ iku wilangan bulat.",
+        "answer": ""
+    },
+    "349": {
+        "content": "Itungen $\\dbinom{31}{28}$.",
+        "answer": ""
+    },
+    "350": {
+        "content": "Ana pira cara 8 wong bisa lungguh ngubengi meja persegi kanthi 2 wong saben sisih?  (Rong aturan panglungguhan dianggep padha yen salah sijining mung rotasi saka liyane.)",
+        "answer": ""
+    },
+    "351": {
+        "content": "Golekana angka satuane saka $18^6.$",
+        "answer": ""
+    },
+    "352": {
+        "content": "Sederhanana\n\\[\\cos \\left( \\frac{2 \\pi}{15} \\right) \\cos \\left (\\frac {4 \\pi}{15} \\right) \\cos \\left( \\frac{8 \\pi}{15} \\right) \\cos \\left( \\frac {16 \\pi}{15} \\right).\\]",
+        "answer": ""
+    },
+    "353": {
+        "content": "Segitiga $ABC$ iku segitiga sama kaki, ing ngendi $AB=AC$ lan garis tinggi $AM=11.$ Anggep ana titik $D$ ing $\\overline{AM}$ kanthi $AD=10$ lan $\\angle BDC=3\\angle BAC.$ Golekana keliling segitiga $ABC.$\n\n[asy]\nunitsize(0.4 cm);\n\npair A, B, C, D, M;\n\nA = (0,11);\nD = (0,1);\nB = (-11/2,0);\nC = (11/2,0);\nM = (B + C)/2;\n\ndraw(A--B--C--cycle);\ndraw(A--M);\ndraw(B--D--C);\n\nlabel(\"$A$\", A, N);\nlabel(\"$B$\", B, SW);\nlabel(\"$C$\", C, SE);\nlabel(\"$D$\", D, NW);\nlabel(\"$M$\", M, S);\n[/asy]",
+        "answer": ""
+    },
+    "354": {
+        "content": "Anggep aku nduweni $6$ buku sing beda-beda, $2$ antarane kuwi buku matematika. Ana pira cara aku bisa nyusun $6$ buku kuwi ing rak yen aku ora pengin buku matematika kuwi jejeran?",
+        "answer": ""
+    },
+    "355": {
+        "content": "Jumlah 27 bilangan bulat positif berurutan yaiku $3^7$. Pira mediane?\"",
+        "answer": ""
+    },
+    "356": {
+        "content": "Anggep $a,$ $b,$ lan $c$ iku bilangan real positif. Golekana nilai minimum saka\n\\[\n\\frac{(a + b + c)[(a + b)^2 + (a + b + 4c)^2]}{abc}.\n\\]\"",
+        "answer": ""
+    },
+    "357": {
+        "content": "Kanggo nilai real $x$ sing pira supaya $-4<x^{4}+4x^{2}<21$ bisa dipenuhi? Tulisen wangsulanmu nganggo notasi interval.",
+        "answer": ""
+    },
+    "358": {
+        "content": "Aku nduwé satumpuk kartu isine $54$ kartu, lan aku mbagekaké kabèh kartu kuwi marang $x$ pemain kartu, saben pemaen nampa $y$ kartu. Yen $x$ minimal $2$ lan $y$ minimal $5$, pira cacahé kemungkinan nilai $x$?",
+        "answer": ""
+    },
+    "359": {
+        "content": "Temtokna apa grafik saka persamaan ing ngisor iki iku parabola, lingkaran, elips, hiperbola, titik, garis, rong garis, utawa kosong.\n\n$\\left(\\frac x2 - 3\\right)^2 + y^2 = 10$",
+        "answer": ""
+    },
+    "360": {
+        "content": "Anggep $x,$ $y,$ lan $z$ menuhi persamaan\n\\begin{align*}\nxyz &= 4, \\\\\nx^3 + y^3 + z^3 &= 4, \\\\\nxy^2 + x^2 y + xz^2 + x^2 z + yz^2 + y^2 z &= 12.\n\\end{align*}\nItungen nilaie $xy + yz + zx.$",
+        "answer": ""
+    },
+    "361": {
+        "content": "Garis ing ngisor iki diparameterisasi, supaya vektor arahe nduweni bentuk $\\begin{pmatrix} -7 \\\\ b \\end{pmatrix}.$  Temtokna $b.$\n\n[asy]\nunitsize(0.4 cm);\n\npair A, B, L, R;\nint i, n;\n\nfor (i = -8; i <= 8; ++i) {\ndraw((i,-8)--(i,8),gray(0.7));\ndraw((-8,i)--(8,i),gray(0.7));\n}\n\ndraw((-8,0)--(8,0),Arrows(6));\ndraw((0,-8)--(0,8),Arrows(6));\n\nA = (-5,4);\nB = (-1,3);\nL = extension(A, B, (-8,0), (-8,1));\nR = extension(A, B, (8,0), (8,1));\n\ndraw(L--R, red);\n\nlabel(\"$x$\", (8,0), E);\nlabel(\"$y$\", (0,8), N);\n[/asy]",
+        "answer": ""
+    },
+    "362": {
+        "content": "Siji segitiga sama sisi digambar ing njero parabola $x^2 = 8y,$ kanthi salah siji titik pojoke segitiga pas karo titik puncake parabola. Golekana dawa sisih saka segitiga sama sisi kuwi.",
+        "answer": ""
+    },
+    "363": {
+        "content": "Ana rong calon, Dan lan Donald, sing arep maju dadi calon ketua kelas. Loro calon liyane, Freddie lan Bernie, maju dadi wakil ketua kelas. Saben calon nduweni kemungkinan menang 50$\\%$. Pira probabilitas yen Dan lan Freddie loro-lorone menang? (Tulisen wangsulanmu nganggo bentuk pecahan.)",
+        "answer": ""
+    },
+    "364": {
+        "content": "Telu ditambah kuwalikan saka sawijining wilangan iku padha karo 7 dibagi wilangan kuwi.  Pira wilangan kuwi?",
+        "answer": ""
+    },
+    "365": {
+        "content": "Yen saben titik ing lingkaran $x^2 + y^2 = 25$ dipantulaké ing titik $(4,1),$ himpunan titik bayangané menuhi persamaan\n\\[x^2 + ay^2 + bx + cy + d = 0.\\]\nItungen kuadruplet terurut $(a,b,c,d)$ saka wilangan real.",
+        "answer": ""
+    },
+    "366": {
+        "content": "Yen $a$ lan $b$ iku wilangan bulat positif kanthi $\\gcd(a,b)=210$, $\\mathop{\\text{lcm}}[a,b]=210^3$, lan $a<b$, ana pira nilai sing mungkin saka $a$?",
+        "answer": ""
+    },
+    "367": {
+        "content": "Golekana sisa modulo $7$ saka jumlah $1+3+5+7+9+\\dots+195+197+199.$\"",
+        "answer": ""
+    },
+    "368": {
+        "content": "Anggep $f$ iku fungsi lan $f^{-1}$ iku invers saka $f$. Yen $f(1)=2$, $f(2) = 6$, lan $f(3)=5$, banjur pira nilai saka $f^{-1}(f^{-1}(6))$?\"",
+        "answer": ""
+    },
+    "369": {
+        "content": "Rong sisi segitiga saben-saben dawane $8$ satuan. Yen sisi katelu nduweni dawane wilangan bulat, pira keliling segitiga sing paling gedhe?",
+        "answer": ""
+    },
+    "370": {
+        "content": "Pira luase trapesium iki ing sentimeter persegi?\n\n[asy]\ndefaultpen(linewidth(0.7));\ndraw((0,0)--(27,0)--(15,9)--(0,9)--cycle);\nlabel(\"5 cm\",(21,4.5),NE);\nlabel(\"5 cm\",(7.5,9),N);\nlabel(\"3 cm\",(0,4.5),W);\nlabel(\"9 cm\",(13.5,0),S);\ndraw(rightanglemark((0,9),(0,0),(27,0),35));\ndraw(rightanglemark((0,0),(0,9),(15,9),35));\n[/asy]",
+        "answer": ""
+    },
+    "371": {
+        "content": "Golekana hasil dot produk saka $\\begin{pmatrix} -2 \\\\ 0 \\\\ 7 \\end{pmatrix}$ lan $\\begin{pmatrix} 3 \\\\ 4 \\\\ -5 \\end{pmatrix}.$",
+        "answer": ""
+    },
+    "372": {
+        "content": "Anggep $a,$ $b,$ $c$ iku bilangan nyata supaya\n\\[\n|ax^2 + bx + c| \\le 1\n\\]\nkanggo kabeh $0 \\le x \\le 1.$  Golekana nilai paling gedhe saka $|a| + |b| + |c|.$",
+        "answer": ""
+    },
+    "373": {
+        "content": "Ing diagram, $AD=BD=CD$ lan $\\angle BCA = 40^\\circ.$ Pira ukuran $\\angle BAC?$",
+        "answer": ""
+    },
+    "374": {
+        "content": "William Sydney Porter nyoba ngitung $\\frac{-3+4i}{1+2i}$. Nanging, dheweke kélangan tandha minus, mula nemokake $\\frac{3+4i}{1+2i}=\\frac{11}{5}-\\frac{2}{5}i$. Wangsulan sing bener kudune apa?",
+        "answer": ""
+    },
+    "375": {
+        "content": "Pira selisihe antara akar kuadrat positif saka 64 lan akar pangkat telu saka 64?",
+        "answer": ""
+    },
+    "376": {
+        "content": "Yen $A$ iku jumlah saka sakabehe pembagi positif saka $500$, pira jumlah saka pembagi prima sing beda-beda saka $A$?",
+        "answer": ""
+    },
+    "377": {
+        "content": "Tentukan koordinat titik $P$ ing garis $y=-x+6$ supaya $P$ jarake padha karo titik $A(10,-10)$ lan $O(0,0)$ (tegesé, $PA=PO$). Wangsulana nganggo pasangan terurut $(a,b)$.",
+        "answer": ""
+    },
+    "378": {
+        "content": "Superfaktorial $n\\$$ iku didefinisikake minangka $n\\$ = \\underbrace{ n!^{{n!}^{{\\cdot}^{{\\cdot}^{{\\cdot}^{n!}}}}}}_{n!}$. Apa satuan digit saka $4\\$$?",
+        "answer": ""
+    },
+    "379": {
+        "content": "Ana pira cacahé bilangan prima loro digit sing jumlahé digit-digité padha karo 8?",
+        "answer": ""
+    },
+    "380": {
+        "content": "Data ing tabel ngisor iki nuduhake persentase penumpang bis ing sawijining survey marang siswa-siswi Central H.S.; ana 300 lanang lan 300 wadon ing saben tingkat sing disurvey. Kanggo tingkat pira jumlah penumpang bis lanang paling cedhak karo $135\\%$ saka jumlah penumpang bis wadon?\n\n\\begin{tabular}{|l|c|c|}\\hline\nTingkat & Lanang & Wadon \\\\ \\hline\n$9^{\\mathrm{th}}$ tingkat & $41.1\\%$ & $39.4\\%$ \\\\ \\hline\n$10^{\\mathrm{th}}$ tingkat & $34.4\\%$ & $33.1\\%$ \\\\ \\hline\n$11^{\\mathrm{th}}$ tingkat & $20.6\\%$ & $13.8\\%$ \\\\ \\hline\n$12^{\\mathrm{th}}$ tingkat & $11.6\\%$ & $8.6\\%$ \\\\ \\hline\n\\end{tabular}",
+        "answer": ""
+    },
+    "381": {
+        "content": "Golekana solusine\n\\[\\frac{|x^2 - 81|}{x^2 - 36x} < 0.\\]",
+        "answer": ""
+    },
+    "382": {
+        "content": "Loro angka, $x$ lan $y$ dipilih acak saka interval $(0,3)$.  Pira probabilitase yen ana segitiga kanthi sisi-sisine dawane 1, $x$, lan $y$ bisa ana?",
+        "answer": ""
+    },
+    "383": {
+        "content": "Sawijining lapangan persegi panjang iku dikelilingi lintasan atletik, kaya sing digambar ing ngisor iki. Lintasan kasebut kebagi saka rong sisi lapangan, lan rong setengah lingkaran. Dawa lintasan iku 400 meter. Pira luas maksimum lapangan kasebut, ing meter persegi?\n\n[asy]\nunitsize(1 cm);\n\nfilldraw((0,0)--(3,0)--(3,2)--(0,2)--cycle,lightgreen);\ndraw((0,0)--(3,0),linewidth(2*bp));\ndraw((0,2)--(3,2),linewidth(2*bp));\ndraw(arc((3,1),1,-90,90),linewidth(2*bp));\ndraw(arc((0,1),1,90,270),linewidth(2*bp));\n[/asy]",
+        "answer": ""
+    },
+    "384": {
+        "content": "Kanggo nilai $x$ pira wae sing bener yen $x^2 - 5x - 4 \\le 10$? Tulisen wangsulanmu nganggo notasi interval.",
+        "answer": ""
+    },
+    "385": {
+        "content": "Sederhanana soal matematika ing ngisor iki $x$: $$19x + 1 - 4x - 81.$$",
+        "answer": ""
+    },
+    "386": {
+        "content": "Kathy butuh dhuwit kanggo lelungan menyang Eropa. Yen dheweke duwe 300 dolar AS ing bank lan pengin njupuk separo saka jumlah kasebut nganggo poundsterling Inggris lan separone maneh nganggo euro, pira jumlah selisihe euro sing luwih akeh tinimbang poundsterling sing bakal diduweni Kathy? Anggep 1 pound = 1,64 USD lan 1 euro = 1,32 USD, lan bulatno hasile menyang angka bulat sing paling cedhak.",
+        "answer": ""
+    },
+    "387": {
+        "content": "Pira cacahing wilangan bulat sing ana ing himpunan solusi saka $|x-2|\\leq5.6$?",
+        "answer": ""
+    },
+    "388": {
+        "content": "Yen $f(x)=5x^2+3x+4$, pira nilaie $f(-2)$?",
+        "answer": ""
+    },
+    "389": {
+        "content": "Pira wilangan real paling cilik $x$ ing domain fungsi $$g(x) = \\sqrt{(x-3)^2-(x-8)^2}~?$$",
+        "answer": ""
+    },
+    "390": {
+        "content": "Ing $\\triangle{RST}$ sing digambar, $\\sin{R}=\\frac{2}{5}$. Pira $\\sin{T}$?\n\n[asy]\npair R,S,T;\nT = (0,0);\nS = (2,0);\nR = (2,sqrt(21));\ndraw(R--S--T--R);\ndraw(rightanglemark(R,S,T,10));\nlabel(\"$T$\",T,SW);\nlabel(\"$S$\",S,SE);\nlabel(\"$R$\",R,NE);\nlabel(\"$5$\",(R+T)/2,NW);\n[/asy]",
+        "answer": ""
+    },
+    "391": {
+        "content": "Jarak paling cilik antara titik asal lan titik ing grafik $y=\\frac{1}{\\sqrt{2}}\\left(x^2-3\\right)$ bisa diungkapake dadi $\\sqrt{a}/b$, ing ngendi $a$ lan $b$ iku bilangan bulat positif lan $a$ ora bisa dibagi karo kuadrat saka bilangan bulat liya sing luwih gedhe saka siji. Golekana $a+b$.",
+        "answer": ""
+    },
+    "392": {
+        "content": "Anggep $f$ didefinisina nganggo \\[\nf(x) = \\left\\{\n\\begin{array}{cl}\n3-x & \\text{ yen } x \\leq 3, \\\\\n-x^3+2x^2+3x & \\text{ yen } x>3.\n\\end{array}\n\\right.\n\\]\nItungen $f^{-1}(0)+f^{-1}(6)$.\"",
+        "answer": ""
+    },
+    "393": {
+        "content": "Jarak saka titik $P$ menyang lima saka enam titik sudut oktahedron sing beraturan yaiku 3, 7, 8, 9, lan 11. Temtokna jarak saka $P$ menyang titik sudut keenem.\n\n[asy]\nimport three;\n\nsize(125);\ncurrentprojection = perspective(6,3,1);\n\ntriple A, B, C, D, E, F, P;\n\nA = (1,0,0);\nB = (-1,0,0);\nC = (0,1,0);\nD = (0,-1,0);\nE = (0,0,1);\nF = (0,0,-1);\nP = (1.2,1.5,1);\n\ndraw(A--P,red);\ndraw(B--P,red);\ndraw(C--P,red);\ndraw(D--P,red);\ndraw(E--P,red);\ndraw(F--P,red);\n\ndraw(A--C);\ndraw(A--D);\ndraw(A--E);\ndraw(A--F);\ndraw(C--E--D--F--cycle);\ndraw(D--B--C,dashed);\ndraw(B--C,dashed);\ndraw(B--D,dashed);\ndraw(B--E,dashed);\ndraw(B--F,dashed);\n\nlabel(\"$P$\", P, NE);\n[/asy]",
+        "answer": ""
+    },
+    "394": {
+        "content": "Iki rumus fisika sing wis dikenal, yaiku gaya padha karo massa dikalikan percepatan. Jen pengin nguncalake bal softball nganggo gaya sing padha kaya Jack nguncalake bal baseball. Yen bal softball nduweni massa $200$ g lan bal baseball nduweni massa $150$ g, pira rasio percepatan balé Jen karo balé Jack? Wangsulana nganggo pecahan paling sederhana.",
+        "answer": ""
+    },
+    "395": {
+        "content": "Anggep fungsi $z(x,y)$ sing njelasno paraboloid\n\\[z = (2x - y)^2 - 2y^2 - 3y.\\]\nArchimedes lan Brahmagupta lagi dolanan game. Archimedes milih $x$ luwih dhisik. Sawisé kuwi, Brahmagupta milih $y$. Archimedes kepengin mudhuna $z$ déné Brahmagupta kepengin ningkatna $z$. Yen nganggep Brahmagupta bakal dolanan kanthi optimal, nilai $x$ pira sing kudu dipilih Archimedes?",
+        "answer": ""
+    },
+    "396": {
+        "content": "Yen $a = 8$, pira nilaie $\\left(16\\sqrt[3]{a^2}\\right)^{\\frac 13}$?",
+        "answer": ""
+    },
+    "397": {
+        "content": "Bangun segi papat quadrilateral $ABCD$ iku kothak kanthi ambane 16 inci persegi. Gambar iki nggambarake potongan-potongan tangram Cina sing kabeh segitiga iku segitiga sama kaki lan potongan \"e\" iku kothak. Pira ambane bagian sing diwarnai abu-abu, ing inci persegi?\n\n[asy]\nfill((2,0)--(4,2)--(4,0)--cycle,gray(.7));\ndraw((0,0)--(0,4)--(4,4)--(4,0)--cycle,linewidth(1));\ndraw((0,0)--(4,4),linewidth(1));\ndraw((1,1)--(2,0)--(4,2),linewidth(1));\ndraw((0,4)--(3,1)--(3,3),linewidth(1));\nlabel(\"$A$\",(0,4),W);\nlabel(\"$B$\",(4,4),E);\nlabel(\"$C$\",(4,0),E);\nlabel(\"$D$\",(0,0),W);\nlabel(\"e\",(2,1));\n\n[/asy]",
+        "answer": ""
+    },
+    "398": {
+        "content": "Yen $3x + 2(1 + x) = 17$, pira nilaie $6x + 5$?",
+        "answer": ""
+    },
+    "399": {
+        "content": "Navin saka Mauritius, Luka saka Kroasia, lan Ian saka Botswana lagi padha ngobrol ing lobi hostel pemuda, ngrembug babagan kerja parohan. Wong telu iki ngerti yen Navin entuk 160 rupee saben jam, Luka entuk 25 kuna saben jam, lan Ian entuk 34 pula saben jam. Yen siji dolar Amerika padha karo 32,35 rupee Mauritius, 5,18 kuna Kroasia, lan 6,95 pula Botswana, sapa sing bakal entuk penghasilan paling akeh sawise kerja wolung jam sedina?",
+        "answer": ""
+    },
+    "400": {
+        "content": "Tambahna 313,9 karo 12,6. Tulisen hasile nganggo bentuk desimal.",
+        "answer": ""
+    },
+    "401": {
+        "content": "Ing lingkaran sing pusaté $Q$, jari-jari $AQ$ lan $BQ$ mbentuk sudut siku-siku. Rong wilayah sing luwih cilik iku kawujud setengah lingkaran sing saling nyandhak singgungan, kaya sing digambaraké. Jari-jari lingkaran sing pusaté $Q$ yaiku 14 inci. Pira jari-jari setengah lingkaran sing luwih cilik? Tulisen wangsulanmu nganggo pecahan biasa.",
+        "answer": ""
+    },
+    "402": {
+        "content": "Anggepen $z$ iku sawijining bilangan kompleks sing nduweni $|z| = 1.$  Golekana nilai maksimum saka\n\\[\n|1 + z| + |1 - z + z^2|.\n\\]",
+        "answer": ""
+    },
+    "403": {
+        "content": "Rotasi $90^\\circ$ ngubengi $-4 - 5i$ searah jarum jam diterapake marang $3$ (minangka wilangan kompleks). Pira wilangan kompleks hasile?",
+        "answer": ""
+    },
+    "404": {
+        "content": "Pira cacahé digit sing padha sing ditemokake ing representasi wilangan basis 7 lan basis 8 saka $629_{10}$? Contone, $121_{3}$ lan $413_{5}$ nduwèni siji digit sing padha.",
+        "answer": ""
+    },
+    "405": {
+        "content": "Roslyn duwé sepuluh kothak. Lima kothak isiné pensil, papat kothak isiné pulpen, lan rong kothak isiné pulpen lan pensil. Ana pira kothak sing ora ana isiné pulpen utawa pensil?",
+        "answer": ""
+    },
+    "406": {
+        "content": "Yen ora ana sing bareng ngenggoni siji kantor, ana pira cara kanggo nempatake 3 wong ing 5 kantor sing beda? (Saben wong entuk persis siji kantor).\"",
+        "answer": ""
+    },
+    "407": {
+        "content": "Pira sisané 2004 dibagi 12?",
+        "answer": ""
+    },
+    "408": {
+        "content": "Yen $f(x)=\\dfrac{2}{x+1}$, mula pira nilaie $f^{-1}\\left(\\frac{1}{5}\\right)$?",
+        "answer": ""
+    },
+    "409": {
+        "content": "Sawijining operasi pencerminan nggawa $\\begin{pmatrix} 5 \\\\ 0 \\end{pmatrix}$ dadi $\\begin{pmatrix} 4 \\\\ 3 \\end{pmatrix}.$  Vektor endi sing bakal digawa pencerminan kasebut saka $\\begin{pmatrix} -2 \\\\ 3 \\end{pmatrix}$?",
+        "answer": ""
+    },
+    "410": {
+        "content": "Asimtot-asimtot saka hiperbola yaiku $y = 2x - 3$ lan $y = 17 - 2x.$ Uga, hiperbola kasebut liwat titik $(4,7).$ Golekana jarak antarane rong fokus saka hiperbola kasebut.",
+        "answer": ""
+    },
+    "411": {
+        "content": "Anggep $N$ iku unit angka satuan saka wilangan $21420N$. Pira nilai $N$ sing ora nol supaya wilangan iki bisa dibagi $6$?",
+        "answer": ""
+    },
+    "412": {
+        "content": "Ana enem penyihir wadon lan sepuluh penyihir lanang ing sawijining acara pesta ketemuan gaib. Para penyihir wadon wis mutusake arep salaman karo saben penyihir lanang. Ora ana penyihir wadon sing salaman karo penyihir wadon liyane, amarga dheweke kabeh wis padha akrab. Para penyihir lanang uga padha saling ora seneng siji lan sijine, mula ora ana sing salaman karo penyihir lanang liyane. Pira jumlah salaman sing kedadeyan ing acara kuwi?",
+        "answer": ""
+    },
+    "413": {
+        "content": "Anggep $P(x)$ iku polinomial kuadrat sing nduweni koefisien real gawe menuhi $x^2 - 2x + 2 \\le P(x) \\le 2x^2 - 4x + 3$ kanggo sakabehe wilangan real $x$, lan anggep $P(11) = 181$. Golekana $P(16)$.",
+        "answer": ""
+    },
+    "414": {
+        "content": "Sederhanana $\\frac{(10r^3)(4r^6)}{8r^4}$.\"",
+        "answer": ""
+    },
+    "415": {
+        "content": "Pira jumlah nilai $a$ sing nyukupi persamaan  \n$$(3)5^2-4(5-a)^2 \\div 3=63?$$",
+        "answer": ""
+    },
+    "416": {
+        "content": "Pira sisané nalika $129^{34}+96^{38}$ dibagi déning $11$?\"",
+        "answer": ""
+    },
+    "417": {
+        "content": "Itungen $\\sin^3 18^\\circ + \\sin^2 18^\\circ.$",
+        "answer": ""
+    },
+    "418": {
+        "content": "Anggep $f(x)$ yaiku polinomial \\[f(x)=3x^4+5x^2-9x-2.\\] Yen $g(x)$ padha karo polinomial $f(x-1)$, pira jumlah koefisien saka $g$?\"",
+        "answer": ""
+    },
+    "419": {
+        "content": "Pira jarak paling cedhak saka titik $(6, 0)$ menyang garis $y = 2x-2$? Tulisen wangsulanmu nganggo bentuk akar paling sederhana.",
+        "answer": ""
+    },
+    "420": {
+        "content": "Ana vektor $\\mathbf{v}$ sing jumlahé tak hingga, ing ngendi\n\\[\n\\begin{pmatrix} 1 \\\\ 2 \\\\ -5 \\end{pmatrix} \\times \\mathbf{v} = \\begin{pmatrix} 90 \\\\ 30 \\\\ 30 \\end{pmatrix}.\n\\]\nGolekana vektor $\\mathbf{v}$ sing duwé magnitudo paling cilik.",
+        "answer": ""
+    },
+    "421": {
+        "content": "Golekana proyeksi saka $\\mathbf{a}$ marang $\\mathbf{b} = \\begin{pmatrix} 2 \\\\ 6 \\\\ 3 \\end{pmatrix}$ yen $\\mathbf{a} \\cdot \\mathbf{b} = 8.$",
+        "answer": ""
+    },
+    "422": {
+        "content": "Yen $\\arccos x + \\arccos 2x + \\arccos 3x = \\pi,$ supaya $x$ menuhi polinomial kubik kanthi bentuk\n\\[\nax^3 + bx^2 + cx + d = 0,\n\\]\ning ngendi $a,$ $b,$ $c,$ lan $d$ iku wilangan bulat, lan $a \\neq 0.$  Temtokna nilai paling cilik saka $|a| + |b| + |c| + |d|.$",
+        "answer": ""
+    },
+    "423": {
+        "content": "Angka kompleks $\\alpha_1, \\alpha_2, \\alpha_3$, lan $\\alpha_4$ iku papat akar sing unik saka persamaan $x^4+2x^3+2=0$. Golekana himpunan ora urut \\[\n\\{\\alpha_1\\alpha_2 + \\alpha_3\\alpha_4, \\alpha_1\\alpha_3 + \\alpha_2\\alpha_4, \\alpha_1\\alpha_4 + \\alpha_2\\alpha_3\\}.\n\\]",
+        "answer": ""
+    },
+    "424": {
+        "content": "Pira wiilangan bulat paling gedhe sing kurang saka $2010$ sing nduweni sisa $5$ yen dibagi $7,$ sisa $10$ yen dibagi $11,$ lan sisa $10$ yen dibagi $13$?",
+        "answer": ""
+    },
+    "425": {
+        "content": "Nilai $y$ variasine proporsional kuwalik karo $\\sqrt x$ lan nalika $x=24$, $y=15$. Pira nilai $x$ nalika $y=3$?",
+        "answer": ""
+    },
+    "426": {
+        "content": "Anggep $G$ lan $H$ iku titik centroid lan ortosenter saka segitiga $ABC.$  Anggep $F$ iku titik tengah saka $\\overline{GH}.$  Wangsulana $AF^2 + BF^2 + CF^2$ nganggo dawane sisi $a,$ $b,$ $c$ lan jejari lingkaran keliling njabane $R$ saka segitiga $ABC.$",
+        "answer": ""
+    },
+    "427": {
+        "content": "Sawijining kothak persegi lan segitiga sama sisi nduweni keliling sing padha. Luas ambane segitiga yaiku $16\\sqrt{3}$ sentimeter persegi. Pira dawane diagonal kothak persegi kasebut, ing sentimeter? Tulisen wangsulanmu nganggo bentuk akar paling sederhana.\n\n[asy]\ndefaultpen(linewidth(1));\ndraw((0,0)--(1,0)--(1,1)--(0,1)--cycle);\npair a = (1.25,0)+1.25*dir(60);\npair b = a+1.25*dir(-60);\ndraw((1.25,0)--a--b--cycle);\n\n[/asy]",
+        "answer": ""
+    },
+    "428": {
+        "content": "Telung potlot lan siji penghapus jumbo regane $\\$1.24$. Lima potlot lan siji penghapus jumbo regane $\\$1.82$. Kabeh rega durung kalebu pajak. Ing satuan sen, pira regane siji potlot?",
+        "answer": ""
+    },
+    "429": {
+        "content": "Anggep $a,$ $b,$ $c,$ $d$ iku wilangan real positif sing nduweni syarat $a + b + c + d = 1.$  Temtokna nilai minimum saka\n\\[\\frac{1}{a} + \\frac{1}{b} + \\frac{4}{c} + \\frac{16}{d}.\\]",
+        "answer": ""
+    },
+    "430": {
+        "content": "Anggep $a$ lan $b$ iku bilangan real positif sing $ab^2 = 5.$  Golekana nilai minimum saka $a^4 + b^8.$\"",
+        "answer": ""
+    },
+    "431": {
+        "content": "Pira $\\frac{9}{2}$ yen ditulis nganggo desimal?",
+        "answer": ""
+    },
+    "432": {
+        "content": "Anggep\n\\[\nf(x) = (\\arccos x)^2 + (\\arcsin x)^2.\n\\]\nGolekana rentange saka $f(x).$  Kabeh fungsi nganggo radian.",
+        "answer": ""
+    },
+    "433": {
+        "content": "Yen\n\\[\nf(n + 1) = (-1)^{n + 1} n - 2f(n)\n\\]\nkanggo $n \\ge 1,$ lan $f(1) = f(1986),$ itungen\n\\[\nf(1) + f(2) + f(3) + \\dots + f(1985).\n\\]",
+        "answer": ""
+    },
+    "434": {
+        "content": "Konversina $\\frac{57}{160}$ dadi desimal terhingga.\"",
+        "answer": ""
+    },
+    "435": {
+        "content": "Ing sawijining segitiga siku-siku sama kaki, dhuwure segitiga menyang sisi miring iku $4\\sqrt{2}$.  Pira luas segitiga kuwi?",
+        "answer": ""
+    },
+    "436": {
+        "content": "Apakah domain saka fungsi sing nilaie wilangan real $f(x)=\\frac{2x-7}{\\sqrt{x^2-5x+6}}$?",
+        "answer": ""
+    },
+    "437": {
+        "content": "$n$ dadu adil 6-sisi diuncal bebarengan. Kasempatan yen persis rong sisi dadu kasebut nuduhake angka saliyané 1 yaiku $\\frac{25}{216}$. Golekana $n$.\"",
+        "answer": ""
+    },
+    "438": {
+        "content": "Simbol $\\triangle$, $\\square$, $\\diamond$, $\\clubsuit$ nggambarake papat angka bulat beda-beda saka 1 nganti 9. Nggunakake persamaan ing ngisor iki, pira nilaie $\\square$?\n\n\\begin{align*}\n\\triangle + \\square &= \\clubsuit \\\\\n\\triangle + \\triangle &= \\diamond +\\diamond + \\diamond + \\diamond + \\diamond \\\\\n\\triangle + \\triangle &= \\clubsuit + \\diamond.\n\\end{align*}",
+        "answer": ""
+    },
+    "439": {
+        "content": "Apa angka ora nol ing sisih tengen titik desimal saka ekspansi nilai desimale $\\frac{137}{500}$?\"",
+        "answer": ""
+    },
+    "440": {
+        "content": "Golekana hasil bagine $x^9 + 1$ karo $x - 1.$",
+        "answer": ""
+    },
+    "441": {
+        "content": "Sederhanana $(u+4)(u-1) - (u-3)(u+6)$.",
+        "answer": ""
+    },
+    "442": {
+        "content": "Karla nyopir kendaraane sejauh 12.000 mil taun kepungkur. Pira galon bensin sing bakal disimpen Karla taun kepungkur yen dheweke nyopir mobil hibrida sing irit bahan bakar sing rata-rata 48 mil saben galon, tinimbang SUV sing rata-rata 15 mil saben galon?",
+        "answer": ""
+    },
+    "443": {
+        "content": "Anggep $f(x) = 2^x.$ Golekana $\\sqrt{f(f(f(f(1))))}.$",
+        "answer": ""
+    },
+    "444": {
+        "content": "Pira nilai wilangan bulat $x$ ing barisan aritmetika $3^2, x, 3^4$?",
+        "answer": ""
+    },
+    "445": {
+        "content": "Persegi panjang $ABCD$ nduweni pusat $O$ lan $AB/AD=k$. Ana siji titik sing dipilih acak saka njero persegi panjang $ABCD$. Apa probabilitas manawa titik kuwi luwih cedhak karo $O$ tinimbang karo salah siji saka papat titik pojok kasebut?  [asy]\nsize(200);\ndraw((-250,100)--(250,100)--(250,-100)--(-250,-100)--cycle);\ndot((0,0));\nlabel(\"$O$\",(0,0),N);\nlabel(\"$A$\",(-250,100),NW); label(\"$B$\",(250,100),NE); label(\"$C$\",(250,-100),SE); label(\"$D$\",(-250,-100),SW);[/asy]",
+        "answer": ""
+    },
+    "446": {
+        "content": "Lingkaran $x^2 + y^2 = 2$ lan parabola $y^2 = 8x$ nduweni loro garis singgung, sing ngabentuk papat titik singgung. Temtokna luas bangun segi papat quadrilateral sing dibentuk saka papat titik singgung kasebut.\n\n[asy]\nunitsize(0.8 cm);\n\nreal upperparab (real x) {\nreturn (sqrt(8*x));\n}\n\nreal lowerparab (real x) {\nreturn (-sqrt(8*x));\n}\n\npair A, B, C, D;\n\nA = (-1,1);\nB = (2,4);\nC = (-1,-1);\nD = (2,-4);\n\ndraw(graph(upperparab,0,3));\ndraw(graph(lowerparab,0,3));\ndraw(Circle((0,0),sqrt(2)));\ndraw(interp(A,B,-0.2)--interp(A,B,1.2));\ndraw(interp(C,D,-0.2)--interp(C,D,1.2));\ndraw(A--C);\ndraw(B--D);\n\ndot(A);\ndot(B);\ndot(C);\ndot(D);\n[/asy]",
+        "answer": ""
+    },
+    "447": {
+        "content": "Jumlah $n$ suku kapisanan ing barisan geometri tak hingga $\\left\\{\\frac{1}{4},\\frac{1}{8},\\frac{1}{16},\\dots \\right\\}$ yaiku $\\frac{255}{512}$. Temtokna $n$.",
+        "answer": ""
+    },
+    "448": {
+        "content": "Ana telung puluh lima siswa sing teka ing rapat klub matematika. Cacahe siswa wadon sing teka ing rapat iku kelipatan 13, lan cacahe siswa wadon luwih akeh tinimbang siswa lanang. Pira siswa lanang sing teka ing rapat kuwi?",
+        "answer": ""
+    },
+    "449": {
+        "content": "Itungen $17^{-1}\\pmod{83}$. Tulisen wangsulanmu minangka nilai sisa saka $0$ nganti $82$.\n\n(Sampeyan mungkin bisa migunani yen mangerteni fakta $17\\cdot 5=85$.)",
+        "answer": ""
+    },
+    "450": {
+        "content": "Yen $a\\star b = 9a+2b-ab+5$, pira nilaie $5\\star1$?",
+        "answer": ""
+    },
+    "451": {
+        "content": "Pira nilai rata-rata saka loro solusi wilangan bulat positif paling cilik kanggo kongruensi $$14u \\equiv 46 \\pmod{100}~?$$",
+        "answer": ""
+    },
+    "452": {
+        "content": "Ing sawijining peta, $3$ inci ing peta padha karo $10$ mil ing kenyataan. Diwenehi jarak nyata antara rong bangunan ing peta yaiku $53.25$ mil, pira jarak antarane bangunan kasebut (ing inci) ing peta, wangsulana nganggo pecahan?",
+        "answer": ""
+    },
+    "453": {
+        "content": "Jumlah angka-angka saka sawijining bilangan loro digit yaiku $13.$ Bedané antara angka kuwi karo angka sing digit-digité diwalik yaiku $27.$ Pira jumlahé angka asli karo angka sing digit-digité diwalik kuwi?",
+        "answer": ""
+    },
+    "454": {
+        "content": "Kelas 7 lan kelas 8 nduweni jumlah siswa masing-masing 520 lan 650. Rong kelas kasebut nduweni total 18 wakil ing Dewan Siswa. Pira wakil sing kudune diduweni kelas 8 supaya rong kelas kuwi entuk jumlah perwakilan sing adil?",
+        "answer": ""
+    },
+    "455": {
+        "content": "Matriks $\\mathbf{M}$ nggawa $\\begin{pmatrix} 2 \\\\ -1 \\end{pmatrix}$ dadi $\\begin{pmatrix} 9 \\\\ 3 \\end{pmatrix},$ lan $\\begin{pmatrix} 1 \\\\ -3 \\end{pmatrix}$ dadi $\\begin{pmatrix} 7 \\\\ -1 \\end{pmatrix}.$  Golekana bayangan saka garis $y = 2x + 1$ ing ngisor matriks $\\mathbf{M}.$  Tulisen wangsulanmu nganggo bentuk \"$y = mx + b$\".",
+        "answer": ""
+    },
+    "456": {
+        "content": "Ana pira cara milih 5 siswa saka kelompok sing isine 6 siswa?",
+        "answer": ""
+    },
+    "457": {
+        "content": "Golekana kabeh akar wilangan bulat saka\n\\[x^4 + 5x^3 + 9x^2 - x - 14 = 0.\\]\nLebokna kabeh akar bilangan bulat, dipisah nganggo koma.",
+        "answer": ""
+    },
+    "458": {
+        "content": "Temtokna sisané saka 54 (mod 6).",
+        "answer": ""
+    },
+    "459": {
+        "content": "Saben minggu, ana antara 30 nganti 50 siswa sing teka ing kelas panahan sing dikelola Betty lan Wilma. Biasane para siswa mau padha mbentuk kelompok-kelompok sing jumlah membere padha kanggo latihan nembak sasaran. Nanging, minggu iki, Betty weruh yen dheweke ora bisa mbagi para siswa dadi sawetara kelompok sing ukurane padha. Wilma weruh yen dheweke lan Betty melu latihan bareng para siswa, dheweke lan Betty isih ora bisa mbagi para pemanah dadi kelompok-kelompok kanthi sing ukurane padha. Pira jumlah siswa sing teka ing kelas panahan minggu iki?",
+        "answer": ""
+    },
+    "460": {
+        "content": "Batangan emas palsu digawe saka nutupi kubus beton nganggo cat emas, mula regane cat gumantung karo luas permukaan, dene regane beton gumantung karo voluméne. Yen kubus ukuran 1 inci biayane $\\$1.30$ lan kubus ukuran 2 inci biayane $\\$6.80$, pira biaya nggawe kubus ukuran 3 inci?\"",
+        "answer": ""
+    },
+    "461": {
+        "content": "Ing diagram ing ngisor iki, ana $\\overline{ST}\\parallel\\overline{QR}$, $\\angle P= 40^\\circ$, lan $\\angle Q =35^\\circ$. Temtokna ukuran $\\angle STR$ ing derajat.\n\n[asy]\npair P,Q,R,SS,T;\nQ = (0,0);\nR = (1,0);\nP = (1.1,0.5);\nSS = 0.6*P;\nT = R + 0.6*(P-R);\ndraw(T--SS--P--R--Q--SS);\nlabel(\"$P$\",P,N);\nlabel(\"$S$\",SS,NW);\nlabel(\"$Q$\",Q,S);\nlabel(\"$R$\",R,S);\nlabel(\"$T$\",T,ENE);\n[/asy]",
+        "answer": ""
+    },
+    "462": {
+        "content": "Anggepen \n\\[\nf(n) = \\left\\{\n\\begin{array}{cl}\n\\lfloor n \\rfloor & \\text{ yen }n \\geq 4, \\\\\n\\lceil n \\rceil & \\text{ yen } n < 4.\n\\end{array}\n\\right.\n\\]\nGolekana $f\\left(\\frac{\\pi}{3}\\right) + f(\\sqrt{45}) + f(8^{2/3})$.",
+        "answer": ""
+    },
+    "463": {
+        "content": "Linda, Sherry, June, lan Connie mlaku-mlaku ing sakubenge lingkungan omahe dodolan kue pramuka. Linda entuk $\\$27.47$, Sherry entuk $\\$35.23$, June entuk $\\$37.37$, lan Connie entuk $\\$26.52$. Sawise dodolan, dhuwite padha digabung dadi siji banjur digawa menyang bank kanggo ngowahi koin dadi dhuwit kertas. Pira dhuwit sing isih kari, ing sen, sawisé padha ngowahi koin dadi dhuwit kertas sak maksimalé?",
+        "answer": ""
+    },
+    "464": {
+        "content": "Ana pira nilai $x$ supaya soal matematika iki $\\frac{x-5}{x^2-9}$ ora bisa didefinisina?",
+        "answer": ""
+    },
+    "465": {
+        "content": "Yen $\\log_6 (x-y) + \\log_6 (x+y) = 2$ lan $\\log_y 5x = 2$, golekana $x$.",
+        "answer": ""
+    },
+    "466": {
+        "content": "Nalika wilangan cacah positif sing nduweni persis telu pembagi positif diurutna saka cilik nganti gedhe, apa angka kaping lima ing urutan kuwi?",
+        "answer": ""
+    },
+    "467": {
+        "content": "Yen $re^{i \\theta}$ iku akar saka\n\\[z^8 - z^7 + z^6 - z^5 + z^4 - z^3 + z^2 - z + 1 = 0,\\]\ning ngendi $r > 0$ lan $0 \\le \\theta < 2 \\pi,$ banjur golekana jumlah kabeh kemungkinan nilai $\\theta.$",
+        "answer": ""
+    },
+    "468": {
+        "content": "Ing diagram, pira ambane segitiga sing diarsir? [asy]\nfill((0,0)--(2,3)--(10,0)--cycle,gray);\ndraw((0,0)--(10,0)--(10,3)--(0,3)--cycle,linewidth(1));\ndraw((0,0)--(2,3)--(10,0),linewidth(1));\nlabel(\"10 cm\",(5,3),N);\nlabel(\"10 cm\",(5,0),S);\nlabel(\"3 cm\",(0,1.5),W);\nlabel(\"3 cm\",(10,1.5),E);\ndraw((0,2.5)--(.5,2.5)--(.5,3));\ndraw((10,2.5)--(9.5,2.5)--(9.5,3));\n[/asy]",
+        "answer": ""
+    },
+    "469": {
+        "content": "Akar pangkat loro saka $t$ luwih gedhe tinimbang $2$ lan luwih cilik tinimbang $3.5$. Ana pira nilai wilangan bulat $t$ sing menuhi syarat kuwi?",
+        "answer": ""
+    },
+    "470": {
+        "content": "Evaluasi $\\lceil{\\sqrt{20}}\\rceil^2$.\"",
+        "answer": ""
+    },
+    "471": {
+        "content": "Anggepen $a,$ $b,$ $c,$ lan $d$ iku bilangan real positif sing $a + b + c + d = 10.$  Golekana nilai maksimum saka $ab^2 c^3 d^4.$",
+        "answer": ""
+    },
+    "472": {
+        "content": "Sakelas ana 30 siswa sing wis melu ujian. Yen 20 siswa entuk skor 80, 8 siswa entuk skor 90, lan 2 siswa entuk skor 100, pira nilai rata-rata kelas (mean) ing ujian iki?",
+        "answer": ""
+    },
+    "473": {
+        "content": "Nalika mlaku 50 mil saben jam, sepira adohé mobil bakal lelungan ing $2\\frac{3}{4}$ jam? Wangsulana nganggo bentuk angka campuran.",
+        "answer": ""
+    },
+    "474": {
+        "content": "Ing ngisor iki ana persegi ajaib, artine jumlah angka ing saben baris, saben kolom, lan saben ing rong diagonal utamane padha. Pira nilaie $n$?\n\n[asy]size(125);\nfor(int i = 0; i<4; ++i)\n{\n\ndraw((0,i)--(3,i),linewidth(1));\n}\n\nfor(int j = 0; j<4; ++j)\n{\n\ndraw((j,0)--(j,3),linewidth(1));\n}\n\nlabel(\"$n-3$\",(.5,.5));\nlabel(\"3\",(.5,1.5));\nlabel(\"$n+1$\",(.5,2.5));\n\nlabel(\"$n+2$\",(1.5,.5));\nlabel(\"$2n-9$\",(1.5,1.5));\nlabel(\"$1$\",(1.5,2.5));\n\nlabel(\"$2$\",(2.5,.5));\nlabel(\"$n$\",(2.5,1.5));\nlabel(\"$n-1$\",(2.5,2.5));\n[/asy]",
+        "answer": ""
+    },
+    "475": {
+        "content": "Golekana nilaie $\\log_2{3} \\cdot \\log_3{4} \\cdot \\log_4{5} \\cdot \\log_5{6} \\cdot \\log_6{7} \\cdot \\log_7{8}$.",
+        "answer": ""
+    },
+    "476": {
+        "content": "Nalika nguncalake dadu enem sisi sing ora adil nduweni angka 1, 2, 3, 4, 5, lan 6, probabilitas entuk sisi $F$ luwih gedhe tinimbang $1/6$, probabilitas entuk sisi sing berlawanan karo sisi $F$ luwih cilik tinimbang $1/6$, probabilitas entuk saben sisi liyane yaiku $1/6$, lan jumlah angka ing saben pasangan sisi sing berlawanan iku 7. Nalika rong dadu kaya ngene diuncalake, probabilitas entuk jumlah 7 yaiku $ \\frac{47}{288} $. Yen probabilitas entuk sisi $F$ yaiku $m/n$, ing ngendi $m$ lan $n$ iku wilangan bulat positif sing relatif prima, Temtokna $m+n$.",
+        "answer": ""
+    },
+    "477": {
+        "content": "Jim lan Martha padha ngadeg bareng ing pojok lapangan persegi panjang. Jim mlaku ngliwati diagonale lapangan. Martha tekan panggonan sing padha sawise mlaku ngliwati dawa lan ambane lapangan. Lapangan kuwi ambane 300 kaki lan dawane 400 kaki. Pira kaki luwih sithik jarake Jim mlaku tinimbang Martha?",
+        "answer": ""
+    },
+    "478": {
+        "content": "Rong digit Angka $``B6,''$ ing ngendi $B$ iku digit puluhan, yaiku pangkat loro saka bilangan bulat positif. Ana pira kemungkinan nilai beda kanggo $B$?",
+        "answer": ""
+    },
+    "479": {
+        "content": "Golekana jumlah kabeh solusi kompleks saka persamaan\n\\[\n\\frac{1}{x^2 - 1} + \\frac{2}{x^2 - 2} + \\frac{3}{x^2 - 3} + \\frac{4}{x^2 - 4} = 2010x - 4.\n\\]",
+        "answer": ""
+    },
+    "480": {
+        "content": "Ana wilangan prima terhingga $p$, sing kongruensine $$8x\\equiv 1\\pmod{p}$$ ora nduwèni solusi penyelesaian $x$. Temtokna jumlah kabèh wilangan prima $p$ kuwi.",
+        "answer": ""
+    },
+    "481": {
+        "content": "Anggep $\\omega$ iku angka kompleks sing nduweni sifat $\\omega^3 = 1.$ Golekana kabeh kemungkinan nilai saka\n\\[\\frac{1}{1 + \\omega} + \\frac{1}{1 + \\omega^2}.\\]\nLebokna kabeh kemungkinan nilaine, dipisah nganggo koma.",
+        "answer": ""
+    },
+    "482": {
+        "content": "Anggep $n$ iku bilangan bulat positif.  Sederhanana ekspresi\n\\[\n\\frac{(2^4 + \\frac{1}{4})(4^4 + \\frac{1}{4}) \\dotsm [(2n)^4 + \\frac{1}{4}]}{(1^4 + \\frac{1}{4})(3^4 + \\frac{1}{4}) \\dotsm [(2n - 1)^4 + \\frac{1}{4}]}.\n\\]\"",
+        "answer": ""
+    },
+    "483": {
+        "content": "Yen $\\frac{a}{b}$ iku probabilitas minangka kuwalikane wilangan bulat positif kurang saka 2010 sing dipilih acak iku ngasilake desimal terhingga, kanthi $a$ lan $b$ iku wilangan bulat prima relatif positif, pira $a+b$?",
+        "answer": ""
+    },
+    "484": {
+        "content": "Luas segitiga $ABC$ padha karo $a^2 - (b - c)^2,$ ing ngendi $a,$ $b,$ lan $c$ iku sisi-sisi segitiga $ABC,$ kaya biasane.  Itungen $\\tan A.$",
+        "answer": ""
+    },
+    "485": {
+        "content": "Temtokna solusi saka\n\\[\\sqrt{x + \\sqrt{3x + 6}} + \\sqrt{x - \\sqrt{3x + 6}} = 6.\\]",
+        "answer": ""
+    },
+    "486": {
+        "content": "Pira jarak paling cedhak sing bisa ditempuh yen miwiti saka salah siji titik iki sembarang, $A$, $B$, $C$, utawa $D$, lan ngunjungi telu titik liyane mung ping kapisan?\n\n[asy]\npair A,B,C, D;\nA = (-3,3); B = (3,0); C = (0, -4); D = (0,0);\ndraw(D--B--C--cycle); draw(D--A--B--cycle);draw(D--A--C--cycle);\nlabel(\"$A$\", A, NW);label(\"$B$\", B, E); label(\"$C$\", C, S);label(\"$D$\", D, NE);\nlabel(\"3\", D--B, S); label(\"6\", A--B, NE); label(\"6\", A--C, SW); label(\"4\", D--C, NW+N);\nlabel(\"5\", A--D, SE+NE); label(\"5\", C--B, E);\n[/asy]",
+        "answer": ""
+    },
+    "487": {
+        "content": "Sawijining bal wesi duwe jari-jari 3 inci digawe saka ngilangi logam saka pojok-pojoke kubus sing duwé dawa sisi paling cilik. Pira inci kubik volume kubuse?",
+        "answer": ""
+    },
+    "488": {
+        "content": "Temtokna sisa bagi modulo 4 saka jumlah iki: \n$$ 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 + 12. $$",
+        "answer": ""
+    },
+    "489": {
+        "content": "Regane kaos sing didol iku ditandhani $\\$14.40$, yaiku $60\\%$ luwih murah saka rega asline. Pira rega asline kaos kasebut ing dolar?",
+        "answer": ""
+    },
+    "490": {
+        "content": "Anggep $f(x)=|x-p|+|x-15|+|x-p-15|,$ kanthi $0 < p < 15.$ Golekana nilai minimal sing bisa dijupuk $f(x)$ kanggo $x$ ing interval $p \\leq x \\leq 15.$",
+        "answer": ""
+    },
+    "491": {
+        "content": "Anggep polinomial\n$$f(x) = a_nx^n + a_{n-1}x^{n-1} + \\cdots + a_2x^2 + a_1x + a_0$$\nduwé koefisien bilangan bulat, lan akar-akare iku bilangan bulat sing béda-béda.\n\nDiwenehi $a_n=2$ lan $a_0=66$, pira nilai paling cilik saka $|a_{n-1}|$?",
+        "answer": ""
+    },
+    "492": {
+        "content": "Tom entuk Mr. Potato Head nalika ulang tahune. Iki ana 3 model rambut, 2 pasang alis, 1 pasang mripat goyang, 2 pasang kuping, lan 2 pasang lambe, siji pasang sepatu biasa, lan bonus siji pasang sepatu badut. Yen siji kepribadian lengkap Mr. Potato Head kudu ana alis, mripat, kuping, lambe, sepatu, lan rambut (rambut bisa opsional ora nganggo), pira kombinasi kepribadian unik sing bisa digawe Tom? Catetan, Mr. Potato Head bisa botak.\n\nCathetan: Ora bisa \"nyampur lan nyocokna\". Contone, ora kena njupuk alis kiwa saka siji pasang lan alis tengen saka pasang liyane.",
+        "answer": ""
+    },
+    "493": {
+        "content": "Himpunan vektor $\\mathbf{v}$ sehingga\n\\[\\operatorname{proj}_{\\begin{pmatrix} 2 \\\\ 1 \\end{pmatrix}} \\mathbf{v} = \\begin{pmatrix} 0 \\\\ 0 \\end{pmatrix}\\]\nana ing siji garis. Lebokna persamaan garis iki nganggo bentuk \"$y = mx + b$\".",
+        "answer": ""
+    },
+    "494": {
+        "content": "Angka $(\\sqrt{2}+\\sqrt{3})^3$ bisa ditulis nganggo bentuk $a\\sqrt{2} + b\\sqrt{3} + c\\sqrt{6}$, ing ngendi $a$, $b$, lan $c$ iku bilangan bulat.  Pira nilai $a+b+c$?",
+        "answer": ""
+    },
+    "495": {
+        "content": "Anggep $S$ iku himpunan titik $(a,b)$ kanthi $0 \\le a,$ $b \\le 1$ supaya persamaan\n\\[\nx^4 + ax^3 - bx^2 + ax + 1 = 0\n\\]\nduwéni minimal siji akar real.  Temtokna luas grafik saka $S.$",
+        "answer": ""
+    },
+    "496": {
+        "content": "Apa domain saka fungsi $f(x) = \\frac{2-x}{\\log(2-\\log(x-2))}$, ing ngendi $\\log$ iku fungsi logaritma basis $10$? Tulisen wangsulanmu nganggo notasi interval.",
+        "answer": ""
+    },
+    "497": {
+        "content": "Anggep $z = 1+i$ lan $w = \\dfrac{3z+1}{5z+7}$. Golekana $|w|$.\"",
+        "answer": ""
+    },
+    "498": {
+        "content": "Sawijining segi wolu sudut beraturan nduweni papat sisi sing dawane $1$ lan papat sisi sing dawane $\\frac{\\sqrt{2}}{2}$, diatur supaya ora ana rong sisi jejeran sing dawane padha. Pira luase segi wolu kuwi?",
+        "answer": ""
+    },
+    "499": {
+        "content": "Siji barisan deret $(a_n)$ didefinisina kaya ngene:\n\\[\na_{i + 1} = \\frac{1}{1 - a_i}\n\\]\nkanggo $i \\ge 1.$ Yen $a_3 = a_1,$ itungen $(a_9)^9.$",
+        "answer": ""
+    },
+    "500": {
+        "content": "Garis tinggi $\\overline{AD}$ lan $\\overline{BE}$ saka $\\triangle ABC$ podo kepotong ing $H$. Yen $\\angle BAC = 54^\\circ$ lan $\\angle ABC = 52^\\circ$, banjur piro $\\angle AHB$?",
+        "answer": ""
+    }
+}

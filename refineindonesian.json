@@ -1,0 +1,2002 @@
+{
+    "1": {
+        "content": "Konversikan titik $(0,3)$ dari koordinat kartesius ke koordinat polar. Tuliskan jawaban dalam bentuk $(r,\\theta),$ dimana $r > 0$ dan $0 \\le \\theta < 2 \\pi.$",
+        "answer": ""
+    },
+    "2": {
+        "content": "Definisikan\n\\[\np = \\sum_{k = 1}^\\infty \\frac{1}{k^2} \\quad \\text{dan} \\quad q = \\sum_{k = 1}^\\infty \\frac{1}{k^3}.\n\\]\nTemukan cara untuk menuliskan\n\\[\n\\sum_{j = 1}^\\infty \\sum_{k = 1}^\\infty \\frac{1}{(j + k)^3}\n\\]\ndalam bentuk $p$ dan $q.$",
+        "answer": ""
+    },
+    "3": {
+        "content": "Jika $f(x) = \\frac{3x-2}{x-2}$, berapakah nilai dari $f(-2) + f(-1) + f(0)$? Nyatakan jawaban Anda sebagai pecahan biasa.",
+        "answer": ""
+    },
+    "4": {
+        "content": "Berapa banyak pembagi bilangan bulat positif yang dimiliki 196?",
+        "answer": ""
+    },
+    "5": {
+        "content": "Hasil dari latihan lari tim lintas negara digambarkan pada grafik di bawah ini. Siswa manakah yang memiliki kecepatan rata-rata tertinggi? [asy]\nfor ( int i = 1; i <= 7; ++i )\n{\n\ndraw((i,0)--(i,6));\n}\n\nfor ( int i = 1; i <= 5; ++i )\n{\n\ndraw((0,i)--(8,i));\n}\ndraw((-0.5,0)--(8,0), linewidth(1));\ndraw((0,-0.5)--(0,6), linewidth(1));\nlabel(\"$O$\", (0,0), SW);\nlabel(scale(.85)*rotate(90)*\"jarak\", (0, 3), W);\nlabel(scale(.85)*\"waktu\", (4, 0), S);\ndot((1.25, 4.5));\nlabel(scale(.85)*\"Evelyn\", (1.25, 4.8), N);\ndot((2.5, 2.2));\nlabel(scale(.85)*\"Briana\", (2.5, 2.2), S);\ndot((4.25,5.2));\nlabel(scale(.85)*\"Carla\", (4.25, 5.2), SE);\ndot((5.6, 2.8));\nlabel(scale(.85)*\"Debra\", (5.6, 2.8), N);\ndot((6.8, 1.4));\nlabel(scale(.85)*\"Angela\", (6.8, 1.4), E);\n[/asy]",
+        "answer": ""
+    },
+    "6": {
+        "content": "Sebuah segi enam beraturan dapat dibagi menjadi enam segitiga sama sisi. Jika keliling salah satu segitiga tersebut adalah 21 inci, berapakah keliling, dalam satuan inci, dari segi enam beraturan tersebut?",
+        "answer": ""
+    },
+    "7": {
+        "content": "Apakah bilangan kubik sempurna positif terkecil yang dapat dituliskan sebagai jumlah dari tiga bilangan bulat berurutan?",
+        "answer": ""
+    },
+    "8": {
+        "content": "Himpunan titik $(x,y,z)$ yang memenuhi\n\\[2x = 3y = -z\\]\nadalah sebuah garis.\n\nHimpunan titik $(x,y,z)$ yang memenuhi\n\\[6x = -y = -4z\\]\nadalah garis lain.\n\nTentukan sudut antara kedua garis ini, dalam satuan derajat.",
+        "answer": ""
+    },
+    "9": {
+        "content": "Berapakah jarak, dalam satuan, antara titik $(2, -6)$ dan $(-4, 3)$? Berikan jawaban dalam bentuk akar paling sederhana.",
+        "answer": ""
+    },
+    "10": {
+        "content": "Soal matematika $2\\cdot 3 \\cdot 4\\cdot 5+1$ bernilai 121, karena operasi perkalian dilakukan sebelum penjumlahan. Namun, kita dapat memperoleh nilai selain 121 dari soal ini jika kita diperbolehkan mengubahnya dengan menyisipkan tanda kurung. Sebagai contoh, kita dapat memperoleh 144 dengan menuliskan\n\\[\n(2\\cdot (3\\cdot 4)) \\cdot (5+1) = 144.\n\\]\nSecara keseluruhan, ada berapa banyak nilai yang dapat diperoleh dari ekspresi $2\\cdot 3\\cdot 4 \\cdot 5 + 1$ dengan menyisipkan tanda kurung? (Perhatikan bahwa mengubah urutan suku tidak diperbolehkan, hanya menyisipkan tanda kurung saja).",
+        "answer": ""
+    },
+    "11": {
+        "content": "Berapa kelipatan positif terkecil dari 30 yang dapat dituliskan hanya dengan menggunakan angka 0 dan 2 saja?",
+        "answer": ""
+    },
+    "12": {
+        "content": "Misalkan $p(x)$ adalah sebuah polinomial derajat 5 sehingga\n\\[p(n) = \\frac{n}{n^2 - 1}\\]\nuntuk $n = 2,$ 3, 4, $\\dots,$ 7.  Tentukan $p(8).$",
+        "answer": ""
+    },
+    "13": {
+        "content": "Pembagi sejati dari 12 adalah 1, 2, 3, 4, dan 6. Pembagi sejati dari suatu bilangan bulat $N$ adalah pembagi positif dari $N$ yang kurang dari $N$. Berapakah jumlah pembagi sejati dari jumlah pembagi sejati dari 284?",
+        "answer": ""
+    },
+    "14": {
+        "content": "Volume tabung yang ditunjukkan adalah $45\\pi$ cm kubik. Berapakah tinggi tabung tersebut dalam sentimeter? [asy]\nsize(120);\ndraw(shift(2.2,0)*yscale(0.3)*Circle((0,0), 1.2));\n\ndraw((1,0)--(1,-2));\ndraw((3.4,0)--(3.4,-2));\n\ndraw((1,-2)..(2.2,-2.36)..(3.4,-2));\n\nlabel(\"$h$\",midpoint((3.4,0)--(3.4,-2)),E);\n\ndraw (((2.2,0)--(3.4,0)));\n\nlabel(\"$r=3$\",midpoint((2.2,0)--(3.4,0)),N);\n\n[/asy]",
+        "answer": ""
+    },
+    "15": {
+        "content": "Misalkan $\\sin D = 0{,}7$ pada diagram di bawah ini. Berapakah nilai $DE$? [asy]\npair D,E,F;\nF = (0,0);\nD = (sqrt(51),7);\nE = (0,7);\ndraw(D--E--F--D);\ndraw(rightanglemark(D,E,F,15));\nlabel(\"$D$\",D,NE);\nlabel(\"$E$\",E,NW);\nlabel(\"$F$\",F,SW);\nlabel(\"$7$\",(E+F)/2,W);\n[/asy]",
+        "answer": ""
+    },
+    "16": {
+        "content": "Misalkan $z = 2 + \\sqrt{2} - (3 + 3 \\sqrt{2})i$, dan misalkan $c = 2 - 3i$. Misalkan $w$ adalah hasil ketika $z$ diputar mengelilingi $c$ sebesar $\\frac{\\pi}{4}$ berlawanan arah jarum jam.\n\n[asy]\nunitsize(0.6 cm);\n\npair C, W, Z;\n\nZ = (2 + sqrt(2), -3 - 3*sqrt(2));\nC = (2,-3);\nW = rotate(45,C)*(Z);\n\ndraw(Z--C--W);\n\ndot(\"$c$\", C, N);\ndot(\"$w$\", W, SE);\ndot(\"$z$\", Z, S);\nlabel(\"$\\frac{\\pi}{4}$\", C + (0.6,-1));\n[/asy]\n\nTentukan $w.$",
+        "answer": ""
+    },
+    "17": {
+        "content": "Hitung: $1-2+3-4+5- \\dots +99-100$.",
+        "answer": ""
+    },
+    "18": {
+        "content": "Di bawah ini adalah grafik dari $y = a \\sin (bx + c) + d$ untuk beberapa konstanta positif $a,$ $b,$ $c,$ dan $d.$ Temukan nilai terkecil yang mungkin dari $c.$\n\n[asy]import TrigMacros;\n\nsize(400);\n\nreal f(real x)\n{\nreturn 2*sin(3*x + pi) + 1;\n}\n\ndraw(graph(f,-3*pi,3*pi,n=700,join=operator ..),red);\ntrig_axes(-3*pi,3*pi,-4,4,pi/2,1);\nlayer();\nrm_trig_labels(-5,5, 2);\n\nlabel(\"$1$\", (0,1), E);\nlabel(\"$2$\", (0,2), E);\nlabel(\"$3$\", (0,3), E);\nlabel(\"$-1$\", (0,-1), E);\nlabel(\"$-2$\", (0,-2), E);\nlabel(\"$-3$\", (0,-3), E);\n[/asy]",
+        "answer": ""
+    },
+    "19": {
+        "content": "$\\overline{BC}$ sejajar dengan ruas garis yang melalui $A$, dan $AB = BC$. Berapakah nilai derajat yang diwakili oleh $x$?\n\n[asy]\ndraw((0,0)--(10,0));\ndraw((0,3)--(10,3));\ndraw((2,3)--(8,0));\ndraw((2,3)--(4,0));\nlabel(\"$A$\",(2,3),N);\nlabel(\"$B$\",(4,0),S);\nlabel(\"$C$\",(8,0),S);\nlabel(\"$124^{\\circ}$\",(2,3),SW);\nlabel(\"$x^{\\circ}$\",(4.5,3),S);\n[/asy]",
+        "answer": ""
+    },
+    "20": {
+        "content": "Misalkan $a$ adalah bilangan real positif sedemikian sehingga semua akar dari\n\\[\nx^3 + ax^2 + ax + 1 = 0\n\\]\nadalah bilangan real.  Temukan nilai terkecil yang mungkin dari $a.$",
+        "answer": ""
+    },
+    "21": {
+        "content": "Evaluasi $(1+2i)6-3i$.",
+        "answer": ""
+    },
+    "22": {
+        "content": "Temukan bilangan bulat terbesar yang kurang dari $(\\sqrt{7} + \\sqrt{5})^6.$ (Jangan gunakan kalkulator!)",
+        "answer": ""
+    },
+    "23": {
+        "content": "Denali dan Nate bekerja untuk sebuah bisnis jasa jalan-jalan anjing dan dibayar untuk setiap anjing yang mereka ajak jalan-jalan. Denali bertanggung jawab atas $16$ anjing dan Nate bertanggung jawab atas $12$ anjing. Berdasarkan kebijakan baru perusahaan, mereka akan diberikan atau dikurangi jumlah anjing baru dalam kelompok berjumlah $x$ anjing. Rasio gaji Denali terhadap gaji Nate akan sama jika Denali mulai mengajak jalan $4x$ anjing lebih banyak dan Nate tetap dengan $12$ anjing, atau jika $x$ anjing milik Nate dipindahkan ke Denali. Temukan nilai $x$ jika $x\\neq0$.",
+        "answer": ""
+    },
+    "24": {
+        "content": "Cari semua nilai $x$ yang memenuhi persamaan $x = \\!\\sqrt{11-2x} + 4$.",
+        "answer": ""
+    },
+    "25": {
+        "content": "Seorang pekerja menerima upah tahunan sebesar $\\$20{,}000$, yang selalu ia setorkan ke dalam rekening tabungan pada akhir tahun. Pada akhir tahun ketiga (saat ia melakukan setoran ketiga), ia ingin memiliki setidaknya $\\$66,200$ di rekening tersebut untuk membiayai pembelian rumah. Berapakah tingkat bunga bank majemuk minimal yang harus didapatkan rekening tabungan tersebut? Nyatakan jawaban Anda dalam bentuk persentase, tetapi jangan sertakan tanda persen.",
+        "answer": ""
+    },
+    "26": {
+        "content": "Fungsi $f$ memenuhi persamaan fungsional\n\\[f(x) + f(y) = f(x + y) - xy - 1\\]\nuntuk semua bilangan real $x$ dan $y.$ Jika $f(1) = 1,$ maka tentukan semua bilangan bulat $n$ sehingga $f(n) = n.$ Masukkan semua bilangan bulat tersebut, dipisahkan dengan koma.",
+        "answer": ""
+    },
+    "27": {
+        "content": "Dalam berapa banyak cara $7$ orang dapat duduk mengelilingi sebuah meja bundar jika tidak ada dua dari $3$ orang Pierre, Rosa, dan Thomas yang boleh duduk bersebelahan? (Pengaturan tempat duduk yang merupakan rotasi satu sama lain dianggap sama.)",
+        "answer": ""
+    },
+    "28": {
+        "content": "Sebuah klub matematika menjual kue sebagai penggalangan dana untuk kegiatan perjalanan siswa yang akan datang. Mereka menjual $54$ kukis dengan harga $\\$1$ untuk tiga kukis, dan $20$ cupcake seharga $\\$2$ masing-masing, serta $35$ brownies seharga $\\$1$ masing-masing. Jika biaya yang dikeluarkan klub matematika untuk membuat kue-kue ini adalah $\\$15$, berapakah keuntungan mereka?",
+        "answer": ""
+    },
+    "29": {
+        "content": "Sebuah rotasi $90^\\circ$ terhadap titik asal ke arah berlawanan jarum jam diterapkan pada $7 + 2i.$  Berapakah bilangan kompleks yang dihasilkan?",
+        "answer": ""
+    },
+    "30": {
+        "content": "Tentara Yunani terdiri dari dua jenis prajurit: prajurit kelas atas dan prajurit kelas bawah. Jika terdapat total 5 prajurit kelas atas dan 10 prajurit kelas bawah di suatu bagian Athena, dan pertempuran Thermopylae membutuhkan pasukan yang terdiri dari 4 prajurit kelas atas dan 8 prajurit kelas bawah, berapa banyak batalion berbeda yang dapat dikirim?",
+        "answer": ""
+    },
+    "31": {
+        "content": "Tentukan hasil kali dari $6_8 \\cdot 7_8.$ Nyatakan jawaban Anda dalam basis $8.$",
+        "answer": ""
+    },
+    "32": {
+        "content": "Sederhanakan $\\sqrt{242}$.",
+        "answer": ""
+    },
+    "33": {
+        "content": "Ada berapa banyak cara 8 orang dapat duduk mengelilingi sebuah meja bundar jika ada 3 orang -- Pierre, Rosa, dan Thomas -- yang ingin duduk bersama? (Dua susunan tempat duduk dianggap sama jika salah satu merupakan rotasi dari yang lain.)",
+        "answer": ""
+    },
+    "34": {
+        "content": "Perhatikan barisan geometri $\\frac{125}{9}, \\frac{25}{3}, 5, 3, \\ldots$. Berapakah suku kedelapan dari barisan tersebut? Tuliskan jawaban sebagai pecahan biasa.",
+        "answer": ""
+    },
+    "35": {
+        "content": "Cari suku konstant dalam pengembangan dari $$\\left(10x^3-\\frac{1}{2x^2}\\right)^{5}$$",
+        "answer": ""
+    },
+    "36": {
+        "content": "Jika $n \\equiv 2 \\pmod{7}$, maka carilah sisa dari pembagian $(n + 2)(n + 4)(n + 6)$ dengan 7.",
+        "answer": ""
+    },
+    "37": {
+        "content": "Temukan akar-akar dari $(x - 3)^3 + (x -7)^3 = (2x - 10)^3.$",
+        "answer": ""
+    },
+    "38": {
+        "content": "Sebuah pentagon beraturan diputar berlawanan arah jarum jam terhadap pusatnya. Berapa jumlah derajat minimum yang harus diputar agar pentagon tersebut berhimpitan dengan posisi semula?",
+        "answer": ""
+    },
+    "39": {
+        "content": "Jika satu kaleng kecil buah persik memiliki $40$ kalori dan merupakan $2\\%$ dari kebutuhan kalori harian seseorang, berapa banyak kalori yang memenuhi kebutuhan kalori harian seseorang?",
+        "answer": ""
+    },
+    "40": {
+        "content": "Berapakah hasil ketika faktor persekutuan terbesar dari 6432 dan 132 ditambah dengan 11?",
+        "answer": ""
+    },
+    "41": {
+        "content": "Sebuah segi delapan beraturan memiliki keliling yang sama dengan segi enam beraturan yang ditunjukkan di sini dengan panjang sisi 16 cm. Berapa panjang setiap sisi segi delapan tersebut? [asy]size(80); pair A = dir(120); pair B=dir(60); pair M=(A+B)/2; draw(dir(360)--B--A--dir(180)--dir(240)--dir(300)--cycle); label(\"16 cm\", M, N);[/asy]",
+        "answer": ""
+    },
+    "42": {
+        "content": "Koordinat sebuah jajar genjang adalah (5, 3), (6, 8), (7, 4), dan $(x, y)$ dengan $x > 7$. Berapakah nilai $x + y$?",
+        "answer": ""
+    },
+    "43": {
+        "content": "Penyelesaian dari $-4 < 2(x - 1) < 8$ dinyatakan dalam bentuk $a < x < b$. Temukan nilai dari $a + b$.",
+        "answer": ""
+    },
+    "44": {
+        "content": "Untuk $0 \\le x \\le 40$ dan $0 \\le y \\le 50,$ carilah nilai minimum dari\n\\[\\sqrt{x^2 + 400} + \\sqrt{y^2 + 900} + \\sqrt{x^2 + y^2 - 80x - 100y + 4100}.\\]",
+        "answer": ""
+    },
+    "45": {
+        "content": "Bill berjalan sejauh $\\frac{1}{2}$ mil ke selatan, lalu $\\frac{3}{4}$ mil ke timur, dan akhirnya $\\frac{1}{2}$ mil ke selatan. Berapa mil jarak Bill, dalam garis lurus, dari titik awalnya? Nyatakan jawaban Anda dalam bentuk desimal hingga dua angka di belakang koma.",
+        "answer": ""
+    },
+    "46": {
+        "content": "Pada segitiga siku-siku $ABC$ dengan $\\angle B = 90^\\circ$, diketahui $\\sin A = 2\\cos A$. Berapakah nilai $\\tan A$?",
+        "answer": ""
+    },
+    "47": {
+        "content": "Berapakah bilangan bulat positif terkecil $n$ sehingga semua akar dari $z^4 + z^2 + 1 = 0$ merupakan akar kesatuan dengan pangkat $n$?",
+        "answer": ""
+    },
+    "48": {
+        "content": "Grafik dari $f(x)=\\frac{2x}{x^2-5x-14}$ memiliki asimtot vertikal $x=a$ dan $x=b$, serta asimtot horizontal $y=c$.  Tentukan $a+b+c$.",
+        "answer": ""
+    },
+    "49": {
+        "content": "Pangkat berapa dari 4 yang sama dengan 8? Berikan jawaban dalam bentuk pecahan biasa.",
+        "answer": ""
+    },
+    "50": {
+        "content": "Setengah dari nilai $3x-9$ adalah $x+37$. Berapakah nilai $x$?",
+        "answer": ""
+    },
+    "51": {
+        "content": "Kamu memiliki tujuh kantong koin emas. Setiap kantong memiliki jumlah koin emas yang sama. Suatu hari, kamu menemukan sebuah kantong berisi 53 koin. Kamu memutuskan untuk mendistribusikan ulang jumlah koin yang kamu miliki sehingga delapan kantong yang kamu pegang memiliki jumlah koin yang sama. Kamu berhasil mendistribusikan ulang semua koin, dan kamu juga mencatat bahwa kamu memiliki lebih dari 200 koin. Berapakah jumlah koin terkecil yang mungkin kamu miliki sebelum menemukan kantong berisi 53 koin tersebut?”",
+        "answer": ""
+    },
+    "52": {
+        "content": "Temukan hasil bagi ketika $x^6 - 3$ dibagi dengan $x + 1.$",
+        "answer": ""
+    },
+    "53": {
+        "content": "Sederhanakan: $\\frac{\\sqrt{2.5^2-0.7^2}}{2.7-2.5}$.",
+        "answer": ""
+    },
+    "54": {
+        "content": "Hitung $\\arcsin \\left( -\\frac{1}{2} \\right).$  Nyatakan jawaban Anda dalam radian.",
+        "answer": ""
+    },
+    "55": {
+        "content": "Tuliskan $\\frac{3}{20}$ sebagai desimal.",
+        "answer": ""
+    },
+    "56": {
+        "content": "Misalkan $f$ adalah sebuah polinomial sehingga \\[(x-1)\\cdot f(x)=3x^4+x^3 - 25x^2 +38x -17.\\] Berapakah derajat dari $f$?",
+        "answer": ""
+    },
+    "57": {
+        "content": "Jumlah dari $N$ bilangan ganjil positif pertama adalah 121. Berapakah nilai $N$?",
+        "answer": ""
+    },
+    "58": {
+        "content": "Riproarin' Ringo sedang menangkap seekor anak sapi liar yang sulit diatur. Ringo memutuskan untuk memberi kesempatan pada anak sapi itu dengan menghitung \\[|(1-i)^8|\\] sebelum kembali mengejar anak sapi tersebut. Jawaban apa yang seharusnya ditemukan Ringo?",
+        "answer": ""
+    },
+    "59": {
+        "content": "Hitung $99^2+99+1$ di dalam kepala Anda.",
+        "answer": ""
+    },
+    "60": {
+        "content": "Dalam sebuah kelas yang terdiri dari 50 siswa, 28 siswa mengikuti MATHCOUNTS, 21 siswa mengikuti klub sains, dan 6 siswa tidak mengikuti keduanya. Berapa banyak siswa yang mengikuti baik MATHCOUNTS maupun klub sains?",
+        "answer": ""
+    },
+    "61": {
+        "content": "Polinomial $x^3 - 3x^2 + 4x - 1$ adalah faktor dari $x^9 + px^6 + qx^3 + r.$ Masukkan tripel terurut $(p,q,r).$",
+        "answer": ""
+    },
+    "62": {
+        "content": "Untuk beberapa bilangan real $a$ dan $b$, persamaan\n\\[\n8x^3 + 4ax^2 + 2bx + a = 0\n\\]\nmemiliki tiga akar positif yang berbeda. Jika jumlah logaritma basis-2 dari akar-akarnya adalah 5, berapakah nilai $a$?",
+        "answer": ""
+    },
+    "63": {
+        "content": "Temukan bilangan real positif terkecil $C$ sehingga\n\\[\\left\\| \\begin{pmatrix} 2 & 3 \\\\ 0 & -2 \\end{pmatrix} \\bold{v} \\right\\| \\le C \\|\\bold{v}\\|\\]\nuntuk semua vektor dua dimensi $\\bold{v}.$\n\nPerhatikan bahwa untuk vektor dua dimensi $\\mathbf{a},$ $\\|\\mathbf{a}\\|$ adalah magnitudo dari $\\mathbf{a}.$",
+        "answer": ""
+    },
+    "64": {
+        "content": "Misalkan\n\\[\nx^8 + 3x^4 - 4 = p_1(x) p_2(x) \\dotsm p_k(x),\n\\]\ndi mana setiap polinomial tidak konstan $p_i(x)$ adalah polinomial monik dengan koefisien bilangan bulat, dan tidak dapat difaktorkan lebih lanjut di atas bilangan bulat. Hitung $p_1(1) + p_2(1) + \\dots + p_k(1).$",
+        "answer": ""
+    },
+    "65": {
+        "content": "Terdapat konstanta $a$, $b$, $c$, dan $d$ sehingga\n\\[(\\sin x)^7 = a \\sin 7x + b \\sin 5x + c \\sin 3x + d \\sin x\\]\nuntuk semua sudut $x$. Tentukan nilai $d$.",
+        "answer": ""
+    },
+    "66": {
+        "content": "Berapakah nilai $1^{(2^{235423523})}$?",
+        "answer": ""
+    },
+    "67": {
+        "content": "Uraikan dan sederhanakan sepenuhnya: \\begin{align*}\nx\\left(x(1+x)+2x\\right)-3(x^2-x+2)\n\\end{align*}",
+        "answer": ""
+    },
+    "68": {
+        "content": "Panjang dua sisi yang berlawanan dari sebuah persegi dikurangi sebesar $40\\%$ sementara panjang dua sisi lainnya ditambah sebesar $50\\%$ sehingga membentuk sebuah persegi panjang. Berapa persen penurunan luas persegi tersebut?",
+        "answer": ""
+    },
+    "69": {
+        "content": "Untuk suatu nilai $x,$ $0 < x < 180,$\n\\[\\tan 53^\\circ \\tan 81^\\circ \\tan x^\\circ = \\tan 53^\\circ + \\tan 81^\\circ + \\tan x^\\circ.\\]\nTentukan $x.$",
+        "answer": ""
+    },
+    "70": {
+        "content": "Misalkan $z$ adalah sebuah bilangan kompleks sehingga $z^5 = 1$ dan $z \\neq 1.$ Hitunglah\n\\[\nz + \\frac{1}{z} + z^2 + \\frac{1}{z^2}.\n\\]",
+        "answer": ""
+    },
+    "71": {
+        "content": "Hitung $58_9 - 18_9.$ Nyatakan jawaban Anda dalam basis $9.$",
+        "answer": ""
+    },
+    "72": {
+        "content": "Bilangan biner $10101001110_{2}$ sama dengan bilangan berapa dalam basis delapan?",
+        "answer": ""
+    },
+    "73": {
+        "content": "Berapakah panjang, dalam satuan jarak, jari-jari sebuah bola yang volume dan luas permukaannya, masing-masing dalam satuan kubik dan satuan persegi, bernilai sama secara numerik?",
+        "answer": ""
+    },
+    "74": {
+        "content": "Operasi $\\&$ didefinisikan untuk bilangan bulat positif $a$ dan $b$ sebagai $a \\& b = \\displaystyle\\frac{\\sqrt{a b + a}}{\\sqrt{a b - b}}$. Berapakah nilai dari $9 \\& 2$? Jawablah sebagai pecahan biasa dalam bentuk akar yang paling sederhana.",
+        "answer": ""
+    },
+    "75": {
+        "content": "Sederhanakan\n\\[\\frac{\\sec x}{\\sin x} - \\frac{\\sin x}{\\cos x}.\\]",
+        "answer": ""
+    },
+    "76": {
+        "content": "Dua dadu adil dengan 6 sisi dilempar. Berapakah probabilitas bahwa hasil kali kedua angka tersebut merupakan kelipatan 5? Jawablah dalam bentuk pecahan biasa.",
+        "answer": ""
+    },
+    "77": {
+        "content": "Jika domain dari fungsi $\\log x^2$ adalah $x < a$ atau $x > b$, untuk beberapa $a$ dan $b$, tentukan $a + b$.",
+        "answer": ""
+    },
+    "78": {
+        "content": "Jika $2^8=4^x$, berapakah nilai $x$?",
+        "answer": ""
+    },
+    "79": {
+        "content": "Diketahui $f(x) = x^3 + 3x^2 + 1.$  Terdapat bilangan real $a \\neq 0$ dan $b,$ sehingga\n\\[f(x) - f(a) = (x - a)^2 (x - b).\\]\nTuliskan pasangan terurut $(a,b).$",
+        "answer": ""
+    },
+    "80": {
+        "content": "Untuk nilai $x$ berapakah yang memenuhi $2^3\\cdot3^x=72$?",
+        "answer": ""
+    },
+    "81": {
+        "content": "Tentukan banyaknya nilai $k$ yang merupakan bilangan bulat dalam interval tertutup $[-500,500]$ sehingga persamaan $\\log(kx)=2\\log(x+2)$ memiliki tepat satu solusi real.",
+        "answer": ""
+    },
+    "82": {
+        "content": "Sepuluh treek memiliki berat yang sama dengan tiga squig dan satu goolee. Dua treek dan satu goolee setara beratnya dengan satu squig. Jumlah treek sebanyak berapa yang jika digabungkan beratnya sama dengan satu squig?",
+        "answer": ""
+    },
+    "83": {
+        "content": "Titik $A$ terletak di suatu tempat di dalam atau pada persegi yang memiliki sudut-sudut berlawanan di $(0,0)$ dan $(2,2)$. Titik $B$ terletak di suatu tempat di dalam atau pada persegi yang memiliki sudut-sudut berlawanan di $(4,2)$ dan $(5,3)$. Berapakah nilai gradien terbesar yang mungkin dari garis yang melalui titik $A$ dan $B$? Jawablah dalam bentuk pecahan biasa.",
+        "answer": ""
+    },
+    "84": {
+        "content": "Carilah nilai $x$ yang memenuhi: $3^{2x} + 19 = 10^x$.",
+        "answer": ""
+    },
+    "85": {
+        "content": "Hasil kali dari $3t^2+5t+a$ dan $4t^2+bt-2$ adalah $12t^4+26t^3-8t^2-16t+6$. Berapakah nilai $a+b$?",
+        "answer": ""
+    },
+    "86": {
+        "content": "Sebuah tangki silinder tegak dengan alas berbentuk lingkaran sedang diisi air dengan laju $20\\pi$ meter kubik per jam. Saat tangki diisi, permukaan air naik setinggi empat meter per jam. Berapakah jari-jari tangki tersebut, dalam satuan meter? Tuliskan jawaban dalam bentuk akar paling sederhana.",
+        "answer": ""
+    },
+    "87": {
+        "content": "Kamu memiliki 5 kemeja, 6 pasang celana, dan 8 topi. Berapa banyak kombinasi pakaian yang dapat kamu buat yang terdiri dari satu kemeja, satu pasang celana, dan satu topi?",
+        "answer": ""
+    },
+    "88": {
+        "content": "Carilah nilai terbesar dari $x$  yang memenuhi persamaan $|5x-1|=x+3$.",
+        "answer": ""
+    },
+    "89": {
+        "content": "Pertimbangkan fungsi \\[ f(x) =\n\\begin{cases}\nax^2 & \\text{jika } x \\geq a,\\\\\nax +2a& \\text{jika } x <a,\n\\end{cases}\n\\]di mana $a$ adalah suatu bilangan.\n\nBerapakah nilai $a$ terbesar sehingga grafik $y=f(x)$ memotong setiap garis horizontal setidaknya satu kali?",
+        "answer": ""
+    },
+    "90": {
+        "content": "Cari faktor persekutuan terbesar dari $3339$, $2961$, dan $1491$.",
+        "answer": ""
+    },
+    "91": {
+        "content": "Remmy ingin membagi $10$ dengan $\\frac{2}{3}$, tetapi ia tidak ingat bagaimana cara melakukannya. Dengan bilangan berapakah ia harus mengalikan $10$ untuk mendapatkan jawabannya?",
+        "answer": ""
+    },
+    "92": {
+        "content": "Diketahui $f(x) = \\frac{\\sqrt{x-1}}{x-2}$, berapakah nilai bilangan bulat terkecil untuk $x$ sehingga $f(x)$ memiliki nilai bilangan real?",
+        "answer": ""
+    },
+    "93": {
+        "content": "Seorang bajak laut mencari harta karun yang terkubur di tujuh pulau. Jika setiap pulau memiliki peluang $\\frac{1}{5}$ untuk memiliki harta karun, berapakah probabilitas bahwa tepat 4 pulau dari pulau-pulau tersebut memiliki harta karun?",
+        "answer": ""
+    },
+    "94": {
+        "content": "Untuk nilai $c$ berapakah lingkaran dengan persamaan $x^2 - 10x + y^2 + 6y + c = 0$ akan memiliki jari-jari sepanjang 1?",
+        "answer": ""
+    },
+    "95": {
+        "content": "Pada bangun segiempat quadrilateral $ABCD$, sudut $BAD$ dan sudut $CDA$ dibagi tiga seperti yang ditunjukkan. Berapakah besar sudut $AFD$ dalam derajat?\n\n[asy]\nsize(150);\npair A , B, C, D; A = (0,0); B = (2, 4); C = (7,4); D = (7, -2);\ndraw( (0,0)--(2,4) -- (7,4) -- (7, -2)-- cycle);\nlabel(\"$A$\", A, SW);\nlabel(\"$B$\", B, NW);\nlabel(\"$C$\", C, NE);\nlabel(\"$D$\", D, SE);\npair E, F;\nE = (4.5-.2,1-.2); F = (5, 3);\ndraw(A--E--D); draw(A--F--D);\nlabel(\"$E$\", E, N); label(\"$F$\", F, NW);\ndot(A);dot(B);dot(C);dot(D);dot(E);dot(F);\nlabel(\"$x$\", (1, 1.5), S); label(\"$x$\", (2, 1), S+W); label(\"$x$\", (2, -1), N+N+N+W);\nlabel(\"$y$\", (5.5+.3, .5-.3), S); label(\"$y$\", (6.5+.3, 0)); label(\"$y$\", (5+.5, -1.5+.3));\nlabel(\"$110^{\\circ}$\",(2.5,3.5)); label(\"$100^{\\circ}$\",(6.5-.2,3.5));\n[/asy]",
+        "answer": ""
+    },
+    "96": {
+        "content": "Proyeksi dari $\\begin{pmatrix} 2 \\\\ y \\\\ -5 \\end{pmatrix}$ pada $\\begin{pmatrix} 1 \\\\ -2 \\\\ 1 \\end{pmatrix}$ adalah\n\\[\\frac{5}{6} \\begin{pmatrix} 1 \\\\ -2 \\\\ 1 \\end{pmatrix}.\\]\nCari nilai $y.$",
+        "answer": ""
+    },
+    "97": {
+        "content": "Cari akar-akar real dari\n\\[\n\\frac{( x+ 1)(x - 3)}{5(x + 2)(x - 4)} + \\frac{(x + 3)(x - 5)}{9(x + 4)(x - 6)} - \\frac{2(x + 5)(x - 7)}{13(x + 6)(x - 8)} = \\frac{92}{585}.\n\\]\nMasukkan akar-akar real tersebut, dipisahkan dengan tanda baca koma.",
+        "answer": ""
+    },
+    "98": {
+        "content": "Seorang pemain seluncur es indah sedang menghadap ke utara ketika ia mulai berputar ke kanan. Ia berputar sebesar 2250 derajat. Ke arah mana (utara, selatan, timur, atau barat) ia menghadap ketika ia selesai berputar?",
+        "answer": ""
+    },
+    "99": {
+        "content": "Sederhanakan $(-k + 4) + (-2 + 3k)$.",
+        "answer": ""
+    },
+    "100": {
+        "content": "Jika $\\mathbf{a} = \\begin{pmatrix} 1 \\\\ 1 \\\\ 1 \\end{pmatrix},$ maka carilah vektor $\\mathbf{v}$ sehingga $\\mathbf{a} \\cdot \\mathbf{v} = 2$ dan $\\mathbf{a} \\times \\mathbf{v} = \\begin{pmatrix} 1 \\\\ -2 \\\\ 1 \\end{pmatrix}.$",
+        "answer": ""
+    },
+    "101": {
+        "content": "Sebuah segi enam digambarkan di dalam sebuah lingkaran: [asy]\npair pA, pB, pC, pD, pE, pF, pO;\npO = (0, 0);\npA = pO + dir(-10);\npB = pO + dir(60);\npC = pO + dir(130);\npD = pO + dir(170);\npE = pO + dir(-160);\npF = pO + dir(-80);\ndraw(pA--pB--pC--pD--pE--pF--pA);\nlabel(\"$105^\\circ$\", pF, N * 2);\nlabel(\"$110^\\circ$\", pB, SW * 1.5);\nlabel(\"$\\alpha$\", pD, E);\ndraw(circle(pO, 1));\n[/asy] Berapakah besar sudut $\\alpha$, dalam derajat?",
+        "answer": ""
+    },
+    "102": {
+        "content": "Persamaan\n\\[\nx^{10}+(13x-1)^{10}=0\\,\n\\]\nmemiliki 10 akar kompleks $r_1,$ $\\overline{r}_1,$ $r_2,$ $\\overline{r}_2,$ $r_3,$ $\\overline{r}_3,$ $r_4,$ $\\overline{r}_4,$ $r_5,$ $\\overline{r}_5,$ di mana tanda bar menunjukkan konjugasi kompleks. Tentukan nilai dari\n\\[\n\\frac 1{r_1\\overline{r}_1}+\\frac 1{r_2\\overline{r}_2}+\\frac 1{r_3\\overline{r}_3}+\\frac 1{r_4\\overline{r}_4}+\\frac 1{r_5\\overline{r}_5}.\n\\]",
+        "answer": ""
+    },
+    "103": {
+        "content": "Faktorkan persamaan $ab+5b+2a+10$.",
+        "answer": ""
+    },
+    "104": {
+        "content": "Misalkan $\\lambda$ adalah sebuah konstanta, $0 \\le \\lambda \\le 4,$ dan misalkan $f : [0,1] \\to [0,1]$ didefinisikan oleh\n\\[f(x) = \\lambda x(1 - x).\\]\nTentukan nilai-nilai $\\lambda,$ $0 \\le \\lambda \\le 4,$ sehingga terdapat $x \\in [0,1]$ dengan $f(x) \\neq x$ tetapi $f(f(x)) = x.$",
+        "answer": ""
+    },
+    "105": {
+        "content": "Grafik dari $x^2 + y^2 + 6x - 24y + 72 = 0$ dan $x^2 - y^2 + 6x + 16y - 46 = 0$ berpotongan di empat titik. Hitung jumlah jarak dari keempat titik ini ke titik $(-3,2).$",
+        "answer": ""
+    },
+    "106": {
+        "content": "Untuk delapan daerah yang tercantum di bawah ini, berapakah median jumlah siswa pada tahun $2005?$\n\n\\begin{tabular}[t]{|l|c|c|c|c|c|}\n\\multicolumn{6}{c}{\\textbf{Jumlah Siswa per County}}\\\\\\hline\n\\textbf{COUNTY}&\\textbf{$2001$}&\\textbf{$2002$}&\\textbf{$2003$}&\\textbf{$2004$}&\\textbf{$2005$}\\\\\\hline\nAiken&124&141&130&143&136\\\\\\hline\nBamberg&17&15&15&14&11\\\\\\hline\nBarnwell&25&22&26&28&29\\\\\\hline\nBerkeley&583&557&554&553&524\\\\\\hline\nCalhoun&15&12&10&18&11\\\\\\hline\nCherokee&19&13&18&13&19\\\\\\hline\nChesterfield&46&18&13&22&29\\\\\\hline\nColleton&64&49&52&46&41\\\\\\hline\n\\end{tabular}",
+        "answer": ""
+    },
+    "107": {
+        "content": "Pada nilai $y$ berapakah terdapat asimtot horizontal untuk grafik dari persamaan $y=\\frac{4x^3+2x-4}{3x^3-2x^2+5x-1}$?",
+        "answer": ""
+    },
+    "108": {
+        "content": "Ada berapa banyak elemen yang terdapat pada irisan himpunan semua bilangan prima kurang dari 30 dan himpunan semua bilangan ganjil lebih dari nol?",
+        "answer": ""
+    },
+    "109": {
+        "content": "Misalkan $F_1$ dan $F_2$ adalah titik fokus dari elips $kx^2 + y^2 = 1,$ di mana $k > 1$ adalah sebuah konstanta. Misalkan terdapat sebuah lingkaran yang melalui $F_1$ dan $F_2$ dan yang menyinggung elips di dua titik pada sumbu-$x$. Hitunglah $k.$",
+        "answer": ""
+    },
+    "110": {
+        "content": "Tentukan ukuran sudut dalam derajat dari sudut positif terkecil $\\theta$ sehingga\n\\[\\tan \\theta = \\frac{\\cos 5^\\circ \\cos 20^\\circ + \\cos 35^\\circ \\cos 50^\\circ - \\sin 5^\\circ \\sin 20^\\circ - \\sin 35^\\circ \\sin 50^\\circ}{\\sin 5^\\circ \\cos 20^\\circ - \\sin 35^\\circ \\cos 50^\\circ + \\cos 5^\\circ \\sin 20^\\circ - \\cos 35^\\circ \\sin 50^\\circ}.\\]",
+        "answer": ""
+    },
+    "111": {
+        "content": "Suatu barisan bilangan bulat positif yang selalu naik $a_1$, $a_2$, $a_3$, $\\dots$ memiliki sifat bahwa untuk setiap bilangan bulat positif $k$, sub-barisan $a_{2k-1}$, $a_{2k}$, $a_{2k+1}$ membentuk barisan geometri dan sub-barisan $a_{2k}$, $a_{2k+1}$, $a_{2k+2}$ membentuk barisan aritmetika. Misalkan $a_{13} = 2016$. Tentukan $a_1$.",
+        "answer": ""
+    },
+    "112": {
+        "content": "Pak Brennan memiliki 7 siswa laki-laki dan 4 siswa perempuan di kelas statistiknya. Ada berapa banyak cara ia dapat memilih 3 siswa laki-laki dan 2 siswa perempuan untuk memberikan presentasi kelompok besok? (Urutan pemilihan siswa laki-laki dan siswa perempuan tidak berpengaruh.)",
+        "answer": ""
+    },
+    "113": {
+        "content": "Sederhanakan $\\frac{1+\\sqrt{2}}{2+\\sqrt{3}}$. Solusi Anda dapat diubah ke dalam bentuk $A(1+\\sqrt{B})-(\\sqrt{C}+\\sqrt{D})$, di mana $A$, $B$, $C$, dan $D$ adalah bilangan bulat positif. Berapakah nilai $A+B+C+D$?",
+        "answer": ""
+    },
+    "114": {
+        "content": "Berapakah nilai dari $(26^2 - 24^2 - 10)^2 - 10^2$?",
+        "answer": ""
+    },
+    "115": {
+        "content": "Tentukan hasil perkalian $CD$ dari bilangan bulat $C$ dan $D$ sehingga\n\\[\\frac{C}{x-3}+\\frac{D}{x+8}=\\frac{4x-23}{x^2+5x-24}\\]\nuntuk semua nilai real dari $x$ kecuali $-8$ dan $3$.",
+        "answer": ""
+    },
+    "116": {
+        "content": "Tentukan jumlah cara untuk menyusun huruf-huruf dari kata ELLIPSE.",
+        "answer": ""
+    },
+    "117": {
+        "content": "Carilah nilai $x$ dari persamaan: $2^{2x} = 256^\\frac{1}{2}$.",
+        "answer": ""
+    },
+    "118": {
+        "content": "Jika $\\sqrt{3x-5}=2$, tentukan semua nilai $x$ yang mungkin.",
+        "answer": ""
+    },
+    "119": {
+        "content": "Tentukan banyak pasangan terurut $(a,b)$ dari bilangan bulat sehingga $|a + bi| \\le 5.$",
+        "answer": ""
+    },
+    "120": {
+        "content": "Soal matematika \n$$1 + 2 + 3 - 4 + 5 + 6$$\nsetara dengan 13. Jika kita menambahkan tanda kurung di berbagai tempat, kita dapat mengubah nilai ini. Sebagai contoh, $1+2+3-(4+5)+6=1+2+3-9+6=6-9+6=3$. Jika kita hanya diperbolehkan untuk menambahkan tanda kurung (dan tidak mengubah urutan suku), berapakah nilai minimum yang mungkin diperoleh dari soal ini? (Untuk soal ini, kita tidak boleh mengubah operasi penjumlahan atau pengurangan menjadi perkalian. Sebagai contoh, $ (1+2+3)(-4)+5+6 $ bukanlah penempatan tanda kurung yang valid.)\n\nMasukkan jawaban Anda sebagai satu nilai.",
+        "answer": ""
+    },
+    "121": {
+        "content": "Misalkan $f(x)$ adalah fungsi ganjil, dan $g(x)$ adalah fungsi genap. Apakah $f(f(g(f(g(f(x))))))$ merupakan fungsi genap, ganjil, atau bukan keduanya?\n\nMasukkan \"ganjil\", \"genap\", atau \"bukan keduanya\".",
+        "answer": ""
+    },
+    "122": {
+        "content": "Carilah nilai $x$: $\\frac{x}2 + \\frac{x}3 = 5$",
+        "answer": ""
+    },
+    "123": {
+        "content": "Daniel bekerja di sebuah toko elektronik, dan ia mengklaim bahwa popularitas sebuah televisi (diukur dari jumlah penjualan) berbanding terbalik dengan harganya. Jika 15 pelanggan membeli sebuah televisi yang harganya $\\$1500$, menurut teori Daniel, berapa banyak pelanggan yang akan membeli sebuah televisi yang harganya $\\$2500$?",
+        "answer": ""
+    },
+    "124": {
+        "content": "Pada sebuah diagram, $D$ dan $E$ adalah titik tengah dari $\\overline{AB}$ dan $\\overline{BC}$ secara berturut-turut. Tentukan luas dari bangun segiempat quadrilateral $DBEF$. [asy]\nsize(180); defaultpen(linewidth(.7pt)+fontsize(10pt));\npair A, B, C, D, E, F;\nA=(0,6);\nB=(0,0);\nC=(8,0);\nD=(0,3);\nE=(4,0);\nF=(8/3,2);\ndraw(E--A--C--D);\ndraw((-1,0)--(10,0), EndArrow);\ndraw((0,-1)--(0,8), EndArrow);\nlabel(\"$A(0,6)$\", A, W);\nlabel(\"$B(0,0)$\", B, SW);\nlabel(\"$C(8,0)$\", C, S);\nlabel(\"$D$\", D, W);\nlabel(\"$E$\", E, S);\nlabel(\"$F$\", F, SW);\nlabel(\"$x$\", (10,0), dir(0));\nlabel(\"$y$\", (0,8), dir(90));\n[/asy]",
+        "answer": ""
+    },
+    "125": {
+        "content": "Jika $|x+5|-|3x-6|=0$, carilah nilai $x$ terbesar yang memungkinkan. Nyatakan jawaban Anda sebagai pecahan tak wajar.",
+        "answer": ""
+    },
+    "126": {
+        "content": "Evaluasi $\\lceil (3.6)^2 \\rceil - ( \\lceil 3.6 \\rceil ) ^2$.",
+        "answer": ""
+    },
+    "127": {
+        "content": "Misalkan $F(z)=\\frac{z+i}{z-i}$ untuk semua bilangan kompleks $z\\not= i,$ dan misalkan $z_n=F(z_{n-1})$ untuk semua bilangan bulat positif $n.$ Diketahui bahwa $z_0=\\frac 1{137}+i,$ tentukan $z_{2002}.$",
+        "answer": ""
+    },
+    "128": {
+        "content": "Nyatakan $555_{10}$ dalam basis $5$.",
+        "answer": ""
+    },
+    "129": {
+        "content": "Suzanne berjalan sejauh empat mil setiap tiga hari sekali. Berapa jumlah mil paling sedikit yang dapat ia tempuh selama bulan Februari?",
+        "answer": ""
+    },
+    "130": {
+        "content": "Dalam segitiga $ABC$, $AB = 17$, $AC = 8$, dan $BC = 15$. Misalkan $D$ adalah kaki dari garis tinggi dari $C$ ke $AB$. Tentukan luas segitiga $ACD$.",
+        "answer": ""
+    },
+    "131": {
+        "content": "Bilangan bulat $n$ manakah yang memenuhi $0\\le n<18$ dan $$n\\equiv -11213141\\pmod{18}~?$$",
+        "answer": ""
+    },
+    "132": {
+        "content": "Jika $f(x)=ax^4-bx^2+x+5$ dan $f(-3)=2,$ maka berapakah nilai $f(3)$?",
+        "answer": ""
+    },
+    "133": {
+        "content": "Rick sedang memikirkan faktor positif dari $14$ dan Steve sedang memikirkan faktor positif dari $42$. Jika Rick dan Steve memikirkan angka yang sama, ada berapa banyak kemungkinan angka yang bisa mereka pikirkan?",
+        "answer": ""
+    },
+    "134": {
+        "content": "Dalam sebuah segiempat cembung, besar sudut terbesar adalah dua kali besar sudut terkecil, dan dua sudut lainnya masing-masing adalah sudut siku-siku. Berapa nilai derajat sudut terbesar tersebut?",
+        "answer": ""
+    },
+    "135": {
+        "content": "Misalkan $F_1 = (10,2)$ dan $F_2 = (-16,2).$ Maka himpunan titik-titik $P$ sehingga\n\\[\n|PF_1 - PF_2| = 24\n\\]\nmembentuk sebuah hiperbola. Persamaan hiperbola ini dapat dituliskan sebagai\n\\[\n\\frac{(x - h)^2}{a^2} - \\frac{(y - k)^2}{b^2} = 1.\n\\]\nTentukan nilai $h + k + a + b.$",
+        "answer": ""
+    },
+    "136": {
+        "content": "Berapa banyak angka nol di akhir $42!$ (42 faktorial)? (Pengingat: Angka $n!$ adalah hasil perkalian bilangan bulat dari 1 sampai $n$. Sebagai contoh, $5!=5\\cdot 4\\cdot3\\cdot2\\cdot 1= 120$.)",
+        "answer": ""
+    },
+    "137": {
+        "content": "Misalkan $(a_1, a_2, \\dots, a_n)$ adalah suatu barisan bilangan real positif, sehingga\n\\[\n\\sum_{i = 1}^n a_i = 96, \\quad \\sum_{i = 1}^n a_i^2 = 144, \\quad \\sum_{i = 1}^n a_i^3 = 216.\n\\]\nTentukan jumlah dari semua nilai $n$ yang mungkin.",
+        "answer": ""
+    },
+    "138": {
+        "content": "Nyatakan hasil bagi $413_5 \\div 2_5$ dalam basis 5.",
+        "answer": ""
+    },
+    "139": {
+        "content": "Bob dan Alice masing-masing memiliki sebuah kantong yang berisi satu bola dari setiap warna: biru, hijau, oranye, merah, dan ungu. Alice secara acak memilih satu bola dari kantongnya dan memasukkannya ke dalam kantong Bob. Kemudian, Bob secara acak memilih satu bola dari kantongnya dan memasukkannya ke dalam kantong Alice. Berapakah probabilitas bahwa setelah proses ini isi kedua kantong tersebut sama?",
+        "answer": ""
+    },
+    "140": {
+        "content": "Tentukan nilai maksimum dari\n\\[f(x,y) = x \\sqrt{1 - y^2} + y \\sqrt{1 - x^2},\\]\ndi mana $-1 \\le x,$ $y \\le 1.$",
+        "answer": ""
+    },
+    "141": {
+        "content": "Misalkan $n$ adalah bilangan bulat positif.  Berapakah nilai terbesar yang mungkin dari $\\gcd(n + 7, 2n + 1)$?",
+        "answer": ""
+    },
+    "142": {
+        "content": "Zach memiliki tiga tas dan sejumlah pensil yang akan dimasukkan ke dalam tas-tas tersebut. Ia diminta untuk memasukkan jumlah pensil terbanyak yang mungkin ke masing-masing dari ketiga tas tersebut, sambil memastikan jumlah pensil di setiap tas sama. Berapa jumlah pensil terbanyak yang bisa dia sisakan?",
+        "answer": ""
+    },
+    "143": {
+        "content": "Sebuah komite Senat terdiri dari 5 Demokrat, 5 Republik, dan 1 Independen. Ada berapa banyak cara mereka dapat duduk mengelilingi sebuah meja bundar jika semua anggota dari setiap partai harus duduk bersebelahan? (Dua susunan duduk dianggap sama jika salah satunya merupakan rotasi dari yang lain.)",
+        "answer": ""
+    },
+    "144": {
+        "content": "Titik-titik $O,$ $A,$ dan $B$ memenuhi $\\overrightarrow{OA} = \\begin{pmatrix} 1 \\\\ 2 \\\\ 3 \\end{pmatrix}$ dan $\\overrightarrow{OB} = \\begin{pmatrix} -3 \\\\ -2 \\\\ 1 \\end{pmatrix}.$  Tentukan luas segitiga $OAB.$",
+        "answer": ""
+    },
+    "145": {
+        "content": "Sebuah kurva memiliki parameter\n\\[(x,y) = (t^3 + 7, -3t^2 - 6t - 5).\\]\nTentukan titik yang dilalui kurva tersebut pada $t = 2.$",
+        "answer": ""
+    },
+    "146": {
+        "content": "Misalkan $z$ adalah sebuah bilangan kompleks sehingga\n\\[z + \\frac{1}{z} = \\frac{1 + \\sqrt{5}}{2}.\\]\nTentukan nilai\n\\[z^{85} + \\frac{1}{z^{85}}.\\]",
+        "answer": ""
+    },
+    "147": {
+        "content": "Sederhanakan soal berikut ini:$$\\frac{3}{\\sqrt{27}}$$",
+        "answer": ""
+    },
+    "148": {
+        "content": "Misalkan $x,$ $y,$ dan $z$ adalah bilangan real positif sehingga $xyz = 2.$  Temukan nilai minimum dari\n\\[x^4 + 4y^2 + 4z^4.\\]",
+        "answer": ""
+    },
+    "149": {
+        "content": "Selesaikan persamaan berikut untuk $x$: \\[ \\ \\frac{2}{3} = \\frac{4}{x-5}.\\]",
+        "answer": ""
+    },
+    "150": {
+        "content": "Jika usia Rosa dibagi 2, 3, 4, atau 6, sisanya adalah 1. Jika usianya dibagi 7, sisanya adalah 0. Usianya kurang dari 75 tahun. Berapa usia Rosa?",
+        "answer": ""
+    },
+    "151": {
+        "content": "Untuk setiap bilangan bulat positif $n$, misalkan $\\text{mod}_5 (n)$ adalah sisa yang diperoleh ketika $n$ dibagi 5. Definisikan sebuah fungsi $f: \\{0,1,2,3,\\dots\\} \\times \\{0,1,2,3,4\\} \\to \\{0,1,2,3,4\\}$ secara rekursif sebagai berikut:\n\n\\[\nf(i,j) = \\begin{cases}\n\\text{mod}_5 (j+1) & \\text{ jika } i = 0 \\text{ dan } 0 \\le j \\le 4 \\text{,}\\\\\nf(i-1,1) & \\text{ jika } i \\ge 1 \\text{ dan } j = 0 \\text{, dan} \\\\\nf(i-1, f(i,j-1)) & \\text{ jika } i \\ge 1 \\text{ dan } 1 \\le j \\le 4.\n\\end{cases}\n\\]\nBerapakah nilai $f(2015,2)$?",
+        "answer": ""
+    },
+    "152": {
+        "content": "Misalkan $x_1,$ $x_2,$ $x_3,$ $y_1,$ $y_2,$ dan $y_3$ adalah bilangan real sedemikian sehingga\n\\begin{align*}\n(x_1 - x_2)^2 + (y_1 - y_2)^2 &= 9, \\\\\n(x_1 - x_3)^2 + (y_1 - y_3)^2 &= 16, \\\\\n(x_2 - x_3)^2 + (y_2 - y_3)^2 &= 25.\n\\end{align*}\nTentukan nilai $\\begin{vmatrix} x_1 & y_1 & 1 \\\\ x_2 & y_2 & 1 \\\\ x_3 & y_3 & 1 \\end{vmatrix}^2.$",
+        "answer": ""
+    },
+    "153": {
+        "content": "Garis $AD$, $BE$, dan $CF$ sebagai median dari segitiga $ABC$ berpotongan di titik centroid $G$. Garis yang melalui $G$ dan sejajar dengan $BC$ memotong $AB$ dan $AC$ masing-masing di $M$ dan $N$. Jika luas segitiga $ABC$ adalah 144, tentukan luas segitiga $ENG$.",
+        "answer": ""
+    },
+    "154": {
+        "content": "Sebuah himpunan yang terdiri dari tiga titik dipilih secara acak dari struktur kisi ditunjukkan pada gambar. Setiap pasang himpunan tiga titik memiliki peluang yang sama untuk dipilih. Berapakah probabilitas bahwa ketiga titik tersebut terletak pada satu garis lurus yang sama?\n\n[asy]\nsize(50);\nfor (int i=0; i<3; ++i) {\nfor (int j=0; j<3; ++j) {\ndot((i,j));};}\n[/asy]",
+        "answer": ""
+    },
+    "155": {
+        "content": "Seekor tokek berada di sebuah ruangan yang panjangnya 12 kaki, lebarnya 10 kaki, dan tingginya 8 kaki. Tokek tersebut saat ini berada di dinding samping ($10^{\\prime}$ x $8^{\\prime}$), satu kaki dari langit-langit dan satu kaki dari dinding belakang ($12^{\\prime}$ x $8^{\\prime}$). Tokek tersebut melihat seekor lalat di dinding samping yang berlawanan, satu kaki dari lantai dan satu kaki dari dinding depan. Berapakah panjang lintasan terpendek yang dapat ditempuh tokek untuk mencapai lalat tersebut, dengan asumsi bahwa tokek tidak melompat dan hanya dapat berjalan melintasi langit-langit dan dinding? Berikan jawaban dalam bentuk akar paling sederhana.",
+        "answer": ""
+    },
+    "156": {
+        "content": "Sebuah titik $(x,y)$ dipilih secara acak sedemikian sehingga $0 \\le x \\le 8$ dan $0 \\le y \\le 4$. Berapakah probabilitas bahwa $x+y \\le 4$? Berikan jawaban dalam bentuk pecahan biasa.",
+        "answer": ""
+    },
+    "157": {
+        "content": "Dua pelari, $A$ dan $B,$ mulai dari titik $O$ pada sebuah lintasan lurus, dan mulai berlari ke arah yang sama. Pelari $B$ berlari tiga kali lebih cepat dari pelari $A.$ Seorang pengamat berdiri di titik $P$ sehingga $\\overline{OP}$ tegak lurus terhadap lintasan. Temukan nilai maksimum dari $\\angle APB,$ dalam derajat.\n\n[asy]\nunitsize(2 cm);\n\npair A, B, O, P;\n\nA = (0.4,0);\nB = (1.2,0);\nO = (0,0);\nP = (0,1);\n\ndraw((-0.5,0)--(2,0));\ndraw(O--P);\ndraw(P--A);\ndraw(P--B);\n\nlabel(\"$A$\", A, S);\nlabel(\"$B$\", B, S);\nlabel(\"$O$\", O, S);\nlabel(\"$P$\", P, N);\n[/asy]",
+        "answer": ""
+    },
+    "158": {
+        "content": "Hitung $a+b+c,$ dengan diketahui bahwa $a,$ $b,$ dan $c$ adalah akar-akar dari persamaan\n\\[\n\\frac{1}{x} + 5x^2 = 6x - 24.\n\\]",
+        "answer": ""
+    },
+    "159": {
+        "content": "Berapa jumlah dari semua kelipatan 7 antara 100 dan 200?",
+        "answer": ""
+    },
+    "160": {
+        "content": "Kuadrat $x^2+(2.6)x+3.6$ dapat dituliskan dalam bentuk $(x+b)^2+c$, di mana $b$ dan $c$ adalah konstanta. Berapakah nilai $b+c$ (dalam bentuk desimal)?",
+        "answer": ""
+    },
+    "161": {
+        "content": "Hasil kali dari dua bilangan genap positif berurutan adalah 288. Berapakah bilangan yang lebih besar dari kedua bilangan tersebut?",
+        "answer": ""
+    },
+    "162": {
+        "content": "Evaluasi $\\log_2 64$.",
+        "answer": ""
+    },
+    "163": {
+        "content": "Berapakah probabilitas bahwa sebuah bilangan bulat yang dipilih secara acak dari himpunan $$\\{1,2,3,\\ldots,100\\}$$ habis dibagi 2 dan tidak habis dibagi 3? Berikan jawaban dalam bentuk pecahan biasa.",
+        "answer": ""
+    },
+    "164": {
+        "content": "Jika $-6\\leq a \\leq -2$ dan $3 \\leq b \\leq 5$, berapakah nilai terbesar dari $\\displaystyle\\left(a+\\frac{1}{b}\\right)\\left(\\frac{1}{b}-a\\right) $?  Berikan jawaban dalam bentuk pecahan biasa.",
+        "answer": ""
+    },
+    "165": {
+        "content": "Sederhanakan $\\tan 100^\\circ + 4 \\sin 100^\\circ.$",
+        "answer": ""
+    },
+    "166": {
+        "content": "Sebuah rak buku memiliki 3 rak dengan total 24 buku. Rak paling atas memiliki 8 buku misteri. Rak tengah memiliki 10 buku matematika. Rak paling bawah memiliki 6 buku sains. Sekarang, dua buku diambil dari setiap rak. Berapa fraksi dari buku-buku yang tersisa di ketiga rak tersebut yang merupakan buku matematika? Nyatakan jawaban Anda sebagai pecahan biasa.",
+        "answer": ""
+    },
+    "167": {
+        "content": "Sebuah persegi dan sebuah heptagon beraturan terletak pada bidang yang sama dan berbagi sisi $\\overline{AD}$, seperti yang ditunjukkan. Berapakah besar sudut $BAC$ dalam derajat? Nyatakan jawaban Anda sebagai pecahan biasa.\n\n[asy]\nfor(int i=0; i <=7; ++i) {\ndraw(dir(360*i/7+90)--dir(360*(i+1)/7+90));\n}\npair A = dir(360*3/7+90);\npair F = dir(360*4/7+90);\npair C = A+dir(90)*(F-A);\npair D = C+F-A;\npair B = dir(360*2/7+90);\n\ndraw(A--C--D--F);\n\nlabel(\"$A$\",A,S);\nlabel(\"$B$\",B,W);\nlabel(\"$C$\",C,SE);\nlabel(\"$D$\",F,S);\n\n[/asy]",
+        "answer": ""
+    },
+    "168": {
+        "content": "Volume sebuah kerucut diberikan oleh rumus $V = \\frac{1}{3}Bh$, di mana $B$ adalah luas alas dan $h$ adalah tinggi. Luas alas sebuah kerucut adalah 30 satuan persegi, dan tingginya adalah 6,5 satuan. Berapakah volume kerucut tersebut dalam satuan kubik?",
+        "answer": ""
+    },
+    "169": {
+        "content": "Terdapat total 70 buah persegi dengan tiga ukuran yang titik sudutnya merupakan titik-titik pada grid persegi panjang $3\\times n$ ini. Berapakah nilai $n$?\n\n[asy]\n\nunitsize(0.4 inch);\n\ndot((0,0),linewidth(9bp));\ndot((1,0),linewidth(9bp));\ndot((2,0),linewidth(9bp));\ndot((0,1),linewidth(9bp));\ndot((0,2),linewidth(9bp));\ndot((1,1),linewidth(9bp));\ndot((2,1),linewidth(9bp));\ndot((1,2),linewidth(9bp));\ndot((2,2),linewidth(9bp));\n\nfilldraw((2.95,-0.05)--(3.05,-0.05)--(3.05,0.05)--(2.95,0.05)--cycle,black);\nfilldraw((2.45,-0.05)--(2.55,-0.05)--(2.55,0.05)--(2.45,0.05)--cycle,black);\nfilldraw((3.45,-0.05)--(3.55,-0.05)--(3.55,0.05)--(3.45,0.05)--cycle,black);\n\nfilldraw((2.95,0.95)--(3.05,0.95)--(3.05,1.05)--(2.95,1.05)--cycle,black);\nfilldraw((2.45,0.95)--(2.55,0.95)--(2.55,1.05)--(2.45,1.05)--cycle,black);\nfilldraw((3.45,0.95)--(3.55,0.95)--(3.55,1.05)--(3.45,1.05)--cycle,black);\n\nfilldraw((2.95,1.95)--(3.05,1.95)--(3.05,2.05)--(2.95,2.05)--cycle,black);\nfilldraw((2.45,1.95)--(2.55,1.95)--(2.55,2.05)--(2.45,2.05)--cycle,black);\nfilldraw((3.45,1.95)--(3.55,1.95)--(3.55,2.05)--(3.45,2.05)--cycle,black);\n\ndot((4,0),linewidth(9bp));\ndot((5,0),linewidth(9bp));\ndot((4,1),linewidth(9bp));\ndot((5,1),linewidth(9bp));\ndot((4,2),linewidth(9bp));\ndot((5,2),linewidth(9bp));\n\n[/asy]",
+        "answer": ""
+    },
+    "170": {
+        "content": "Berapakah jumlah unit persegi dalam luas sebuah segitiga yang panjang sisinya masing-masing 5, 5, dan 6 satuan jarak?",
+        "answer": ""
+    },
+    "171": {
+        "content": "Hitunglah hasil perkalian dari semua koordinat-$y$ dari semua solusi berbeda $(x,y)$ untuk dua persamaan $y=x^2-8$ dan $y^2=-5x+44$.",
+        "answer": ""
+    },
+    "172": {
+        "content": "Louis dan Jack sedang membagi sebuah pai untuk dimakan bersama. Louis memakan $\\frac{1}{5}$ bagian pai, dan Jack memakan $\\frac{2}{3}$ bagian pai. Berapa banyak pai yang dimakan Louis dan Jack secara keseluruhan?",
+        "answer": ""
+    },
+    "173": {
+        "content": "Jika suku keempat dari suatu barisan aritmetika adalah $200$ dan suku kedelapannya adalah $500$, berapakah suku keenamnya?",
+        "answer": ""
+    },
+    "174": {
+        "content": "Pertimbangkan deret geometri $4+\\frac{12}{a}+\\frac{36}{a^2}+\\cdots$. Jika jumlahnya merupakan sebuah kuadrat sempurna, berapakah nilai $a$ terkecil yang mungkin, di mana $a$ adalah bilangan bulat positif?",
+        "answer": ""
+    },
+    "175": {
+        "content": "Berapa banyak titik potong pada sumbu $y$ yang dimiliki grafik parabola $x = y^2 - 4y - 1$?",
+        "answer": ""
+    },
+    "176": {
+        "content": "Jika $m$ dan $n$ adalah bilangan bulat sehingga $3m + 4n = 100$, berapakah nilai terkecil yang mungkin dari $\\left| m - n \\right|$?",
+        "answer": ""
+    },
+    "177": {
+        "content": "Konversikan $\\frac{21}{2^2 \\cdot 5^7}$ menjadi desimal berhingga.",
+        "answer": ""
+    },
+    "178": {
+        "content": "Pada diagram, empat lingkaran dengan jari-jari 1 dan pusat di $P$, $Q$, $R$, dan $S$ saling menyinggung satu sama lain dan juga menyinggung sisi-sisi $\\triangle ABC$, seperti yang ditunjukkan. [asy]\nsize(200);\npair A, B, C, P, Q, R, S;\nR=(0,0);\nQ=(-2,0);\nS=(2,0);\nP=(1,1.732);\nB=(-5.73,-1);\nC=(3.732,-1);\nA=(1.366,3.098);\ndraw(A--B--C--A);\ndraw(circle(P, 1));\ndraw(circle(Q, 1));\ndraw(circle(R, 1));\ndraw(circle(S, 1));\nlabel(\"A\", A, N);\nlabel(\"B\", B, SW);\nlabel(\"C\", C, SE);\ndot(P);\ndot(Q);\ndot(R);\ndot(S);\nlabel(\"P\", P, N);\nlabel(\"Q\", Q, SW);\nlabel(\"R\", R, SW);\nlabel(\"S\", S, SE);\n[/asy]\n\nBerapakah besar sudut terkecil pada segitiga $PQS$?",
+        "answer": ""
+    },
+    "179": {
+        "content": "Berapa akar kuadrat positif dari hasil perkalian $10 \\times 15 \\times 24$?",
+        "answer": ""
+    },
+    "180": {
+        "content": "Carilah persamaan bidang yang memuat titik-titik $(0,-1,-1),$ $(-4,4,4),$ dan $(4,5,1).$ Berikan jawaban dalam bentuk\n\\[\nAx + By + Cz + D = 0,\n\\]\ndi mana $A,$ $B,$ $C,$ $D$ adalah bilangan bulat dengan $A > 0$ dan $\\gcd(|A|,|B|,|C|,|D|) = 1.$",
+        "answer": ""
+    },
+    "181": {
+        "content": "Berapa banyak bilangan bulat dua digit positif yang merupakan faktor dari 100 dan 150?",
+        "answer": ""
+    },
+    "182": {
+        "content": "Sederhanakan dan tuliskan hasilnya dengan penyebut rasional: $$\\sqrt{\\sqrt[3]{\\sqrt{\\frac{1}{729}}}}$$",
+        "answer": ""
+    },
+    "183": {
+        "content": "Dua pertiga dari siswa di Baker Middle School mengambil pelajaran musik. Ada 834 siswa yang mengambil pelajaran musik. Berapa jumlah siswa di Baker Middle School?",
+        "answer": ""
+    },
+    "184": {
+        "content": "Jika kita menulis $\\sqrt{2}+\\frac{1}{\\sqrt{2}} + \\sqrt{3} + \\frac{1}{\\sqrt{3}}$ dalam bentuk $\\dfrac{a\\sqrt{2} + b\\sqrt{3}}{c}$ sehingga $a$, $b$, dan $c$ adalah bilangan bulat positif dan $c$ sekecil mungkin, maka berapakah nilai $a+b+c$?",
+        "answer": ""
+    },
+    "185": {
+        "content": "Misalkan $a,$ $b,$ dan $c$ adalah bilangan real positif. Tentukan himpunan semua nilai yang mungkin dari\n\\[\\frac{c}{a} + \\frac{a}{b + c} + \\frac{b}{c}.\\]",
+        "answer": ""
+    },
+    "186": {
+        "content": "Carilah $k$, jika ${(3^k)}^6=3^6$.",
+        "answer": ""
+    },
+    "187": {
+        "content": "Untuk berapa banyak bilangan bulat positif $n>1$ yang benar sehingga $2^{24}$ adalah sebuah pangkat $n^{\\text{th}}$ yang sempurna?",
+        "answer": ""
+    },
+    "188": {
+        "content": "Hillary memiliki sebelas koin, semuanya berupa dime dan nickel. Secara total, koin-koin tersebut bernilai 75 sen. Berapa banyak nickel yang dimiliki Hillary?",
+        "answer": ""
+    },
+    "189": {
+        "content": "Temukan nilai $x$ terbesar di mana grafik dari $f(x)=e^{3x^2-|\\lfloor x \\rfloor|!}+\\binom{22+735235|\\lfloor x \\rfloor |}{2356}+\\phi(|\\lfloor x \\rfloor|+1)+72x^4+3x^3-6x^2+2x+1$ dan $g(x)=e^{3x^2-|\\lfloor x \\rfloor|!}+\\binom{22+735235|\\lfloor x \\rfloor |}{2356}+\\phi(|\\lfloor x \\rfloor|+1)+72x^4+4x^3-11x^2-6x+13$ berpotongan, di mana $\\lfloor x \\rfloor$ menyatakan fungsi pembulatan dari $x$, dan $\\phi(n)$ menyatakan jumlah bilangan bulat positif $\\leq n$ dan bilangan prima relatif terhadap $n$.",
+        "answer": ""
+    },
+    "190": {
+        "content": "Lima titik $A$, $B$, $C$, $D$, dan $O$ terletak pada sebuah bidang datar. $A$ terletak tepat di utara $O$, $B$ tepat di barat $O$, $C$ tepat di selatan $O$, dan $D$ tepat di timur $O$. Jarak antara $C$ dan $D$ adalah 140 m. Sebuah balon udara panas diposisikan di udara pada titik $H$ tepat di atas $O$. Balon tersebut ditahan di tempatnya oleh empat tali $HA$, $HB$, $HC$, dan $HD$. Tali $HC$ memiliki panjang 150 m dan tali $HD$ memiliki panjang 130 m.[asy]\nsize(250);\npair A, B, C, D, O, H, W, X, Y, Z;\nO=(0,0);\nA=(1,1);\nD=(1.5,-.3);\nB=(-1.5,.3);\nC=(-1,-1);\nH=(0,2.5);\nW=(5/3)*(A+D);\nX=(5/3)*(A+B);\nY=(-1)*(W);\nZ=(-1)*(X);\ndraw(W--X--Y--Z--W);\ndraw(A--C);\ndraw(B--D);\ndraw(O--H, linewidth(1));\ndraw(A--H, dashed);\ndraw(B--H, dashed);\ndraw(C--H, dashed);\ndraw(D--H, dashed);\ndot(A);\ndot(B);\ndot(C);\ndot(D);\ndot(O);\ndot(H);\nlabel(\"A\", A, NE);\nlabel(\"B\", B, SW);\nlabel(\"C\", C, SE);\nlabel(\"D\", D, NE);\nlabel(\"O\", O, SE);\nlabel(\"H\", H, NW);\n[/asy]\n\nUntuk mengurangi total panjang tali yang digunakan, tali $HC$ dan $HD$ akan digantikan oleh satu tali tunggal $HP$ di mana $P$ adalah sebuah titik pada garis lurus antara $C$ dan $D$. (Balon tetap berada di posisi $H$ di atas $O$ seperti yang telah dijelaskan di atas.) Tentukan panjang tali yang dapat dihemat sebanyak mungkin.",
+        "answer": ""
+    },
+    "191": {
+        "content": "Paul dan Jesse masing-masing memilih satu angka secara acak dari enam bilangan prima pertama. Berapakah probabilitas bahwa jumlah angka yang mereka pilih adalah genap?",
+        "answer": ""
+    },
+    "192": {
+        "content": "Titik $(a, b)$ terletak pada garis dengan persamaan $3x + 2y = 12.$ Ketika $a = 4$, berapakah nilai $b$?",
+        "answer": ""
+    },
+    "193": {
+        "content": "Pada $\\triangle PQR$, diketahui $PQ = QR = 34$ dan $PR = 32$. Tentukan panjang median $\\overline{QM}$.",
+        "answer": ""
+    },
+    "194": {
+        "content": "Sebuah polinomial dengan koefisien bulat berbentuk\n\\[2x^4 + a_3 x^3 + a_2 x^2 + a_1 x + 1 = 0.\\]\nTentukan banyaknya akar rasional berbeda yang mungkin dari polinomial ini.",
+        "answer": ""
+    },
+    "195": {
+        "content": "Carilah nilai maksimum dari\n\\[\\frac{x - y}{x^4 + y^4 + 6}\\]\nuntuk semua bilangan real $x$ dan $y$.",
+        "answer": ""
+    },
+    "196": {
+        "content": "Misalkan $p(x)$ adalah polinomial monik derajat 4. Tiga dari akar-akar $p(x)$ adalah 1, 2, dan 3. Tentukan nilai $p(0) + p(4).$",
+        "answer": ""
+    },
+    "197": {
+        "content": "$441+2(21)(19)+361=x$. Selesaikan untuk $x$.",
+        "answer": ""
+    },
+    "198": {
+        "content": "Jika $x^3$ adalah faktor positif dari $10!$, ada berapa banyak nilai bilangan bulat yang mungkin untuk $x$? (Pengingat: Untuk bilangan bulat positif $n$, ekspresi $n!$ adalah hasil kali dari bilangan bulat mulai dari 1 hingga (dan termasuk) $n$.)",
+        "answer": ""
+    },
+    "199": {
+        "content": "Ada berapa banyak cara 6 anak perempuan dan 2 anak laki-laki dapat duduk dalam satu baris jika 2 anak laki-laki tersebut bersikeras untuk duduk berdampingan?",
+        "answer": ""
+    },
+    "200": {
+        "content": "Nilai rata-rata aritmatika dari 7, 2, $x$, dan 10 adalah 9. Berapakah nilai $x$?",
+        "answer": ""
+    },
+    "201": {
+        "content": "Jika 4 dap = 7 yap, dan 5 yap = 3 bap, berapa banyak dap yang sama dengan 42 bap?",
+        "answer": ""
+    },
+    "202": {
+        "content": "Sekelompok $N$ siswa, dimana $N < 50$, sedang melakukan kunjungan lapangan. Jika guru mereka membagi mereka ke dalam kelompok berisi 8 orang, kelompok terakhir berisi 5 siswa. Jika guru mereka membagi mereka ke dalam kelompok berisi 6 orang, kelompok terakhir berisi 3 siswa. Berapakah jumlah dari semua nilai $N$ yang mungkin?",
+        "answer": ""
+    },
+    "203": {
+        "content": "Alice dan Bob sedang bermain sebuah permainan. Alice mulai terlebih dahulu. Pada giliran Alice, dia melempar sebuah koin. Jika dia mendapatkan sisi bergambar kepala, dia menang. Jika tidak, giliran akan berpindah ke Bob. Pada giliran Bob, dia melempar sebuah koin. Jika dia mendapatkan sisi ekor koin, dia menang. Jika tidak, giliran kembali ke Alice. Berapakah probabilitas bahwa Alice memenangkan permainan?",
+        "answer": ""
+    },
+    "204": {
+        "content": "Temukan sisa hasil pembagian ketika $(5x + 9)^{611} + (x + 5)^{11} + (x - 1)^{11} + 3x^2 + 1$ dibagi dengan $x + 2.$",
+        "answer": ""
+    },
+    "205": {
+        "content": "Misalkan $a,$ $b,$ $c,$ $d$ adalah bilangan kompleks yang unik sehingga $|a| = |b| = |c| = |d| = 1$ dan $a + b + c + d = 0.$  Tentukan nilai maksimum dari\n\\[\n|(a + b)(a + c)(a + d)(b + c)(b + d)(c + d)|.\n\\]",
+        "answer": ""
+    },
+    "206": {
+        "content": "Misalkan $\\mathbf{A}$ adalah sebuah matriks sehingga\n\\[\n\\mathbf{A} \\begin{pmatrix} 3 \\\\ 1 \\\\ 0 \\end{pmatrix} = \\begin{pmatrix} 2 \\\\ 4 \\\\ -3 \\end{pmatrix} \\quad \\text{dan} \\quad \\mathbf{A} \\begin{pmatrix} -5 \\\\ 2 \\\\ 2 \\end{pmatrix} = \\begin{pmatrix} 0 \\\\ -5 \\\\ -5 \\end{pmatrix}.\n\\]\nTentukan $\\mathbf{A} \\begin{pmatrix} -13 \\\\ 3 \\\\ 4 \\end{pmatrix}.$",
+        "answer": ""
+    },
+    "207": {
+        "content": "Sebuah garis diparameterisasi oleh\n\\[\n\\begin{pmatrix} x \\\\ y \\end{pmatrix} = \\begin{pmatrix} 8 \\\\ -1 \\end{pmatrix} + t \\begin{pmatrix} 2 \\\\ 3 \\end{pmatrix}.\n\\]\nPersamaan garis tersebut dapat dinyatakan dalam bentuk $y = mx + b.$ Masukkan pasangan terurut $(m,b).$",
+        "answer": ""
+    },
+    "208": {
+        "content": "Mikka ingin memesan pizza dengan dua topping yang berbeda. Ia memiliki 8 pilihan topping berbeda. Ada berapa banyak pizza berbeda yang dapat ia pesan?",
+        "answer": ""
+    },
+    "209": {
+        "content": "Berapa banyak dari seratus bilangan bulat positif pertama yang habis dibagi oleh $3, 4,$ dan $5?$",
+        "answer": ""
+    },
+    "210": {
+        "content": "Ketika bilangan bulat dua digit $``\\text{AB}\"$ dipangkatkan tiga, nilainya adalah $912,\\!673$. Berapakah nilai $A + B$?",
+        "answer": ""
+    },
+    "211": {
+        "content": "Dua belas persegi 1 x 1 membentuk sebuah persegi panjang, seperti yang ditunjukkan. Berapakah total luas daerah yang diarsir? [asy]\nsize(4cm);defaultpen(linewidth(0.75));\n\n// Filled portions\nfill((0, 4)--(0, 0)--(2, 0)--cycle, gray(0.75));\nfill((0, 4)--(3, 4)--(3, 0)--cycle, gray(0.75));\n\n// grid\nint j;\nfor (j = 0; j < 4; ++j) {draw((j, 0)--(j, 4));}\nfor (j = 0; j < 5; ++j) {draw((0, j)--(3, j));}\n\n//diagonals\ndraw((0, 4)--(3, 0)); draw((0, 4)--(2, 0));\n[/asy]",
+        "answer": ""
+    },
+    "212": {
+        "content": "Nyatakan $5^5\\div5^4-5^3+5^2\\cdot5^1$ sebagai bilangan bulat.",
+        "answer": ""
+    },
+    "213": {
+        "content": "Baru-baru ini, Frank mengikuti tes bakat dengan seratus soal di mana setiap jawaban benar mendapat $5$ poin, setiap jawaban salah mendapat $-2$ poin, dan setiap soal yang tidak dijawab mendapat nol poin. Frank menjawab $80$ soal dan memperoleh skor $232$ poin. Berapa banyak soal yang dijawab benar oleh Frank?",
+        "answer": ""
+    },
+    "214": {
+        "content": "Hitung\n\\[\n\\sum_{n = 1}^\\infty \\frac{F_{n + 1}}{F_n F_{n + 2}},\n\\]\ndi mana $F_n$ menyatakan bilangan Fibonacci ke-$n$, sehingga $F_0 = 0$ dan $F_1 = 1.$",
+        "answer": ""
+    },
+    "215": {
+        "content": "Ada 360 orang di sekolah saya. 15 orang mengambil kalkulus, fisika, dan kimia, dan 15 orang tidak mengambil salah satu dari ketiganya. 180 orang mengambil kalkulus. Jumlah siswa yang mengambil kimia adalah dua kali lebih banyak dibandingkan siswa yang mengambil fisika. 75 orang mengambil kalkulus dan kimia, dan 75 orang mengambil fisika dan kimia. Hanya 30 orang yang mengambil fisika dan kalkulus. Berapa banyak siswa yang mengambil fisika?",
+        "answer": ""
+    },
+    "216": {
+        "content": "Jika $x^2 - x - 1 = 0$, berapakah nilai dari $x^3 - 2x + 1$?",
+        "answer": ""
+    },
+    "217": {
+        "content": "Di negeri Ink, sistem uangnya unik. Satu Trinket sama dengan 4 Blinket, dan 3 Blinket sama dengan 7 Drinket. Dalam Trinket, berapakah nilai dari 56 Drinket?",
+        "answer": ""
+    },
+    "218": {
+        "content": "Berapa kelipatan positif terkecil dari 450 yang semua digitnya terdiri dari angka nol dan satu?",
+        "answer": ""
+    },
+    "219": {
+        "content": "Cari titik tengah dari ruas garis antara $(-5,5)$ dan $(3,7)$. Berikan jawaban dalam bentuk pasangan terurut, $(x,y)$.",
+        "answer": ""
+    },
+    "220": {
+        "content": "Roda yang ditunjukkan diputar dua kali, sehingga angka-angka yang ditunjukkan oleh penunjuk ditentukan secara acak (dengan setiap angka pada roda memiliki kemungkinan yang sama). Dua angka yang ditentukan dengan cara ini dicatat. Angka pertama dibagi 4, menentukan salah satu sisa 1, 2, 3 yang menandai kolom papan catur yang ditunjukkan. Angka kedua dibagi 5, menentukan salah satu sisa 1, 2, 3, 4 yang menandai baris papan catur. Akhirnya, sebuah bidak diletakkan pada kotak di mana kolom dan baris ini bertemu. Berapakah peluang bahwa bidak tersebut diletakkan pada kotak yang diarsir pada papan catur?\n\n[asy]\nunitsize(1cm);\ndraw(Circle((0,0),2),linewidth(0.7));\ndraw((1.7,1)--(-1.7,-1),linewidth(0.7));\ndraw((1.7,-1)--(-1.7,1),linewidth(0.7));\ndraw((0,2)--(0,-2));\nlabel(\"1\",(0.8,0.5),NW);\nlabel(\"2\",(0.8,-0.5),SW);\nlabel(\"6\",(-0.8,0.5),NE);\nlabel(\"9\",(-0.8,-0.5),SE);\nlabel(\"3\",(-0.7,0),W);\nlabel(\"7\",(0.7,0),E);\ndraw((-2.8,0)--(-2.1,0),Arrow);\nlabel(\"Pointer\",(-2.8,0),W);\nfill((3,0)--(3,1)--(4,1)--(4,0)--cycle,gray(0.7));\nfill((3,-2)--(3,-1)--(4,-1)--(4,-2)--cycle,gray(0.7));\nfill((4,1)--(4,2)--(5,2)--(5,1)--cycle,gray(0.7));\nfill((4,-1)--(4,0)--(5,0)--(5,-1)--cycle,gray(0.7));\nfill((5,0)--(5,1)--(6,1)--(6,0)--cycle,gray(0.7));\nfill((5,-2)--(5,-1)--(6,-1)--(6,-2)--cycle,gray(0.7));\ndraw((3,-2)--(3,2)--(6,2)--(6,-2)--cycle,linewidth(0.7));\ndraw((3,-1)--(6,-1),linewidth(0.7));\ndraw((3,0)--(6,0),linewidth(0.7));\ndraw((3,1)--(6,1),linewidth(0.7));\ndraw((4,-2)--(4,2),linewidth(0.7));\ndraw((5,-2)--(5,2),linewidth(0.7));\nlabel(\"1\",(3.5,-2),S);\nlabel(\"2\",(4.5,-2),S);\nlabel(\"3\",(5.5,-2),S);\nlabel(\"1\",(3,-1.5),W);\nlabel(\"2\",(3,-0.5),W);\nlabel(\"3\",(3,0.5),W);\nlabel(\"4\",(3,1.5),W);\n[/asy]",
+        "answer": ""
+    },
+    "221": {
+        "content": "Sam sedang membawa satu ember berisi 2 galon susu ke rumahnya dari kandang, yang berjarak 3 mil dari rumahnya. Namun, ember tersebut bocor. Untuk setiap mil yang ia lewati, susu di dalam ember tersisa $\\frac{2}{3}$ dari jumlah susu di awal perjalanan mil tersebut. Berapa galon susu yang akan tersisa di ember ketika Sam sampai di rumah?",
+        "answer": ""
+    },
+    "222": {
+        "content": "Hasil kali dari bilangan bulat 240 dan $k$ adalah sebuah kubus sempurna. Berapakah nilai positif terkecil dari $k$ yang mungkin?",
+        "answer": ""
+    },
+    "223": {
+        "content": "Luas $\\segitiga ABC$ adalah 6 sentimeter persegi. $\\overline{AB}\\|\\overline{DE}$. $BD=4BC$. Berapakah jumlah sentimeter persegi luas $\\segitiga CDE$? [asy]\ndraw((-.3,-3)--(.1,1)--(-1,0)--(3,0)--cycle);\nlabel(\"$A$\",(.1,1),N);\nlabel(\"$B$\",(-1,0),W);\nlabel(\"$C$\",(0,0),NE);\nlabel(\"$D$\",(3,0),E);\nlabel(\"$E$\",(-.3,-3),S);\n[/asy]",
+        "answer": ""
+    },
+    "224": {
+        "content": "Berapakah jumlah digit pada representasi bentuk desimal yang terhingga dari pecahan $\\frac{4321}{5^7\\cdot2^8}$?",
+        "answer": ""
+    },
+    "225": {
+        "content": "Hitung $\\sin 20^\\circ \\sin 40^\\circ \\sin 60^\\circ \\sin 80^\\circ \\sin 100^\\circ \\sin 120^\\circ \\sin 140^\\circ \\sin 160^\\circ.$",
+        "answer": ""
+    },
+    "226": {
+        "content": "Berapakah nilai dari $$\n(3x-2)(4x+1)-(3x-2)4x+1\n$$ ketika $x=4$?",
+        "answer": ""
+    },
+    "227": {
+        "content": "Ada berapa banyak cara untuk menempatkan 5 bola ke dalam 2 kotak jika bola-bola tersebut tidak dapat dibedakan dan kotaknya juga tidak dapat dibedakan?",
+        "answer": ""
+    },
+    "228": {
+        "content": "Untuk suatu konstanta $c,$ dalam koordinat silinder $(r,\\theta,z),$ tentukan bentuk yang dideskripsikan oleh persamaan\n\\[z = c.\\]\n(A) Garis  \n(B) Lingkaran  \n(C) Bidang  \n(D) Bola  \n(E) Silinder  \n(F) Kerucut  \n\nMasukkan huruf dari pilihan yang benar.",
+        "answer": ""
+    },
+    "229": {
+        "content": "Untuk sebuah titik $P$, misalkan $d_1$, $d_2$, dan $d_3$ merupakan jarak dari $P$ ke bidang $x - z = 0$, $x - 2y + z = 0$, dan $x + y + z = 0$. Misalkan $S$ adalah himpunan titik-titik $P$ sedemikian sehingga\n\\[d_1^2 + d_2^2 + d_3^2 = 36.\\]\nTentukan volume daerah yang dibatasi oleh $S$.",
+        "answer": ""
+    },
+    "230": {
+        "content": "Yann dan Camille pergi ke sebuah restoran. Jika ada 10 hidangan di menu, dan masing-masing memesan satu hidangan, berapa banyak kombinasi makanan berbeda yang dapat dipesan oleh Yann dan Camille jika mereka menolak untuk memesan hidangan yang sama? (Urutan siapa yang memesan apa adalah penting---Yann memesan ayam dan Camille memesan ikan adalah berbeda dengan Yann memesan ikan dan Camille memesan ayam.)",
+        "answer": ""
+    },
+    "231": {
+        "content": "Diketahui $a,$ $b,$ $c,$ $d,$ $e$ adalah bilangan real sehingga\n\\begin{align*}\na + b + c + d + e &= 8, \\\\\na^2 + b^2 + c^2 + d^2 + e^2 &= 16.\n\\end{align*}\nTentukan nilai maksimum dari $e.$",
+        "answer": ""
+    },
+    "232": {
+        "content": "Rata-rata usia Amy, Ben, dan Chris adalah 6. Empat tahun yang lalu, usia Chris sama dengan usia Amy sekarang. Dalam empat tahun, usia Ben akan menjadi $\\frac{3}{5}$ dari usia Amy pada saat itu. Berapa tahun usia Chris sekarang?",
+        "answer": ""
+    },
+    "233": {
+        "content": "Jika $\\omega^{1997} = 1$ dan $\\omega \\neq 1,$ maka hitunglah\n\\[\n\\frac{1}{1 + \\omega} + \\frac{1}{1 + \\omega^2} + \\dots + \\frac{1}{1 + \\omega^{1997}}.\n\\]",
+        "answer": ""
+    },
+    "234": {
+        "content": "Jika $\\mathbf{a}$ dan $\\mathbf{b}$ adalah vektor-vektor sehingga $\\|\\mathbf{a}\\| = 2,$ $\\|\\mathbf{b}\\| = 7,$ dan\n\\[\n\\mathbf{a} \\times \\mathbf{b} = \\begin{pmatrix} 3 \\\\ 2 \\\\ 6 \\end{pmatrix},\n\\]\nmaka carilah sudut terkecil yang mungkin antara $\\mathbf{a}$ dan $\\mathbf{b},$ dalam derajat.",
+        "answer": ""
+    },
+    "235": {
+        "content": "Misalkan $f$ adalah fungsi yang didefinisikan oleh $f(x) = x^3 - 49x^2 + 623x - 2015,$ dan misalkan $g(x) = f(x + 5).$ Hitung jumlah akar-akar dari $g.$",
+        "answer": ""
+    },
+    "236": {
+        "content": "Hitung: $0.\\overline{7}-0.\\overline{4}+0.\\overline{2}$. Nyatakan jawaban Anda sebagai pecahan biasa.",
+        "answer": ""
+    },
+    "237": {
+        "content": "Hitung\n\\[\n\\frac{1}{\\cos^2 10^\\circ} + \\frac{1}{\\sin^2 20^\\circ} + \\frac{1}{\\sin^2 40^\\circ}.\n\\]",
+        "answer": ""
+    },
+    "238": {
+        "content": "Jika $x$, $y$, dan $z$ adalah bilangan positif dengan $xy = 24$, $xz = 48$, dan $yz = 72$, maka tentukan nilai $x + y + z.$",
+        "answer": ""
+    },
+    "239": {
+        "content": "Nilai real $x$ berapakah yang tidak termasuk dalam domain dari\n\n$f(x)=\\frac{1}{|x^2+3x-4|+|x^2+9x+20|}$?",
+        "answer": ""
+    },
+    "240": {
+        "content": "Jajar genjang yang dibatasi oleh garis-garis $y=ax+c$, $y=ax+d$, $y=bx+c$, dan $y=bx+d$ memiliki luas 18. Jajar genjang yang dibatasi oleh garis-garis $y=ax+c$, $y=ax-d$, $y=bx+c$, dan $y=bx-d$ memiliki luas 72. Diketahui bahwa $a$, $b$, $c$, dan $d$ adalah bilangan bulat positif. Berapakah nilai terkecil yang mungkin dari $a+b+c+d$?",
+        "answer": ""
+    },
+    "241": {
+        "content": "Pada diagram, $PT$ sejajar dengan $QR.$ Berapakah besar sudut $\\angle PQR$ dalam derajat?\n\n[asy]\ndraw((0,0)--(10,0),black+linewidth(1));\ndraw((0,0)--(10,0),MidArrow);\ndraw((10,0)--(20,0),black+linewidth(1));\ndraw((0,0)--(-7,10)--(7,10)--(10,0),black+linewidth(1));\ndraw((-5,10)--(7,10),MidArrow);\nlabel(\"$x^{\\circ}$\",(-6,10),SE);\nlabel(\"$2x^{\\circ}$\",(7,10),SW);\nlabel(\"$128^{\\circ}$\",(10,0),NE);\nlabel(\"$P$\",(-7,10),N);\nlabel(\"$T$\",(7,10),N);\nlabel(\"$R$\",(10,0),S);\nlabel(\"$Q$\",(0,0),S);\n[/asy]",
+        "answer": ""
+    },
+    "242": {
+        "content": "Jarak terkecil antara titik asal dan sebuah titik pada grafik $y=\\frac{1}{2}x^2-9$ dapat dinyatakan sebagai $a$.  Carilah nilai $a^2$.",
+        "answer": ""
+    },
+    "243": {
+        "content": "Sebuah investasi sebesar $\\$24,\\!000$ dilakukan pada obligasi pemerintah yang akan memberikan bunga $1\\%$ setiap dua bulan (artinya investasi akan meningkat sebesar $1\\%$ setiap dua bulan). Pada akhir tahun kelima, berapa jumlah total dolar dalam investasi ini?\n\nTuliskan jawaban dalam bilangan bulat terdekat.",
+        "answer": ""
+    },
+    "244": {
+        "content": "Sebuah segitiga memiliki sisi-sisi yang berukuran 1 satuan jarak dan 3 satuan jarak. Panjang sisi ketiga adalah bilangan bulat. Berapakah panjang sisi ketiga, dalam satuan jarak?",
+        "answer": ""
+    },
+    "245": {
+        "content": "Berapa banyak sisi yang dimiliki sebuah poligon cembung jika jumlah semua sudut dalamnya kecuali satu sudut adalah $1070^{\\circ}$?",
+        "answer": ""
+    },
+    "246": {
+        "content": "Diketahui $f(x) = x^{10}+5x^9-8x^8+7x^7-x^6-12x^5+4x^4-8x^3+12x^2-5x-5$.\n\nTanpa menggunakan pembagian panjang (yang akan sangat rumit!), carilah sisa hasil pembagian $f(x)$ dengan $x^2-1$.",
+        "answer": ""
+    },
+    "247": {
+        "content": "Dua belas teman bertemu untuk makan malam di Oscar's Overstuffed Oyster House, dan masing-masing memesan satu porsi makanan. Porsinya begitu besar, sehingga cukup untuk 18 orang. Jika mereka berbagi, berapa banyak porsi yang seharusnya mereka pesan agar makanannya cukup untuk 12 orang saja?",
+        "answer": ""
+    },
+    "248": {
+        "content": "Misalkan $p(x)$ adalah polinomial kuadrat dengan koefisien bilangan bulat yang memiliki $4-\\sqrt{11}$ sebagai akar. Hitunglah $\\frac{p(3)}{p(4)}.$",
+        "answer": ""
+    },
+    "249": {
+        "content": "Diketahui\n\\[\\mathbf{A} = \\begin{pmatrix} 3 & 7 \\\\ -1 & -2 \\end{pmatrix},\\]\nhitunglah $\\mathbf{A}^{27} + \\mathbf{A}^{31} + \\mathbf{A}^{40}.$",
+        "answer": ""
+    },
+    "250": {
+        "content": "Cari bilangan bulat $\\textbf{ganjil}$ unik $t$ sehingga $0<t<23$ dan $t+2$ adalah invers dari $t$ modulo $23$.",
+        "answer": ""
+    },
+    "251": {
+        "content": "Jika $a$ adalah titik potong $x$, $b$ adalah titik potong $y$, dan $m$ adalah gradien atau kemiringan garis dengan persamaan $\\frac{x}4 + \\frac{y}{12} = 1$, maka berapakah nilai $a + b + m$?",
+        "answer": ""
+    },
+    "252": {
+        "content": "Enam mobil mendatangi perhentian lampu merah, satu per satu. Di lampu tersebut, terdapat tiga lajur: satu lajur belok kiri, satu lajur lurus, dan satu lajur belok kanan. Ada berapa banyak cara mobil-mobil tersebut dapat berbaris sehingga ketiga lajur tersebut terisi semua?\n\nPerhatikan bahwa jika mobil pertama belok kiri dan mobil kedua lurus, ini dianggap berbeda dengan mobil pertama lurus dan mobil kedua belok kiri. Dengan kata lain, mobil-mobil tersebut dapat dibedakan, tetapi berhenti di persimpangan dalam urutan yang tetap.",
+        "answer": ""
+    },
+    "253": {
+        "content": "Berapakah nilai maksimum dari $4(x + 7)(2 - x)$, untuk semua bilangan real $x$?",
+        "answer": ""
+    },
+    "254": {
+        "content": "Berapa pecahan dari 2 kaki yang sama dengan 3 inci? Tuliskan jawaban sebagai pecahan biasa.",
+        "answer": ""
+    },
+    "255": {
+        "content": "Pat akan memilih enam kue dari sebuah baki yang hanya berisi kue chocolate chip, oatmeal, dan peanut butter. Terdapat setidaknya enam dari masing-masing tiga jenis kue tersebut di atas baki. Berapa banyak susunan berbeda dari enam kue yang dapat dipilih? (Perhatikan bahwa kue dari jenis yang sama tidak dapat dibedakan.)",
+        "answer": ""
+    },
+    "256": {
+        "content": "Temukan kurva yang didefinisikan oleh persamaan\n\\[r^2 \\cos 2 \\theta = 4.\\]\n(A) Garis  \n(B) Lingkaran  \n(C) Parabola  \n(D) Elips  \n(E) Hiperbola\n\nMasukkan huruf dari pilihan yang benar.",
+        "answer": ""
+    },
+    "257": {
+        "content": "Sederhanakan $\\frac{1}{5}\\cdot \\frac{8}{7}\\div \\frac{12}{20}$.",
+        "answer": ""
+    },
+    "258": {
+        "content": "Berapakah total luas permukaan, dalam inci persegi, dari sebuah kubus dengan volume $1$ kaki kubik?",
+        "answer": ""
+    },
+    "259": {
+        "content": "Saya memiliki sebuah kantong berisi kelereng kuning dan biru. Saat ini, perbandingan kelereng biru terhadap kelereng kuning adalah 4:3. Jika saya menambahkan 5 kelereng biru dan mengurangi 3 kelereng kuning, perbandingannya akan menjadi 7:3. Berapa banyak kelereng biru yang ada di dalam kantong sebelum saya menambahkannya?",
+        "answer": ""
+    },
+    "260": {
+        "content": "Hitung hasil kali dari bilangan $5+\\sqrt{3}$ dan konjugat radikalnya.",
+        "answer": ""
+    },
+    "261": {
+        "content": "Misalkan $A = (1,-11,2),$ $B = (3,-4,1),$ dan $C = (-2,1,-1).$ Hitunglah sudut $\\angle ABC,$ dalam derajat.",
+        "answer": ""
+    },
+    "262": {
+        "content": "Sebuah segitiga $\\triangle ABC$ dengan $\\angle A = 14^\\circ$ digambarkan berada di dalam sebuah lingkaran dimana $AB$ adalah diameter. Berapa nilai derajat $\\angle B$?",
+        "answer": ""
+    },
+    "263": {
+        "content": "Jika $10^x - 10 = 9990,$ berapakah nilai $x$?",
+        "answer": ""
+    },
+    "264": {
+        "content": "Dalam sebuah poligon beraturan, besar sudut dalam adalah 6,5 kali besar sudut luar. Berapa banyak sisi yang dimiliki poligon tersebut?",
+        "answer": ""
+    },
+    "265": {
+        "content": "Pada gambar di bawah, bidang segiempat quadrilateral $CDEG$ adalah sebuah persegi dengan $CD = 3$, dan segiempat $BEFH$ adalah sebuah persegi panjang. Jika $BE = 5$, berapa satuan panjang $BH$? Nyatakan jawaban Anda sebagai pecahan campuran. [asy]\nunitsize(5mm);\ndefaultpen(linewidth(.7pt)+fontsize(8pt));\n\npair A=(0,0), B=(3,0), C=(6,0), D=(9,0), Ep=(9,3), G=(6,3);\npair F0=bisectorpoint(B,2*Ep-B), H0=bisectorpoint(Ep,2*B-Ep);\npair H=extension(B,H0,A,G);\npair F=extension(Ep,F0,A,G);\n\ndraw(H--B--Ep--F--A--D--Ep--G--C);\nlabel(\"$A$\",A,S);\nlabel(\"$B$\",B,S);\nlabel(\"$C$\",C,S);\nlabel(\"$D$\",D,S);\nlabel(\"$E$\",Ep,E);\nlabel(\"$F$\",F,N);\nlabel(\"$G$\",G,NW);\nlabel(\"$H$\",H,NW);\n[/asy]",
+        "answer": ""
+    },
+    "266": {
+        "content": "Berapakah suku ke-2003 dari deret bilangan ganjil 1, 3, 5, 7, $\\dots$?",
+        "answer": ""
+    },
+    "267": {
+        "content": "Sebuah angka dipilih secara acak dari 1 sampai 100, secara inklusif. Berapakah probabilitas bahwa angka tersebut merupakan kelipatan 3?",
+        "answer": ""
+    },
+    "268": {
+        "content": "Pada lingkaran $J$, $HO$ dan $HN$ adalah garis singgung terhadap lingkaran di $O$ dan $N$. Tentukan jumlah derajat dari $m\\angle J$ dan $m\\angle H$. [asy]\nsize(150);\nimport graph;\npair J = (0,0), H = (6,0), O, N;\npath circ = Circle(J,3);\npair M = midpoint(J--H);\npath secCirc = Circle(M,3);\npair[] tangentPoints = intersectionpoints(circ,secCirc);\nO = tangentPoints[0]; N = tangentPoints[1];\ndraw(J--N--H--O--cycle);\ndraw(circ);\nlabel(\"$H$\",H,E);\nlabel(\"$J$\",J,W);\nlabel(\"$N$\",N,S);\nlabel(\"$O$\",O,NE);\n[/asy]",
+        "answer": ""
+    },
+    "269": {
+        "content": "Berapakah sisa pembagian dari $1 + 2 + 3 + 4 + \\dots + 9 + 10$ dengan 9?",
+        "answer": ""
+    },
+    "270": {
+        "content": "Seorang jenius matematika ingin meletakkan 2 medali emas IMO-nya yang tidak dapat dibedakan dan 2 medali emas IPhO-nya yang tidak dapat dibedakan dalam satu baris. Ada berapa banyak susunan berbeda yang mungkin?",
+        "answer": ""
+    },
+    "271": {
+        "content": "Satu tiket untuk sebuah pertunjukan berharga $\\$20$ dengan harga penuh. Susan membeli $4$ tiket menggunakan kupon yang memberinya diskon $25\\%$. Pam membeli $5$ tiket menggunakan kupon yang memberinya diskon $30\\%$. Berapa dolar lebih banyak yang dibayarkan Pam dibandingkan Susan?",
+        "answer": ""
+    },
+    "272": {
+        "content": "Hitung $997^{-1}$ modulo $1000$. Jawablah dalam bentuk bilangan bulat dari $0$ sampai $999$.",
+        "answer": ""
+    },
+    "273": {
+        "content": "Jika $0.\\overline{1331}$ ditulis sebagai pecahan $\\frac{a}{b}$ dengan $a$ dan $b$ adalah bilangan bulat positif dengan faktor persekutuan terbesar 1, berapakah nilai $a+b$?",
+        "answer": ""
+    },
+    "274": {
+        "content": "Pada tahun 1992, satu scoop sendok es krim gelato dapat dibeli di Italia seharga 1200 lire. Gelato yang dengan jumlah yang sama akan berharga $\\$1{,}50$ di Amerika Serikat. Pada nilai tukar yang setara antara lire dan dolar, berapa dolar yang setara dengan 1.000.000 lire?",
+        "answer": ""
+    },
+    "275": {
+        "content": "Misalkan $S$ adalah gabungan dari himpunan semua titik di dalam sebuah nonagon beraturan dengan panjang sisi $2$ satuan dan himpunan semua titik yang berjarak kurang dari $1$ satuan dari sebuah titik pada keliling nonagon tersebut. Berapakah, dalam satuan, keliling dari $S$?",
+        "answer": ""
+    },
+    "276": {
+        "content": "Misalkan $f(x) = 2x-3$ dan $g(x) = x+1$. Berapakah nilai dari $g(f(5)-1)$?",
+        "answer": ""
+    },
+    "277": {
+        "content": "Ada berapa banyak nilai bilangan real dari $x$ agar $\\sqrt{120-\\sqrt{x}}$ menjadi bilangan bulat?",
+        "answer": ""
+    },
+    "278": {
+        "content": "Berapakah $\\sqrt{53}$ dalam bentuk akar paling sederhana?",
+        "answer": ""
+    },
+    "279": {
+        "content": "Berapa bilangan bulat delapan digit terbesar dalam basis 2? Berikan jawaban dalam basis 10.",
+        "answer": ""
+    },
+    "280": {
+        "content": "Pada diagram, tiga lingkaran sepusat memiliki jari-jari $4,$ $6,$ dan $7.$ Tiga daerah diberi label $X,$ $Y,$ atau $Z$ di bawah ini. Dari ketiga daerah tersebut, berapakah selisih antara luas daerah dengan luas terbesar dan luas daerah dengan luas terkecil? Nyatakan jawaban Anda dalam bentuk eksak.\n\n[asy]\nimport graph;\nfilldraw(circle((0,0),7), lightgray, black+linewidth(1));\nfilldraw(circle((0,0),6), gray, black+linewidth(1));\nfilldraw(circle((0,0),4), white, black+linewidth(1));\ndot((0,0));\nlabel(\"$X$\",(2,0));\nlabel(\"$Y$\",(5,0));\nlabel(\"$Z$\",(6.5,0));\n[/asy]",
+        "answer": ""
+    },
+    "281": {
+        "content": "Misalkan $a$ dan $b$ adalah bilangan prima berbeda yang nilainya lebih besar dari 2. Berapa banyak pembagi bilangan bulat dari bilangan $a(2a+b)-2a^{2}+ab$?",
+        "answer": ""
+    },
+    "282": {
+        "content": "Pada pentagon beraturan $FGHIJ$, perpanjangan dari sisi-sisi pentagon, seperti yang ditunjukkan, membentuk sebuah bintang. Berapakah besar sudut $A$ pada gambar tersebut?\n\n[asy]\ndraw((-42.4,30.8)--(-10,30.8)--(0,63.2)--(10,30.8)--(42.4,30.8)--(16.2,11.8)--(24.9,-18.1)--(0,0)--(-24.9,-18.1)--(-16.2,11.8)--cycle,linewidth(1));\ndraw((-10,30.8)--(10,30.8)--(16.2,11.8)--(0,0)--(-16.2,11.8)--cycle,linewidth(1));\nlabel(\"$A$\",(-42.4,30.8),W);\nlabel(\"$F$\",(-10,30.8),NW);\ndot((-10,30.8));\nlabel(\"$G$\",(10,30.8),NE);\ndot((10,30.8));\nlabel(\"$H$\",(16.2,11.8),E);\ndot((16.2,11.8));\nlabel(\"$I$\",(0,0),S);\ndot((0,0));\nlabel(\"$J$\",(-16.2,11.8),WSW);\ndot((-16.2,11.8));\n[/asy]",
+        "answer": ""
+    },
+    "283": {
+        "content": "Dalam barisan bilangan berurutan 0, 1, 1, 3, 6, 9, 27, ..., suku pertama adalah 0. Suku-suku berikutnya dihasilkan dengan secara bergantian menambah dan mengalikan dengan setiap bilangan bulat berikutnya dimulai dari 1. Sebagai contoh, suku kedua dihasilkan dengan menambah 1 ke suku pertama; suku ketiga dihasilkan dengan mengalikan suku kedua dengan 1; suku keempat dihasilkan dengan menambah 2 ke suku ketiga; dan seterusnya. Berapakah nilai suku pertama yang lebih besar dari 125?",
+        "answer": ""
+    },
+    "284": {
+        "content": "Berapakah nilai $\\left(4\\dfrac{5}{8}\\right)^{55} \\cdot \\left(\\dfrac{8}{37}\\right)^{55}$?",
+        "answer": ""
+    },
+    "285": {
+        "content": "Cari semua solusi dari\n\\[\\sin \\left( \\tan^{-1} (x) + \\cot^{-1} \\left( \\frac{1}{x} \\right) \\right) = \\frac{1}{3}.\\]\nTuliskan jawaban, dipisahkan dengan koma.",
+        "answer": ""
+    },
+    "286": {
+        "content": "Steve berkata kepada Jon, \"Aku sedang memikirkan sebuah polinomial yang semua akarnya adalah bilangan bulat positif. Polinomial tersebut berbentuk $P(x) = 2x^3-2ax^2+(a^2-81)x-c$ untuk beberapa bilangan bulat positif $a$ dan $c$. Bisakah kamu memberitahu nilai $a$ dan $c$?\"\n\nSetelah melakukan beberapa perhitungan, Jon berkata, \"Ada lebih dari satu polinomial seperti itu.\"\n\nSteve berkata, \"Kamu benar. Berikut adalah nilai $a$.\" Ia menuliskan sebuah bilangan bulat positif dan bertanya, \"Bisakah kamu memberitahu nilai $c$?\"\n\nJon berkata, \"Masih ada dua kemungkinan nilai $c$.\"\n\nCarilah jumlah dari dua kemungkinan nilai $c$ tersebut.",
+        "answer": ""
+    },
+    "287": {
+        "content": "Misalkan $T$ adalah himpunan semua tripel $(a,b,c)$ dari bilangan bulat positif sehingga terdapat segitiga dengan panjang sisi $a,$ $b,$ $c.$ Hitunglah\n\\[\\sum_{(a,b,c) \\in T} \\frac{2^a}{3^b 5^c}.\\]",
+        "answer": ""
+    },
+    "288": {
+        "content": "Sebuah roda gigi berputar $33\\frac{1}{3}$ kali dalam satu menit. Roda gigi lainnya berputar 45 kali dalam satu menit. Pada awalnya, sebuah tanda pada masing-masing roda gigi menghadap ke arah utara. Setelah berapa detik kedua roda gigi tersebut berikutnya akan memiliki tanda yang sama-sama menghadap ke arah utara?",
+        "answer": ""
+    },
+    "289": {
+        "content": "Satu garis didefinisikan oleh\n\\[\n\\begin{pmatrix} 3 \\\\ -10 \\\\ 1 \\end{pmatrix} + t \\begin{pmatrix} 2 \\\\ -9 \\\\ -2 \\end{pmatrix}.\n\\]\nGaris lainnya didefinisikan oleh\n\\[\n\\begin{pmatrix} -5 \\\\ -3 \\\\ 6 \\end{pmatrix} + u \\begin{pmatrix} 4 \\\\ -18 \\\\ -4 \\end{pmatrix}.\n\\]\nKedua garis ini sejajar. Temukan jarak antara kedua garis tersebut.",
+        "answer": ""
+    },
+    "290": {
+        "content": "Misalkan $a,$ $b,$ $c,$ $d$ adalah bilangan real positif.  Temukan nilai minimum dari\n\\[(a + b + c + d) \\left( \\frac{1}{a} + \\frac{1}{b} + \\frac{1}{c} + \\frac{1}{d} \\right).\\]",
+        "answer": ""
+    },
+    "291": {
+        "content": "Carilah nilai $r$ sehingga $$\\frac{6r^2 -19r - 7}{2r-7} = 4r-3.$$",
+        "answer": ""
+    },
+    "292": {
+        "content": "Perhatikan daerah persegi panjang dengan titik-titik berikut sebagai sudut-sudutnya: $$(5,4), (-5,4), (-5,-4), (5,-4).$$ Berapa banyak titik dengan koordinat bilangan bulat yang akan berada tepat di dalam daerah interior persegi panjang ini?",
+        "answer": ""
+    },
+    "293": {
+        "content": "Diketahui bahwa\n\\begin{align*}\nx_{1}&=211,\\\\\nx_{2}&=375,\\\\\nx_{3}&=420,\\\\\nx_{4}&=523,\\ \\text{dan}\\\\\nx_{n}&=x_{n-1}-x_{n-2}+x_{n-3}-x_{n-4}\\ \\text{untuk}\\ n\\geq5,\n\\end{align*}\ntentukan nilai dari $x_{531}+x_{753}+x_{975}$.",
+        "answer": ""
+    },
+    "294": {
+        "content": "Cari semua $p$ yang memenuhi kedua pertidaksamaan $0\\ge 54p-144$ dan $0>12-20p$. Berikan jawaban dalam notasi interval, dengan menyederhanakan setiap pecahan dalam jawaban tersebut.",
+        "answer": ""
+    },
+    "295": {
+        "content": "Palindrom adalah bilangan yang dibaca sama baik dari depan maupun dari belakang. Jumlah dari suatu himpunan yang terdiri dari tiga bilangan bulat positif berurutan adalah sebuah palindrom tiga digit. Jika jumlah tersebut kurang dari 220, berapakah nilai terbesar yang mungkin untuk bilangan terbesar dari tiga bilangan dalam himpunan tersebut?",
+        "answer": ""
+    },
+    "296": {
+        "content": "Penyelesaian dari persamaan $z^4+4z^3i-6z^2-4zi-i=0$ merupakan titik-titik sudut dari sebuah poligon cembung di bidang kompleks. Luas poligon ini dapat dinyatakan dalam bentuk $p^{a/b},$ di mana $a,$ $b,$ dan $p$ adalah bilangan bulat positif, $p$ adalah bilangan prima, dan $a$ serta $b$ adalah bilangan prima relatif. Tentukan nilai $a + b + p.$",
+        "answer": ""
+    },
+    "297": {
+        "content": "Misalkan $0 < r < 3$. Di bawah ini terdapat lima persamaan untuk $x$. Persamaan manakah yang memiliki solusi $x$ terbesar?\n\n$\\textbf{(A)}\\ 3(1 + r)^x = 7\\qquad \\textbf{(B)}\\ 3(1 + r/10)^x = 7\\qquad \\textbf{(C)}\\ 3(1 + 2r)^x = 7$ $\\textbf{(D)}\\ 3(1 + \\sqrt {r})^x = 7\\qquad \\textbf{(E)}\\ 3(1 + 1/r)^x = 7$",
+        "answer": ""
+    },
+    "298": {
+        "content": "Sebuah buku dikatakan memiliki $n$ lembar jika terdiri dari $n$ helai kertas. Di sisi lain, jumlah halaman adalah dua kali jumlah lembar karena setiap sisi selembar kertas didefinisikan sebagai satu halaman.\n\nJika jumlah halaman dalam sebuah buku adalah $3$ lebih banyak dari kelipatan $7$, dan jumlah lembar lebih dari $100$, maka berapakah jumlah lembar paling sedikit yang mungkin?",
+        "answer": ""
+    },
+    "299": {
+        "content": "Misalkan $\\mathbf{a},$ $\\mathbf{b},$ $\\mathbf{c}$ adalah tiga vektor sehingga\n\\[\n\\mathbf{a} \\times \\mathbf{b} = \\begin{pmatrix} 6 \\\\ -7 \\\\ 3 \\end{pmatrix}, \\quad \\mathbf{a} \\times \\mathbf{c} = \\begin{pmatrix} 4 \\\\ 7 \\\\ 2 \\end{pmatrix}, \\quad \\mathbf{b} \\times \\mathbf{c} = \\begin{pmatrix} 1 \\\\ -7 \\\\ 18 \\end{pmatrix}.\n\\]\nHitung $(2 \\mathbf{b} - \\mathbf{a}) \\times (3 \\mathbf{c} + \\mathbf{a}).$",
+        "answer": ""
+    },
+    "300": {
+        "content": "Perhatikan persegi panjang dengan titik-titik sudut di $(5,4),$ $(5,-4),$ $(-5,4),$ $(-5,-4)$. Ada berapa banyak koordinat bilangan bulat yang terletak tepat di dalam daerah persegi panjang tersebut?",
+        "answer": ""
+    },
+    "301": {
+        "content": "Empat lingkaran berbeda digambar pada sebuah bidang. Berapakah jumlah maksimum titik di mana setidaknya dua dari lingkaran-lingkaran tersebut saling berpotongan?",
+        "answer": ""
+    },
+    "302": {
+        "content": "$\\textbf{Tempat Kenangan Juan}$\n\nJuan mengatur koleksi perangkonya berdasarkan negara dan dekade saat perangko tersebut diterbitkan. Harga yang ia bayarkan di toko perangko adalah: Brasil dan Prancis, $6$ sen per perangko, Peru $4$ sen per perangko, dan Spanyol $5$ sen per perangko. (Brasil dan Peru adalah negara di Amerika Selatan dan Prancis serta Spanyol berada di Eropa.) [asy]\n/* AMC8 2002 #8, 9, 10 Problem */\nsize(3inch, 1.5inch);\nfor ( int y = 0; y <= 5; ++y )\n{\n\ndraw((0,y)--(18,y));\n}\ndraw((0,0)--(0,5));\ndraw((6,0)--(6,5));\ndraw((9,0)--(9,5));\ndraw((12,0)--(12,5));\ndraw((15,0)--(15,5));\ndraw((18,0)--(18,5));\n\nlabel(scale(0.8)*\"50s\", (7.5,4.5));\nlabel(scale(0.8)*\"4\", (7.5,3.5));\nlabel(scale(0.8)*\"8\", (7.5,2.5));\nlabel(scale(0.8)*\"6\", (7.5,1.5));\nlabel(scale(0.8)*\"3\", (7.5,0.5));\n\nlabel(scale(0.8)*\"60s\", (10.5,4.5));\nlabel(scale(0.8)*\"7\", (10.5,3.5));\nlabel(scale(0.8)*\"4\", (10.5,2.5));\nlabel(scale(0.8)*\"4\", (10.5,1.5));\nlabel(scale(0.8)*\"9\", (10.5,0.5));\n\nlabel(scale(0.8)*\"70s\", (13.5,4.5));\nlabel(scale(0.8)*\"12\", (13.5,3.5));\nlabel(scale(0.8)*\"12\", (13.5,2.5));\nlabel(scale(0.8)*\"6\", (13.5,1.5));\nlabel(scale(0.8)*\"13\", (13.5,0.5));\n\nlabel(scale(0.8)*\"80s\", (16.5,4.5));\nlabel(scale(0.8)*\"8\", (16.5,3.5));\nlabel(scale(0.8)*\"15\", (16.5,2.5));\nlabel(scale(0.8)*\"10\", (16.5,1.5));\nlabel(scale(0.8)*\"9\", (16.5,0.5));\n\nlabel(scale(0.8)*\"Country\", (3,4.5));\nlabel(scale(0.8)*\"Brazil\", (3,3.5));\nlabel(scale(0.8)*\"France\", (3,2.5));\nlabel(scale(0.8)*\"Peru\", (3,1.5));\nlabel(scale(0.8)*\"Spain\", (3,0.5));\n\nlabel(scale(0.9)*\"Juan's Stamp Collection\", (9,0), S);\nlabel(scale(0.9)*\"Number of Stamps by Decade\", (9,5), N);\n[/asy] Berapakah harga rata-rata, dalam sen, dari perangko tahun $70\\text{'an}$ milik Juan? Bulatkan jawaban hingga satu desimal terdekat dalam satuan sen.",
+        "answer": ""
+    },
+    "303": {
+        "content": "Ketika mengubah $\\frac{31}{11111}$ menjadi desimal, hasilnya adalah desimal berulang. Ada berapa banyak digit yang berulang pada desimal berulang ini?\n\nSebagai contoh, jika Anda mendapatkan desimal berulang $0.\\overline{123},$ maka jawaban Anda adalah $3,$ dan jika Anda mendapatkan $0.436\\overline{7},$ jawaban Anda adalah $1.$",
+        "answer": ""
+    },
+    "304": {
+        "content": "Misalkan $ABCD$ adalah sebuah trapesium di mana $\\overline{AD}|| \\overline{BC}$. Diketahui $\\overline{AC}\\perp\\overline{CD}$, $\\overline{AC}$ membagi dua sudut $\\angle BAD$, dan $[ABCD]=42$. Hitunglah $[\\triangle ACD]$.",
+        "answer": ""
+    },
+    "305": {
+        "content": "Carilah nilai minimum dari\n\\[\\frac{(x + 5)(x + 2)}{x + 1}\\]\nuntuk $x > 0.$",
+        "answer": ""
+    },
+    "306": {
+        "content": "Jika $\\frac{\\sqrt{2x}}{\\sqrt{3x-1}}=\\frac32$, tentukan nilai $x$. Berikan jawaban dalam bentuk pecahan paling sederhana.",
+        "answer": ""
+    },
+    "307": {
+        "content": "Tentukan banyaknya persamaan kuadrat yang berbentuk $x^2 + ax + b = 0,$ sedemikian sehingga setiap kali $c$ adalah akar dari persamaan tersebut, $c^2 - 2$ juga merupakan akar dari persamaan tersebut.",
+        "answer": ""
+    },
+    "308": {
+        "content": "Berapa rentang dari fungsi $y=\\log_2 (\\sqrt{\\sin x})$ untuk $0^\\circ< x < 180^\\circ$?",
+        "answer": ""
+    },
+    "309": {
+        "content": "Misalkan $ABCD$ adalah sebuah tetrahedron beraturan dengan panjang sisi 2. Bidang yang sejajar dengan sisi $AB$ dan $CD$ serta terletak di tengah-tengah di antara keduanya memotong $ABCD$ menjadi dua bagian. Carilah luas permukaan salah satu bagian tersebut.",
+        "answer": ""
+    },
+    "310": {
+        "content": "Hasil perkalian dari suatu himpunan bilangan bulat positif yang berbeda adalah 84. Berapakah jumlah terkecil yang mungkin dari bilangan-bilangan bulat tersebut?",
+        "answer": ""
+    },
+    "311": {
+        "content": "Operasi @ didefinisikan sebagai $\\frac{m}{n}@\\frac{p}{q} = (m)(p)\\left(\\frac{q}{n}\\right)$ untuk pecahan $\\frac{p}{q}$ yang sudah disederhanakan. Berapakah nilai sederhana dari $\\frac{7}{30}@\\frac{10}{21}$?",
+        "answer": ""
+    },
+    "312": {
+        "content": "Jika $$1+12+123+1234+12345+123456+1234567+12345678$$ kongruen dengan $n$ modulo 9, di mana $0\\le n<9$, berapakah nilai $n$?",
+        "answer": ""
+    },
+    "313": {
+        "content": "Selesaikan\n\\[\\frac{1}{x - 5} > 0.\\]\nJawablah dengan menggunakan notasi interval.",
+        "answer": ""
+    },
+    "314": {
+        "content": "Charlie sedang mengendarai sepeda roda satunya. Jika roda sepeda tersebut memiliki jari-jari 9 inci dan berputar sebanyak 2 kali setiap 3 detik, berapakah kecepatan sepeda tersebut dalam satuan inci per detik?",
+        "answer": ""
+    },
+    "315": {
+        "content": "Titik $(0,0)$ direfleksikan terhadap garis vertikal $x=1$. Ketika bayangannya kemudian direfleksikan terhadap garis $y=2$, berapakah titik hasil akhirnya?\n\nJawablah dalam bentuk $(x, y)$ di mana $x$ dan $y$ adalah bilangan real.",
+        "answer": ""
+    },
+    "316": {
+        "content": "Bilangan bulat positif $a$, $b$, dan $2009$, dengan $a<b<2009$, membentuk barisan geometri dengan rasio bilangan bulat. Berapakah nilai $a$?",
+        "answer": ""
+    },
+    "317": {
+        "content": "Soal matematika $10x^2-x-24$ dapat dituliskan sebagai $(Ax-8)(Bx+3),$ di mana $A$ dan $B$ adalah bilangan bulat. Berapakah nilai $AB + B$?",
+        "answer": ""
+    },
+    "318": {
+        "content": "Misalkan $a,$ $b,$ dan $c$ adalah bilangan real yang berbeda. Tentukan derajat dari polinomial\n\\[\np(x) = \\frac{(x - b)(x - c)}{(a - b)(a - c)} + \\frac{(x - a)(x - c)}{(b - a)(b - c)} + \\frac{(x - a)(x - b)}{(c - a)(c - b)}.\n\\]",
+        "answer": ""
+    },
+    "319": {
+        "content": "Tuliskan ekspresi \\[\\frac{4+6a}{5}-\\frac{1+3a}{4}\\] sebagai satu pecahan tunggal.",
+        "answer": ""
+    },
+    "320": {
+        "content": "Pada persamaan $|x-4| -10 = 2$, berapakah hasil perkalian dari semua nilai $x$ yang mungkin?",
+        "answer": ""
+    },
+    "321": {
+        "content": "Pada diagram di bawah, diketahui $\\sin \\angle RPQ = \\frac{7}{25}$. Berapakah nilai $\\cos \\angle RPS$?\n\n[asy]\n\npair R,P,Q,SS;\n\nSS = (-2,0);\n\nP = (0,0);\n\nQ = (2,0);\n\nR = rotate(aSin(7/25))*(1.5,0);\n\ndot(\"$S$\",SS,S);\n\ndot(\"$Q$\",Q,S);\n\ndot(\"$R$\",R,N);\n\ndot(\"$P$\",P,S);\n\ndraw(Q--SS);\n\ndraw(P--R);\n\n[/asy]",
+        "answer": ""
+    },
+    "322": {
+        "content": "Sebuah robot yang bergerak maju dengan kecepatan konstan membutuhkan waktu 2,5 jam untuk menempuh jarak 1 kilometer. Dengan bergerak maju pada kecepatan konstan yang sama, robot tersebut membutuhkan waktu 90 detik untuk menempuh panjang sebuah lorong tertentu. Berapa meter panjang lorong tersebut?",
+        "answer": ""
+    },
+    "323": {
+        "content": "Misalkan $f(x) = x - 3$ dan $q(x) = bx + 1$. Jika $f(q(1)) = -3$, berapakah nilai $b$?",
+        "answer": ""
+    },
+    "324": {
+        "content": "Empat titik, $A$, $B$, $C$, dan $D$, dipilih secara acak dan independen pada keliling sebuah lingkaran. Berapakah peluang bahwa ruas garis $AB$ dan $CD$ saling berpotongan?",
+        "answer": ""
+    },
+    "325": {
+        "content": "Pada diagram, terdapat dua lingkaran, masing-masing dengan pusat $D$, memiliki jari-jari $1$ dan $2$. Total luas daerah yang diarsir adalah $\\frac5{12}$ dari luas lingkaran yang lebih besar. Berapa derajat ukuran (sudut yang lebih kecil) $\\angle ADC$?\n[asy]\nsize(4cm);\ndefaultpen(linewidth(0.75));\nreal adc = 100;\npair d = (0, 0); pair a = 2 * dir(100); pair c = (2, 0);\npath inner = arc(d, a/2, c/2, CW);\n\npath outer = arc(d, c, a, CCW);\nguide region1 = (a--a/2)..inner..(c/2--c)..outer..cycle;\nguide region2 = arc(d, a/2, c/2, CCW)..(c/2--d--a/2)..cycle;\nfill(region1, gray(0.75));\nfill(region2, gray(0.75));\ndraw(unitcircle); draw(scale(2) * unitcircle);\ndraw(a--d--c);\nlabel(\"$A$\", a, N); label(\"$C$\", c, E); label(\"$D$\", d, NE);\n[/asy]",
+        "answer": ""
+    },
+    "326": {
+        "content": "Sebuah gelas ukur berbentuk silinder memiliki tinggi 8 cm dan jari-jari 3 cm. Berapa banyak gelas ukur berisi air tersebut yang diperlukan untuk mengisi sebuah tangki berbentuk bola dengan jari-jari 6 cm?",
+        "answer": ""
+    },
+    "327": {
+        "content": "Evaluasi\n\\[\n\\sin (\\arcsin 0.4 + \\arcsin 0.5) \\cdot \\sin (\\arcsin 0.5 - \\arcsin 0.4).\n\\]",
+        "answer": ""
+    },
+    "328": {
+        "content": "Misalkan $P(x)$ adalah polinomial monik berderajat 3. Misalkan $P(x)$ memiliki sisa $R(x)$ ketika dibagi dengan $(x - 1)(x - 4),$ dan sisa $2R(x)$ ketika dibagi dengan $(x - 2)(x - 3).$ Diketahui bahwa $P(0) = 5,$ tentukan $P(5).$",
+        "answer": ""
+    },
+    "329": {
+        "content": "Misalkan $f(x)=\\left\\lfloor\\left(-\\frac{5}{8}\\right)^x\\right\\rfloor$ adalah sebuah fungsi yang didefinisikan untuk semua nilai $x$ dalam $[0,\\infty)$ sehingga $f(x)$ adalah bilangan real. Ada berapa banyak nilai berbeda yang terdapat dalam rentang $f(x)$?",
+        "answer": ""
+    },
+    "330": {
+        "content": "Sebuah sepeda sedang bergerak dengan kecepatan 20 kaki per menit. Berapakah kecepatan sepeda tersebut dalam inci per detik?",
+        "answer": ""
+    },
+    "331": {
+        "content": "Sebuah komite Senat terdiri dari 8 anggota Partai Republik dan 6 anggota Partai Demokrat. Ada berapa banyak cara kita dapat membentuk sub-komite beranggotakan 5 orang sehingga terdapat setidaknya satu anggota dari masing-masing partai?",
+        "answer": ""
+    },
+    "332": {
+        "content": "Sederhanakan soal berikut menjadi pecahan yang sudah disederhanakan: $$\\sqrt{\\dfrac{\\dfrac{5}{\\sqrt{80}}+\\dfrac{\\sqrt{845}}{9}+\\sqrt{45}}{\\sqrt5}}.$$",
+        "answer": ""
+    },
+    "333": {
+        "content": "Misalkan $x,$ $y,$ dan $z$ adalah bilangan real positif sehingga $xyz(x + y + z) = 1.$  Tentukan nilai minimum dari\n\\[(x + y)(y + z).\\]",
+        "answer": ""
+    },
+    "334": {
+        "content": "Jika\n\\[\\sqrt[3]{2} = a + \\cfrac{1}{b + \\cfrac{1}{c + \\cfrac{1}{d + \\dotsb}}},\\]\ndi mana $a,$ $b,$ $c,$ $d$ adalah bilangan bulat positif, hitunglah $b.$",
+        "answer": ""
+    },
+    "335": {
+        "content": "Jika $a+b=8$, $b+c=-3$, dan $a+c= -5$, berapakah nilai dari hasil kali $abc$?",
+        "answer": ""
+    },
+    "336": {
+        "content": "Barisan Fibonacci adalah barisan bilangan 1, 1, 2, 3, 5, $\\ldots$ di mana setiap sukunya merupakan jumlah dari dua suku sebelumnya. Berapakah sisa hasil pembagian suku ke-$100$ dari deret tersebut dengan 4?",
+        "answer": ""
+    },
+    "337": {
+        "content": "Berapakah nilai dari $513^2 - 487^2$?",
+        "answer": ""
+    },
+    "338": {
+        "content": "Hasil kali dari tiga bilangan bulat berurutan adalah 120. Hasil perkalian tersebut jika dibagi dengan rata-rata dari ketiga bilangan bulat itu adalah 24. Berapakah bilangan bulat terbesar dari ketiga bilangan berurutan tersebut?",
+        "answer": ""
+    },
+    "339": {
+        "content": "Berapakah bilangan ekuivalen basis enam dari $999_{10}$?",
+        "answer": ""
+    },
+    "340": {
+        "content": "Parabola dengan persamaan $y=ax^2+bx+c$ dan titik puncak $(h,k)$ dipantulkan terhadap garis $y=k$. Hal ini menghasilkan parabola dengan persamaan $y=dx^2+ex+f$. Nyatakan $a+b+c+d+e+f$ dalam bentuk $k.$",
+        "answer": ""
+    },
+    "341": {
+        "content": "Misalkan $\\mathbf{a}$ dan $\\mathbf{b}$ adalah vektor-vektor sedemikian sehingga sudut antara $\\mathbf{a}$ dan $\\mathbf{b}$ adalah $29^\\circ,$ dan sudut antara $\\mathbf{b}$ dan $\\mathbf{a} - \\mathbf{b}$ adalah $84^\\circ.$  Cari sudut antara $\\mathbf{a}$ dan $\\mathbf{a} - \\mathbf{b}.$",
+        "answer": ""
+    },
+    "342": {
+        "content": "Berapa angka terkecil yang nilainya minus satu dari dua kali kebalikan angka tersebut?",
+        "answer": ""
+    },
+    "343": {
+        "content": "Bilangan bulat $x$ berapakah yang memenuhi $\\frac{1}{4}<\\frac{x}{7}<\\frac{1}{3}$?",
+        "answer": ""
+    },
+    "344": {
+        "content": "Berapa banyak plat nomor yang dapat dibentuk jika setiap plat nomor terdiri dari 2 huruf berbeda (A sampai Z) diikuti oleh 2 angka satu digit berbeda (0-9)?",
+        "answer": ""
+    },
+    "345": {
+        "content": "Misalkan \\[f(n) =\n\\begin{cases}\n4n+3 &\\text{jika }n<a, \\\\\n7n-12 &\\text{jika }n\\ge{a}.\n\\end{cases}\n\\]Cari $a$ jika grafik $y=f(n)$ kontinu.",
+        "answer": ""
+    },
+    "346": {
+        "content": "Jika $t(x) = 3-g(x)$ dan $g(x) = \\sqrt{x}$, maka berapakah nilai $t(g(16))$?",
+        "answer": ""
+    },
+    "347": {
+        "content": "Carilah nilai positif dari $x$ sehingga $\\sqrt[3]{x^2 - 4x + 4} = 16$.",
+        "answer": ""
+    },
+    "348": {
+        "content": "Sederhanakan $4(3r^3+5r-6)-6(2r^3-r^2+4r)$, dan berikan jawaban dalam bentuk $Ar^2 + Br + C$, di mana $A$, $B$, dan $C$ adalah bilangan bulat.",
+        "answer": ""
+    },
+    "349": {
+        "content": "Hitung $\\dbinom{31}{28}$.",
+        "answer": ""
+    },
+    "350": {
+        "content": "Ada berapa banyak cara 8 orang dapat duduk mengelilingi meja persegi dengan 2 orang di setiap sisinya? (Dua konfigurasi tempat duduk dianggap setara jika salah satunya merupakan rotasi dari yang lain.)",
+        "answer": ""
+    },
+    "351": {
+        "content": "Temukan angka satuan dari $18^6.$",
+        "answer": ""
+    },
+    "352": {
+        "content": "Sederhanakan\n\\[\n\\cos \\left( \\frac{2 \\pi}{15} \\right) \\cos \\left (\\frac {4 \\pi}{15} \\right) \\cos \\left( \\frac{8 \\pi}{15} \\right) \\cos \\left( \\frac {16 \\pi}{15} \\right).\n\\]",
+        "answer": ""
+    },
+    "353": {
+        "content": "Segitiga $ABC$ adalah segitiga sama kaki, dengan $AB=AC$ dan tinggi $AM=11.$ Misalkan terdapat sebuah titik $D$ pada $\\overline{AM}$ dengan $AD=10$ dan $\\angle BDC=3\\angle BAC.$ Tentukan keliling segitiga $ABC.$\n\n[asy]\nunitsize(0.4 cm);\n\npair A, B, C, D, M;\n\nA = (0,11);\nD = (0,1);\nB = (-11/2,0);\nC = (11/2,0);\nM = (B + C)/2;\n\ndraw(A--B--C--cycle);\ndraw(A--M);\ndraw(B--D--C);\n\nlabel(\"$A$\", A, N);\nlabel(\"$B$\", B, SW);\nlabel(\"$C$\", C, SE);\nlabel(\"$D$\", D, NW);\nlabel(\"$M$\", M, S);\n[/asy]",
+        "answer": ""
+    },
+    "354": {
+        "content": "Misalkan saya memiliki $6$ buku yang berbeda, $2$ di antaranya adalah buku matematika. Ada berapa banyak cara saya dapat menyusun $6$ buku saya di rak jika saya tidak ingin buku matematika terletak bersebelahan?",
+        "answer": ""
+    },
+    "355": {
+        "content": "Jumlah dari 27 bilangan bulat positif berurutan adalah $3^7$. Berapakah median dari bilangan-bilangan tersebut?",
+        "answer": ""
+    },
+    "356": {
+        "content": "Misalkan $a,$ $b,$ dan $c$ adalah bilangan real positif.  Tentukan nilai minimum dari\n\\[\\frac{(a + b + c)[(a + b)^2 + (a + b + 4c)^2]}{abc}.\\]",
+        "answer": ""
+    },
+    "357": {
+        "content": "Untuk nilai real $x$ berapakah $-4<x^{4}+4x^{2}<21$ dapat terpenuhi? Nyatakan jawaban Anda dalam notasi interval.",
+        "answer": ""
+    },
+    "358": {
+        "content": "Saya memiliki satu set kartu sebanyak $54$, dan saya membagikan semua kartu tersebut kepada $x$ pemain, dimana setiap pemain mendapatkan $y$ kartu. Jika $x$ setidaknya $2$ dan $y$ setidaknya $5$, maka ada berapa banyak kemungkinan nilai $x$?",
+        "answer": ""
+    },
+    "359": {
+        "content": "Tentukan apakah grafik dari persamaan di bawah ini merupakan sebuah parabola, lingkaran, elips, hiperbola, titik, garis, dua garis, atau kosong.\n\n$\\left(\\frac x2 - 3\\right)^2 + y^2 = 10$",
+        "answer": ""
+    },
+    "360": {
+        "content": "Misalkan $x,$ $y,$ dan $z$ memenuhi persamaan-persamaan berikut\n\\begin{align*}\nxyz &= 4, \\\\\nx^3 + y^3 + z^3 &= 4, \\\\\nxy^2 + x^2 y + xz^2 + x^2 z + yz^2 + y^2 z &= 12.\n\\end{align*}\nHitunglah nilai dari $xy + yz + zx.$",
+        "answer": ""
+    },
+    "361": {
+        "content": "Garis berikut diparameterisasikan, sehingga vektor arahnya berbentuk $\\begin{pmatrix} -7 \\\\ b \\end{pmatrix}.$  Tentukan $b.$\n\n[asy]\nunitsize(0.4 cm);\n\npair A, B, L, R;\nint i, n;\n\nfor (i = -8; i <= 8; ++i) {\ndraw((i,-8)--(i,8),gray(0.7));\ndraw((-8,i)--(8,i),gray(0.7));\n}\n\ndraw((-8,0)--(8,0),Arrows(6));\ndraw((0,-8)--(0,8),Arrows(6));\n\nA = (-5,4);\nB = (-1,3);\nL = extension(A, B, (-8,0), (-8,1));\nR = extension(A, B, (8,0), (8,1));\n\ndraw(L--R, red);\n\nlabel(\"$x$\", (8,0), E);\nlabel(\"$y$\", (0,8), N);\n[/asy]",
+        "answer": ""
+    },
+    "362": {
+        "content": "Sebuah segitiga sama sisi digambarkan di dalam parabola $x^2 = 8y,$ sehingga salah satu titik sudut segitiga tersebut berhimpitan dengan titik puncak parabola. Tentukan panjang sisi segitiga sama sisi tersebut.",
+        "answer": ""
+    },
+    "363": {
+        "content": "Dua kandidat, Dan dan Donald, mencalonkan diri sebagai ketua kelas. Dua kandidat lainnya, Freddie dan Bernie, mencalonkan diri sebagai wakil ketua kelas. Setiap kandidat memiliki peluang 50$\\%$ untuk menang. Berapakah probabilitas bahwa Dan dan Freddie sama-sama menang? (Nyatakan jawaban Anda dalam bentuk pecahan.)",
+        "answer": ""
+    },
+    "364": {
+        "content": "Tiga ditambah kebalikan dari suatu bilangan sama dengan 7 dibagi bilangan tersebut. Berapakah bilangan itu?",
+        "answer": ""
+    },
+    "365": {
+        "content": "Jika setiap titik pada lingkaran $x^2 + y^2 = 25$ dipantulkan terhadap titik $(4,1),$ himpunan titik-titik bayangan memenuhi persamaan\n\\[x^2 + ay^2 + bx + cy + d = 0.\\]\nHitung kuadruplet berurutan $(a,b,c,d)$ dari bilangan real.",
+        "answer": ""
+    },
+    "366": {
+        "content": "Jika $a$ dan $b$ adalah bilangan bulat positif sehingga $\\gcd(a,b)=210$, $\\mathop{\\text{lcm}}[a,b]=210^3$, dan $a<b$, ada berapa banyak nilai yang mungkin untuk $a$?",
+        "answer": ""
+    },
+    "367": {
+        "content": "Temukan modulo $7$ dari jumlah $1+3+5+7+9+\\dots+195+197+199.$",
+        "answer": ""
+    },
+    "368": {
+        "content": "Misalkan $f$ adalah sebuah fungsi dan $f^{-1}$ adalah invers dari $f$. Jika $f(1)=2$, $f(2) = 6$, dan $f(3)=5$, maka berapakah nilai $f^{-1}(f^{-1}(6))$?",
+        "answer": ""
+    },
+    "369": {
+        "content": "Dua sisi dari sebuah segitiga masing-masing memiliki panjang $8$ satuan. Jika panjang dari sisi ketiga adalah bilangan bulat, berapakah keliling terbesar yang mungkin, dalam satuan jarak, untuk segitiga tersebut?",
+        "answer": ""
+    },
+    "370": {
+        "content": "Berapa banyak sentimeter persegi luas trapesium ini?\n\n[asy]\ndefaultpen(linewidth(0.7));\ndraw((0,0)--(27,0)--(15,9)--(0,9)--cycle);\nlabel(\"5 cm\",(21,4.5),NE);\nlabel(\"5 cm\",(7.5,9),N);\nlabel(\"3 cm\",(0,4.5),W);\nlabel(\"9 cm\",(13.5,0),S);\ndraw(rightanglemark((0,9),(0,0),(27,0),35));\ndraw(rightanglemark((0,0),(0,9),(15,9),35));\n[/asy]",
+        "answer": ""
+    },
+    "371": {
+        "content": "Temukan hasil dot product dari $\\begin{pmatrix} -2 \\\\ 0 \\\\ 7 \\end{pmatrix}$ dan $\\begin{pmatrix} 3 \\\\ 4 \\\\ -5 \\end{pmatrix}.$",
+        "answer": ""
+    },
+    "372": {
+        "content": "Misalkan $a,$ $b,$ $c$ adalah bilangan real sehingga\n\\[\n|ax^2 + bx + c| \\le 1\n\\]\nuntuk semua $0 \\le x \\le 1.$  Tentukan nilai terbesar yang mungkin dari $|a| + |b| + |c|.$",
+        "answer": ""
+    },
+    "373": {
+        "content": "Pada diagram, $AD=BD=CD$ dan $\\angle BCA = 40^\\circ.$ Berapakah besar $\\angle BAC?$\n\n[asy]\ndraw((0,0)--(10,0)--(8.2635,9.8481)--cycle,black+linewidth(1));\ndraw((10,0)--(20,0)--(8.2635,9.8481),black+linewidth(1));\ndraw((5,-0.5)--(5,0.5),black+linewidth(1));\ndraw((15,-0.5)--(15,0.5),black+linewidth(1));\ndraw((8.6318,4.8359)--(9.6317,5.0122),black+linewidth(1));\nlabel(\"$A$\",(8.2635,9.8481),N);\nlabel(\"$B$\",(0,0),SW);\nlabel(\"$C$\",(20,0),SE);\nlabel(\"$D$\",(10,0),S);\n[/asy]",
+        "answer": ""
+    },
+    "374": {
+        "content": "William Sydney Porter mencoba melakukan perhitungan $\\frac{-3+4i}{1+2i}$. Namun, ia secara tidak sengaja melewatkan tanda minus, sehingga ia mendapatkan $\\frac{3+4i}{1+2i}=\\frac{11}{5}-\\frac{2}{5}i$. Jawaban apa yang seharusnya ia peroleh?",
+        "answer": ""
+    },
+    "375": {
+        "content": "Berapakah selisih antara akar kuadrat positif dari 64 dan akar pangkat tiga dari 64?",
+        "answer": ""
+    },
+    "376": {
+        "content": "Jika $A$ adalah jumlah dari semua pembagi positif dari $500$, berapakah jumlah dari semua pembagi prima yang berbeda dari $A$?",
+        "answer": ""
+    },
+    "377": {
+        "content": "Tentukan koordinat titik $P$ pada garis $y=-x+6$ sedemikian sehingga $P$ berjarak sama dari titik $A(10,-10)$ dan $O(0,0)$ (yaitu, sehingga $PA=PO$). Jawablah dalam bentuk pasangan terurut $(a,b)$.",
+        "answer": ""
+    },
+    "378": {
+        "content": "Superfaktorial $n\\$$ didefinisikan sebagai $n\\$ = \\underbrace{ n!^{{n!}^{{\\cdot}^{{\\cdot}^{{\\cdot}^{n!}}}}}}_{n!}$. Berapakah satuan digit dari $4\\$$?",
+        "answer": ""
+    },
+    "379": {
+        "content": "Ada berapa banyak bilangan prima dua digit yang jumlah digitnya sama dengan 8?",
+        "answer": ""
+    },
+    "380": {
+        "content": "Data pada tabel di bawah ini menunjukkan persentase penumpang bus dalam sebuah survei terhadap siswa Central H.S.; 300 siswa laki-laki dan 300 siswa perempuan di setiap tingkat kelas disurvei. Untuk tingkat kelas yang manakah jumlah penumpang bus laki-lakinya paling mendekati $135\\%$ dari jumlah penumpang bus perempuannya?\n\n\\begin{tabular}{|l|c|c|}\\hline\nKelas & Laki-laki & Perempuan \\\\ \\hline\n$9^{\\mathrm{th}}$ kelas & $41.1\\%$ & $39.4\\%$ \\\\ \\hline\n$10^{\\mathrm{th}}$ kelas & $34.4\\%$ & $33.1\\%$ \\\\ \\hline\n$11^{\\mathrm{th}}$ kelas & $20.6\\%$ & $13.8\\%$ \\\\ \\hline\n$12^{\\mathrm{th}}$ kelas & $11.6\\%$ & $8.6\\%$ \\\\ \\hline\n\\end{tabular}",
+        "answer": ""
+    },
+    "381": {
+        "content": "Selesaikan\n\\[\\frac{|x^2 - 81|}{x^2 - 36x} < 0.\\]",
+        "answer": ""
+    },
+    "382": {
+        "content": "Dua bilangan, $x$ dan $y$, dipilih secara acak dari interval $(0,3)$. Berapakah probabilitas bahwa sebuah segitiga dengan panjang sisi 1, $x$, dan $y$ dapat terbentuk?",
+        "answer": ""
+    },
+    "383": {
+        "content": "Sebuah lapangan persegi panjang dikelilingi oleh lintasan atletik, seperti yang ditunjukkan pada gambar di bawah ini. Lintasan tersebut terdiri dari dua sisi lapangan, dan dua setengah lingkaran. Panjang lintasan adalah 400 meter. Berapakah luas maksimum yang mungkin dari lapangan tersebut, dalam meter persegi?\n\n[asy]\nunitsize(1 cm);\n\nfilldraw((0,0)--(3,0)--(3,2)--(0,2)--cycle,lightgreen);\ndraw((0,0)--(3,0),linewidth(2*bp));\ndraw((0,2)--(3,2),linewidth(2*bp));\ndraw(arc((3,1),1,-90,90),linewidth(2*bp));\ndraw(arc((0,1),1,90,270),linewidth(2*bp));\n[/asy]",
+        "answer": ""
+    },
+    "384": {
+        "content": "Untuk nilai $x$ berapakah $x^2 - 5x - 4 \\le 10$ benar? Nyatakan jawaban Anda dalam notasi interval.",
+        "answer": ""
+    },
+    "385": {
+        "content": "Sederhanakan soal matematika berikut $x$: $$19x + 1 - 4x - 81.$$",
+        "answer": ""
+    },
+    "386": {
+        "content": "Kathy membutuhkan uang untuk perjalanannya ke Eropa. Jika ia memiliki 300 dolar AS di bank tetapi ingin menarik setengahnya dalam bentuk poundsterling Inggris dan setengahnya lagi dalam bentuk euro, berapa euro lebih banyak yang akan ia miliki dibandingkan dengan poundsterling? Asumsikan 1 pound = 1,64 USD dan 1 euro = 1,32 USD, dan bulatkan ke bilangan bulat terdekat.",
+        "answer": ""
+    },
+    "387": {
+        "content": "Ada berapa banyak bilangan bulat di dalam himpunan solusi dari $|x-2|\\leq5.6$?",
+        "answer": ""
+    },
+    "388": {
+        "content": "Jika $f(x)=5x^2+3x+4$, berapakah nilai dari $f(-2)$?",
+        "answer": ""
+    },
+    "389": {
+        "content": "Berapakah bilangan real terkecil $x$ dalam domain fungsi $$g(x) = \\sqrt{(x-3)^2-(x-8)^2}~?$$",
+        "answer": ""
+    },
+    "390": {
+        "content": "Pada $\\triangle{RST}$ yang ditunjukkan, $\\sin{R}=\\frac{2}{5}$. Berapakah nilai $\\sin{T}$?\n\n[asy]\npair R,S,T;\nT = (0,0);\nS = (2,0);\nR = (2,sqrt(21));\ndraw(R--S--T--R);\ndraw(rightanglemark(R,S,T,10));\nlabel(\"$T$\",T,SW);\nlabel(\"$S$\",S,SE);\nlabel(\"$R$\",R,NE);\nlabel(\"$5$\",(R+T)/2,NW);\n[/asy]",
+        "answer": ""
+    },
+    "391": {
+        "content": "Jarak terkecil antara titik asal dan sebuah titik pada grafik $y=\\frac{1}{\\sqrt{2}}\\left(x^2-3\\right)$ dapat dinyatakan sebagai $\\sqrt{a}/b$, di mana $a$ dan $b$ adalah bilangan bulat positif sehingga $a$ tidak habis dibagi oleh kuadrat dari bilangan bulat manapun yang lebih besar dari satu.  Tentukan $a+b$.",
+        "answer": ""
+    },
+    "392": {
+        "content": "Misalkan $f$ didefinisikan oleh\n\\[\nf(x) = \\left\\{\n\\begin{array}{cl}\n3-x & \\text{ jika } x \\leq 3, \\\\\n-x^3+2x^2+3x & \\text{ jika } x>3.\n\\end{array}\n\\right.\n\\]\nHitung $f^{-1}(0)+f^{-1}(6)$.",
+        "answer": ""
+    },
+    "393": {
+        "content": "Jarak dari titik $P$ ke lima dari enam titik sudut sebuah oktahedron beraturan adalah 3, 7, 8, 9, dan 11. Cari jarak dari $P$ ke titik sudut keenam.\n\n[asy]\nimport three;\n\nsize(125);\ncurrentprojection = perspective(6,3,1);\n\ntriple A, B, C, D, E, F, P;\n\nA = (1,0,0);\nB = (-1,0,0);\nC = (0,1,0);\nD = (0,-1,0);\nE = (0,0,1);\nF = (0,0,-1);\nP = (1.2,1.5,1);\n\ndraw(A--P,red);\ndraw(B--P,red);\ndraw(C--P,red);\ndraw(D--P,red);\ndraw(E--P,red);\ndraw(F--P,red);\n\ndraw(A--C);\ndraw(A--D);\ndraw(A--E);\ndraw(A--F);\ndraw(C--E--D--F--cycle);\ndraw(D--B--C,dashed);\ndraw(B--C,dashed);\ndraw(B--D,dashed);\ndraw(B--E,dashed);\ndraw(B--F,dashed);\n\nlabel(\"$P$\", P, NE);\n[/asy]",
+        "answer": ""
+    },
+    "394": {
+        "content": "Ini adalah rumus fisika yang sudah dikenal luas bahwa gaya sama dengan massa dikali percepatan. Jen ingin melempar bola softball dengan gaya yang sama seperti Jack melempar bola baseball. Jika bola softball memiliki massa $200$ g dan bola baseball memiliki massa $150$ g, berapakah perbandingan percepatan bola Jen terhadap bola Jack? Jawablah sebagai pecahan dalam bentuk paling sederhana.",
+        "answer": ""
+    },
+    "395": {
+        "content": "Pertimbangkan fungsi $z(x,y)$ yang menggambarkan paraboloid\n\\[z = (2x - y)^2 - 2y^2 - 3y.\\]\nArchimedes dan Brahmagupta sedang bermain sebuah permainan. Archimedes terlebih dahulu memilih $x.$ Setelah itu, Brahmagupta memilih $y.$ Archimedes ingin meminimalkan $z$ sementara Brahmagupta ingin memaksimalkan $z.$ Dengan asumsi bahwa Brahmagupta akan bermain secara optimal, nilai $x$ berapakah yang seharusnya dipilih oleh Archimedes?",
+        "answer": ""
+    },
+    "396": {
+        "content": "Jika $a = 8$, berapakah nilai dari $\\left(16\\sqrt[3]{a^2}\\right)^{\\frac 13}$?",
+        "answer": ""
+    },
+    "397": {
+        "content": "Bangun segiempat quadrilateral $ABCD$ adalah sebuah persegi dengan luas 16 inci persegi. Gambar tersebut menunjukkan potongan-potongan tangram Cina di mana semua segitiga adalah sama kaki dan potongan \"e\" adalah sebuah persegi. Berapakah luas bagian berwarna abu-abu, dalam inci persegi?\n\n[asy]\nfill((2,0)--(4,2)--(4,0)--cycle,gray(.7));\ndraw((0,0)--(0,4)--(4,4)--(4,0)--cycle,linewidth(1));\ndraw((0,0)--(4,4),linewidth(1));\ndraw((1,1)--(2,0)--(4,2),linewidth(1));\ndraw((0,4)--(3,1)--(3,3),linewidth(1));\nlabel(\"$A$\",(0,4),W);\nlabel(\"$B$\",(4,4),E);\nlabel(\"$C$\",(4,0),E);\nlabel(\"$D$\",(0,0),W);\nlabel(\"e\",(2,1));\n\n[/asy]",
+        "answer": ""
+    },
+    "398": {
+        "content": "Jika $3x + 2(1 + x) = 17$, berapakah nilai dari $6x + 5$?",
+        "answer": ""
+    },
+    "399": {
+        "content": "Navin dari Mauritius, Luka dari Kroasia, dan Ian dari Botswana sedang mengobrol di lobi sebuah hostel remaja membahas pekerjaan paruh waktu mereka. Mereka mengetahui bahwa Navin mendapat 160 rupee per jam, Luka mendapat 25 kuna per jam, dan Ian mendapat 34 pula per jam. Jika satu dolar Amerika Serikat setara dengan 32,35 rupee Mauritius, 5,18 kuna Kroasia, dan 6,95 pula Botswana, siapakah yang akan memperoleh penghasilan terbanyak setelah bekerja selama delapan jam dalam sehari?",
+        "answer": ""
+    },
+    "400": {
+        "content": "Tambahkan 313,9 dengan 12,6. Jawab dalam bentuk angka desimal.",
+        "answer": ""
+    },
+    "401": {
+        "content": "Dalam lingkaran dengan pusat $Q$, jari-jari $AQ$ dan $BQ$ membentuk sudut siku-siku. Dua daerah yang lebih kecil merupakan setengah lingkaran yang bersinggungan, seperti yang ditunjukkan. Jari-jari lingkaran dengan pusat $Q$ adalah 14 inci. Berapakah jari-jari setengah lingkaran yang lebih kecil? Berikan jawaban dalam bentuk pecahan biasa.",
+        "answer": ""
+    },
+    "402": {
+        "content": "Misalkan $z$ adalah sebuah bilangan kompleks sehingga $|z| = 1.$  Tentukan nilai maksimum dari\n\\[\n|1 + z| + |1 - z + z^2|.\n\\]",
+        "answer": ""
+    },
+    "403": {
+        "content": "Sebuah rotasi $90^\\circ$ searah jarum jam di sekitar $-4 - 5i$ diterapkan pada $3$ (sebagai bilangan kompleks). Berapakah bilangan kompleks hasilnya?",
+        "answer": ""
+    },
+    "404": {
+        "content": "Ada berapa banyak digit yang sama yang ditemukan dalam representasi bilangan basis 7 dan basis 8 dari $629_{10}$? Sebagai contoh, $121_{3}$ dan $413_{5}$ akan memiliki satu digit yang sama.",
+        "answer": ""
+    },
+    "405": {
+        "content": "Roslyn memiliki sepuluh kotak. Lima dari kotak tersebut berisi pensil, empat kotak berisi pulpen, dan dua kotak berisi baik pulpen maupun pensil. Berapa banyak kotak yang tidak berisi pulpen maupun pensil?",
+        "answer": ""
+    },
+    "406": {
+        "content": "Jika tidak ada yang berbagi ruangan kantor, ada berapa banyak cara 3 orang dapat ditempatkan ke 5 ruangan kantor yang berbeda? (Setiap orang mendapatkan tepat satu ruangan kantor).",
+        "answer": ""
+    },
+    "407": {
+        "content": "Berapakah sisa hasil pembagian 2004 dengan 12?",
+        "answer": ""
+    },
+    "408": {
+        "content": "Jika $f(x)=\\dfrac{2}{x+1}$, maka berapakah nilai dari $f^{-1}\\left(\\frac{1}{5}\\right)$?",
+        "answer": ""
+    },
+    "409": {
+        "content": "Sebuah operasi pencerminan membawa $\\begin{pmatrix} 5 \\\\ 0 \\end{pmatrix}$ ke $\\begin{pmatrix} 4 \\\\ 3 \\end{pmatrix}.$  Vektor manakah yang akan dibawa oleh operasi pencerminan tersebut dari $\\begin{pmatrix} -2 \\\\ 3 \\end{pmatrix}$?",
+        "answer": ""
+    },
+    "410": {
+        "content": "Asimtot dari sebuah hiperbola adalah $y = 2x - 3$ dan $y = 17 - 2x.$ Selain itu, hiperbola tersebut melalui titik $(4,7).$ Tentukan jarak antara kedua fokus dari hiperbola tersebut.",
+        "answer": ""
+    },
+    "411": {
+        "content": "Misalkan $N$ adalah angka satuan dari bilangan $21420N$. Nilai $N$ bukan nol manakah yang membuat bilangan ini habis dibagi $6$?",
+        "answer": ""
+    },
+    "412": {
+        "content": "Enam penyihir wanita dan sepuluh penyihir pria berada di sebuah pesta pertemuan gaib. Para penyihir wanita memutuskan untuk berjabat tangan dengan masing-masing penyihir pria. Tidak ada penyihir wanita yang saling berjabat tangan satu sama lain, karena mereka semua sudah berteman baik, dan para penyihir pria juga saling membenci sehingga tidak saling berjabat tangan satu sama lain. Ada berapa banyak jabat tangan yang terjadi di pesta tersebut?",
+        "answer": ""
+    },
+    "413": {
+        "content": "Misalkan $P(x)$ adalah polinomial kuadrat dengan nilai koefisien real yang memenuhi $x^2 - 2x + 2 \\le P(x) \\le 2x^2 - 4x + 3$ untuk semua bilangan real $x$, dan diketahui $P(11) = 181$. Tentukan $P(16)$.",
+        "answer": ""
+    },
+    "414": {
+        "content": "Sederhanakan $\\frac{(10r^3)(4r^6)}{8r^4}$.",
+        "answer": ""
+    },
+    "415": {
+        "content": "Berapa jumlah nilai $a$ yang memenuhi persamaan $$(3)5^2-4(5-a)^2 \\div 3=63?$$",
+        "answer": ""
+    },
+    "416": {
+        "content": "Berapakah sisa hasil bagi dari $129^{34}+96^{38}$ jika dibagi dengan $11$?",
+        "answer": ""
+    },
+    "417": {
+        "content": "Hitung $\\sin^3 18^\\circ + \\sin^2 18^\\circ.$",
+        "answer": ""
+    },
+    "418": {
+        "content": "Misalkan $f(x)$ adalah polinomial \\[f(x)=3x^4+5x^2-9x-2.\\] Jika $g(x)$ sama dengan polinomial $f(x-1)$, berapakah jumlah koefisien-koefisien dari $g$?",
+        "answer": ""
+    },
+    "419": {
+        "content": "Berapakah jarak terpendek dari titik $(6, 0)$ ke garis $y = 2x-2$? Berikan jawaban dalam bentuk akar paling sederhana.",
+        "answer": ""
+    },
+    "420": {
+        "content": "Terdapat jumlah tak hingga dari vektor $\\mathbf{v}$ sehingga\n\\[\n\\begin{pmatrix} 1 \\\\ 2 \\\\ -5 \\end{pmatrix} \\times \\mathbf{v} = \\begin{pmatrix} 90 \\\\ 30 \\\\ 30 \\end{pmatrix}.\n\\]\nTemukan vektor $\\mathbf{v}$ yang memiliki magnitudo terkecil.",
+        "answer": ""
+    },
+    "421": {
+        "content": "Temukan proyeksi $\\mathbf{a}$ pada $\\mathbf{b} = \\begin{pmatrix} 2 \\\\ 6 \\\\ 3 \\end{pmatrix}$ jika $\\mathbf{a} \\cdot \\mathbf{b} = 8.$",
+        "answer": ""
+    },
+    "422": {
+        "content": "Jika $\\arccos x + \\arccos 2x + \\arccos 3x = \\pi,$ maka $x$ memenuhi sebuah polinomial kubik dengan bentuk\n\\[ax^3 + bx^2 + cx + d = 0,\\]\ndi mana $a,$ $b,$ $c,$ dan $d$ adalah bilangan bulat, dan $a \\neq 0.$ Cari nilai terkecil yang mungkin dari $|a| + |b| + |c| + |d|.$",
+        "answer": ""
+    },
+    "423": {
+        "content": "Bilangan kompleks $\\alpha_1, \\alpha_2, \\alpha_3$, dan $\\alpha_4$ adalah keempat akar yang unik dari persamaan $x^4+2x^3+2=0$. Tentukan himpunan tak berurutan berikut \\[\n\\{\\alpha_1\\alpha_2 + \\alpha_3\\alpha_4, \\alpha_1\\alpha_3 + \\alpha_2\\alpha_4, \\alpha_1\\alpha_4 + \\alpha_2\\alpha_3\\}.\n\\]",
+        "answer": ""
+    },
+    "424": {
+        "content": "Berapa bilangan bulat terbesar yang nilainya kurang dari $2010$ yang memiliki sisa $5$ ketika dibagi $7$, sisa $10$ ketika dibagi $11$, dan sisa $10$ ketika dibagi $13$?",
+        "answer": ""
+    },
+    "425": {
+        "content": "Nilai $y$ bervariasi secara terbalik dengan $\\sqrt x$ dan ketika $x=24$, $y=15$. Berapakah nilai $x$ ketika $y=3$?",
+        "answer": ""
+    },
+    "426": {
+        "content": "Misalkan $G$ dan $H$ berturut-turut adalah centroid dan ortosenter dari segitiga $ABC.$ Misalkan $F$ adalah titik tengah dari $\\overline{GH}.$ Nyatakan $AF^2 + BF^2 + CF^2$ dalam bentuk panjang sisi $a,$ $b,$ $c$ dan jari-jari lingkaran luar $R$ dari segitiga $ABC.$",
+        "answer": ""
+    },
+    "427": {
+        "content": "Sebuah persegi dan sebuah segitiga sama sisi memiliki keliling yang sama. Luas segitiga tersebut adalah $16\\sqrt{3}$ sentimeter persegi. Berapa panjang diagonal persegi tersebut, dalam sentimeter? Berikan jawaban dalam bentuk akar paling sederhana.\n\n[asy]\ndefaultpen(linewidth(1));\ndraw((0,0)--(1,0)--(1,1)--(0,1)--cycle);\npair a = (1.25,0)+1.25*dir(60);\npair b = a+1.25*dir(-60);\ndraw((1.25,0)--a--b--cycle);\n\n[/asy]",
+        "answer": ""
+    },
+    "428": {
+        "content": "Tiga pensil dan sebuah penghapus jumbo harganya \\$1,24. Lima pensil dan sebuah penghapus jumbo harganya \\$1,82. Tidak ada harga yang termasuk pajak. Dalam satuan sen, berapakah harga sebuah pensil?",
+        "answer": ""
+    },
+    "429": {
+        "content": "Misalkan $a,$ $b,$ $c,$ $d$ adalah bilangan real positif sehingga $a + b + c + d = 1.$  Tentukan nilai minimum dari\n\\[\\frac{1}{a} + \\frac{1}{b} + \\frac{4}{c} + \\frac{16}{d}.\\]",
+        "answer": ""
+    },
+    "430": {
+        "content": "Misalkan $a$ dan $b$ adalah bilangan real positif sehingga $ab^2 = 5.$  Tentukan nilai minimum dari $a^4 + b^8.$",
+        "answer": ""
+    },
+    "431": {
+        "content": "Berapakah $\\frac{9}{2}$ jika dinyatakan dalam bentuk desimal?",
+        "answer": ""
+    },
+    "432": {
+        "content": "Misalkan\n\\[f(x) = (\\arccos x)^2 + (\\arcsin x)^2.\\]\nTentukan rentang dari $f(x).$ Semua fungsi dinyatakan dalam radian.",
+        "answer": ""
+    },
+    "433": {
+        "content": "Jika\n\\[f(n + 1) = (-1)^{n + 1} n - 2f(n)\\]\nuntuk $n \\ge 1,$ dan $f(1) = f(1986),$ hitunglah\n\\[f(1) + f(2) + f(3) + \\dots + f(1985).\\]",
+        "answer": ""
+    },
+    "434": {
+        "content": "Konversikan $\\frac{57}{160}$ menjadi desimal berhingga.",
+        "answer": ""
+    },
+    "435": {
+        "content": "Dalam sebuah segitiga siku-siku sama kaki, tinggi ke sisi miring adalah $4\\sqrt{2}$. Berapakah luas segitiga tersebut?",
+        "answer": ""
+    },
+    "436": {
+        "content": "Apa domain dari fungsi bernilai real $f(x)=\\frac{2x-7}{\\sqrt{x^2-5x+6}}$?",
+        "answer": ""
+    },
+    "437": {
+        "content": "$n$ buah dadu bersisi 6 yang adil dilempar secara bersamaan. Probabilitas bahwa tepat dua di antaranya menunjukkan angka selain 1 adalah $\\frac{25}{216}$. Tentukan nilai $n$.",
+        "answer": ""
+    },
+    "438": {
+        "content": "Simbol-simbol $\\triangle$, $\\square$, $\\diamond$, $\\clubsuit$ masing-masing mewakili empat bilangan bulat berbeda dari 1 sampai 9. Menggunakan persamaan di bawah ini, berapakah nilai dari $\\square$? \n\\begin{align*}\n\\triangle + \\square &= \\clubsuit \\\\\n\\triangle + \\triangle &= \\diamond +\\diamond + \\diamond + \\diamond + \\diamond \\\\\n\\triangle + \\triangle &= \\clubsuit + \\diamond.\n\\end{align*}",
+        "answer": ""
+    },
+    "439": {
+        "content": "Apa angka bukan nol terakhir di sebelah kanan tanda desimal dalam ekspansi desimal dari $\\frac{137}{500}$?",
+        "answer": ""
+    },
+    "440": {
+        "content": "Cari hasil pembagian $x^9 + 1$ dengan $x - 1.$",
+        "answer": ""
+    },
+    "441": {
+        "content": "Sederhanakan $(u+4)(u-1) - (u-3)(u+6)$.",
+        "answer": ""
+    },
+    "442": {
+        "content": "Karla mengemudikan kendaraannya sejauh 12.000 mil tahun lalu. Berapa banyak galon bensin yang akan dia hemat tahun lalu jika dia mengendarai mobil hibrida yang hemat bahan bakar dengan rata-rata 48 mil per galon, dibandingkan dengan SUV yang rata-ratanya 15 mil per galon?",
+        "answer": ""
+    },
+    "443": {
+        "content": "Misalkan $f(x) = 2^x.$ Tentukan nilai $\\sqrt{f(f(f(f(1))))}.$",
+        "answer": ""
+    },
+    "444": {
+        "content": "Berapakah nilai integer dari $x$ dalam barisan aritmetika $3^2, x, 3^4$?",
+        "answer": ""
+    },
+    "445": {
+        "content": "Persegi panjang $ABCD$ memiliki pusat $O$ dan $AB/AD = k$. Sebuah titik dipilih secara acak dari bagian dalam persegi panjang $ABCD$. Berapakah peluang bahwa titik tersebut lebih dekat ke $O$ daripada ke salah satu dari keempat titik sudutnya?  [asy]\nsize(200);\ndraw((-250,100)--(250,100)--(250,-100)--(-250,-100)--cycle);\ndot((0,0));\nlabel(\"$O$\",(0,0),N);\nlabel(\"$A$\",(-250,100),NW); label(\"$B$\",(250,100),NE); label(\"$C$\",(250,-100),SE); label(\"$D$\",(-250,-100),SW);[/asy]",
+        "answer": ""
+    },
+    "446": {
+        "content": "Lingkaran $x^2 + y^2 = 2$ dan parabola $y^2 = 8x$ memiliki dua garis singgung bersama, membentuk empat titik singgung. Cari luas bangun segiempat quadrilateral yang dibentuk oleh keempat titik singgung tersebut.\n\n[asy]\nunitsize(0.8 cm);\n\nreal upperparab (real x) {\nreturn (sqrt(8*x));\n}\n\nreal lowerparab (real x) {\nreturn (-sqrt(8*x));\n}\n\npair A, B, C, D;\n\nA = (-1,1);\nB = (2,4);\nC = (-1,-1);\nD = (2,-4);\n\ndraw(graph(upperparab,0,3));\ndraw(graph(lowerparab,0,3));\ndraw(Circle((0,0),sqrt(2)));\ndraw(interp(A,B,-0.2)--interp(A,B,1.2));\ndraw(interp(C,D,-0.2)--interp(C,D,1.2));\ndraw(A--C);\ndraw(B--D);\n\ndot(A);\ndot(B);\ndot(C);\ndot(D);\n[/asy]",
+        "answer": ""
+    },
+    "447": {
+        "content": "Jumlah dari $n$ suku pertama pada deret geometri tak hingga $\\left\\{\\frac{1}{4},\\frac{1}{8},\\frac{1}{16},\\dots \\right\\}$ adalah $\\frac{255}{512}$. Tentukan $n$.",
+        "answer": ""
+    },
+    "448": {
+        "content": "Tiga puluh lima siswa menghadiri pertemuan klub matematika. Jumlah siswa perempuan yang hadir adalah kelipatan dari 13, dan jumlah siswa perempuan lebih banyak daripada siswa laki-laki. Berapa banyak siswa laki-laki yang hadir pada pertemuan tersebut?",
+        "answer": ""
+    },
+    "449": {
+        "content": "Hitung $17^{-1}\\pmod{83}$. Berikan jawaban sebagai nilai residu dari $0$ hingga $82$, secara inklusif.\n\n(Anda mungkin merasa terbantu dengan mempertimbangkan fakta bahwa $17\\cdot 5=85$.)",
+        "answer": ""
+    },
+    "450": {
+        "content": "Jika $a\\star b = 9a+2b-ab+5$, berapakah nilai dari $5\\star1$?",
+        "answer": ""
+    },
+    "451": {
+        "content": "Berapakah rata-rata dari dua solusi bilangan bulat positif terkecil untuk kongruensi $$14u \\equiv 46 \\pmod{100}~?$$",
+        "answer": ""
+    },
+    "452": {
+        "content": "Pada sebuah peta tertentu, $3$ inci pada peta setara dengan $10$ mil di dunia nyata. Jika Anda mengetahui bahwa jarak sebenarnya antara dua gedung pada peta tersebut adalah $53{,}25$ mil, berapakah jarak antara kedua gedung tersebut (dalam inci) pada peta, dinyatakan dalam bentuk pecahan?",
+        "answer": ""
+    },
+    "453": {
+        "content": "Jumlah dari digit-digit sebuah bilangan dua digit adalah $13.$ Selisih antara bilangan tersebut dan bilangan yang digit-digitnya dibalik adalah $27.$ Berapakah jumlah dari bilangan asli dan bilangan yang digit-digitnya dibalik?",
+        "answer": ""
+    },
+    "454": {
+        "content": "Kelas 7 dan 8 masing-masing memiliki jumlah murid 520 dan 650. Kedua kelas tersebut memiliki total 18 perwakilan di Dewan Siswa. Berapa banyak perwakilan yang seharusnya dimiliki kelas 8 agar terdapat perwakilan yang adil untuk kedua kelas tersebut?",
+        "answer": ""
+    },
+    "455": {
+        "content": "Sebuah matriks $\\mathbf{M}$ memetakan $\\begin{pmatrix} 2 \\\\ -1 \\end{pmatrix}$ ke $\\begin{pmatrix} 9 \\\\ 3 \\end{pmatrix},$ dan $\\begin{pmatrix} 1 \\\\ -3 \\end{pmatrix}$ ke $\\begin{pmatrix} 7 \\\\ -1 \\end{pmatrix}.$ Cari gambar dari garis $y = 2x + 1$ di bawah $\\mathbf{M}.$ Berikan jawaban dalam bentuk \"$y = mx + b$\".",
+        "answer": ""
+    },
+    "456": {
+        "content": "Ada berapa banyak cara 5 siswa dapat dipilih dari satu kelompok yang terdiri dari 6 siswa?",
+        "answer": ""
+    },
+    "457": {
+        "content": "Tentukan semua akar bilangan bulat dari\n\\[x^4 + 5x^3 + 9x^2 - x - 14 = 0.\\]\nTulis semua nilai akar bilangan bulat, dipisahkan dengan tanda baca koma.",
+        "answer": ""
+    },
+    "458": {
+        "content": "Tentukan sisa dari 54 (mod 6).",
+        "answer": ""
+    },
+    "459": {
+        "content": "Setiap minggu, antara 30 hingga 50 siswa hadir dalam kelas panahan yang dijalankan oleh Betty dan Wilma. Biasanya para siswa membagi diri menjadi kelompok-kelompok dengan jumlah member yang sama untuk latihan menembak sasaran. Namun, minggu ini, Betty menyadari bahwa ia tidak dapat membagi para siswa ke dalam beberapa kelompok dengan jumlah member yang sama. Wilma menyadari bahwa jika ia dan Betty ikut bergabung bersama para siswa untuk berlatih, mereka tetap tidak dapat membagi para pemanah ke dalam kelompok-kelompok dengan jumlah member yang sama. Berapa banyak siswa yang hadir di kelas panahan minggu ini?",
+        "answer": ""
+    },
+    "460": {
+        "content": "Batangan emas palsu dibuat dengan cara menutupi kubus beton menggunakan cat emas, sehingga biaya cat sebanding dengan luas permukaannya sedangkan biaya beton sebanding dengan volumenya. Jika sebuah kubus berukuran 1 inci membutuhkan biaya $\\$1{,}30$ untuk dibuat, sedangkan kubus berukuran 2 inci membutuhkan biaya $\\$6{,}80$, maka berapa biaya pembuatan kubus berukuran 3 inci?",
+        "answer": ""
+    },
+    "461": {
+        "content": "Pada diagram di bawah ini, diketahui $\\overline{ST}\\parallel\\overline{QR}$, $\\angle P= 40^\\circ$, dan $\\angle Q =35^\\circ$. Cari besar sudut $\\angle STR$ dalam derajat.\n\n[asy]\npair P,Q,R,SS,T;\nQ = (0,0);\nR = (1,0);\nP = (1.1,0.5);\nSS = 0.6*P;\nT = R + 0.6*(P-R);\ndraw(T--SS--P--R--Q--SS);\nlabel(\"$P$\",P,N);\nlabel(\"$S$\",SS,NW);\nlabel(\"$Q$\",Q,S);\nlabel(\"$R$\",R,S);\nlabel(\"$T$\",T,ENE);\n[/asy]",
+        "answer": ""
+    },
+    "462": {
+        "content": "Misalkan\n\\[\nf(n) = \\left\\{\n\\begin{array}{cl}\n\\lfloor n \\rfloor & \\text{ jika } n \\geq 4, \\\\\n\\lceil n \\rceil & \\text{ jika } n < 4.\n\\end{array}\n\\right.\n\\]\nTentukan $f\\left(\\frac{\\pi}{3}\\right) + f(\\sqrt{45}) + f(8^{2/3})$.",
+        "answer": ""
+    },
+    "463": {
+        "content": "Linda, Sherry, June, dan Connie berjalan di sekitar lingkungan tempat tinggal mereka untuk menjual kue pramuka. Linda mendapatkan $\\$27.47$, Sherry mendapatkan $\\$35.23$, June mendapatkan $\\$37.37$, dan Connie mendapatkan $\\$26.52$. Setelah penjualan, mereka mengumpulkan uang mereka bersama-sama dan pergi ke bank untuk menukarkan koin menjadi uang kertas. Berapa banyak uang, dalam satuan sen, yang tersisa setelah mereka menukarkan sebanyak mungkin koin menjadi uang kertas?",
+        "answer": ""
+    },
+    "464": {
+        "content": "Ada berapa banyak nilai $x$ sehingga ekspresi $\\frac{x-5}{x^2-9}$ tidak terdefinisikan?",
+        "answer": ""
+    },
+    "465": {
+        "content": "Jika $\\log_6 (x-y) + \\log_6 (x+y) = 2$ dan $\\log_y 5x = 2$, tentukan nilai $x$.",
+        "answer": ""
+    },
+    "466": {
+        "content": "Ketika bilangan bulat positif dengan tepat tiga pembagi positif dicantumkan secara berurutan dari yang terkecil, berapakah bilangan kelima yang tercantum?",
+        "answer": ""
+    },
+    "467": {
+        "content": "Jika $re^{i \\theta}$ adalah akar dari\n\\[z^8 - z^7 + z^6 - z^5 + z^4 - z^3 + z^2 - z + 1 = 0,\\]\ndi mana $r > 0$ dan $0 \\le \\theta < 2 \\pi,$ maka carilah jumlah dari semua nilai $\\theta$ yang mungkin.",
+        "answer": ""
+    },
+    "468": {
+        "content": "Pada diagram ini, berapakah luas segitiga yang diarsir? [asy]\nfill((0,0)--(2,3)--(10,0)--cycle,gray);\ndraw((0,0)--(10,0)--(10,3)--(0,3)--cycle,linewidth(1));\ndraw((0,0)--(2,3)--(10,0),linewidth(1));\nlabel(\"10 cm\",(5,3),N);\nlabel(\"10 cm\",(5,0),S);\nlabel(\"3 cm\",(0,1.5),W);\nlabel(\"3 cm\",(10,1.5),E);\ndraw((0,2.5)--(.5,2.5)--(.5,3));\ndraw((10,2.5)--(9.5,2.5)--(9.5,3));\n[/asy]",
+        "answer": ""
+    },
+    "469": {
+        "content": "Akar kuadrat dari $t$ lebih besar dari $2$ dan kurang dari $3.5$. Ada berapa banyak nilai bilangan bulat $t$ yang memenuhi kondisi ini?",
+        "answer": ""
+    },
+    "470": {
+        "content": "Evaluasi nilai $\\lceil{\\sqrt{20}}\\rceil^2$.",
+        "answer": ""
+    },
+    "471": {
+        "content": "Misalkan $a,$ $b,$ $c,$ dan $d$ adalah bilangan real positif sehingga $a + b + c + d = 10.$  Tentukan nilai maksimum dari $ab^2 c^3 d^4.$",
+        "answer": ""
+    },
+    "472": {
+        "content": "Sebuah kelas yang terdiri dari 30 siswa baru saja mengikuti ujian. Jika 20 siswa mendapatkan nilai 80, 8 siswa mendapatkan nilai 90, dan 2 siswa mendapatkan nilai 100, berapakah rata-rata nilai (mean) kelas pada ujian ini?",
+        "answer": ""
+    },
+    "473": {
+        "content": "Dengan kecepatan 50 mil per jam, seberapa jauh sebuah mobil akan menempuh perjalanan dalam $2\\frac{3}{4}$ jam? Berikan jawaban dalam bentuk pecahan campuran.",
+        "answer": ""
+    },
+    "474": {
+        "content": "Di bawah ini adalah sebuah persegi ajaib, artinya jumlah angka pada setiap baris, setiap kolom, dan pada kedua diagonal utamanya adalah sama. Berapakah nilai $n$?\n\n[asy]size(125);\nfor(int i = 0; i<4; ++i)\n{\n\ndraw((0,i)--(3,i),linewidth(1));\n}\n\nfor(int j = 0; j<4; ++j)\n{\n\ndraw((j,0)--(j,3),linewidth(1));\n}\n\nlabel(\"$n-3$\",(.5,.5));\nlabel(\"3\",(.5,1.5));\nlabel(\"$n+1$\",(.5,2.5));\n\nlabel(\"$n+2$\",(1.5,.5));\nlabel(\"$2n-9$\",(1.5,1.5));\nlabel(\"$1$\",(1.5,2.5));\n\nlabel(\"$2$\",(2.5,.5));\nlabel(\"$n$\",(2.5,1.5));\nlabel(\"$n-1$\",(2.5,2.5));\n[/asy]",
+        "answer": ""
+    },
+    "475": {
+        "content": "Tentukan nilai dari $\\log_2{3} \\cdot \\log_3{4} \\cdot \\log_4{5} \\cdot \\log_5{6} \\cdot \\log_6{7} \\cdot \\log_7{8}$.",
+        "answer": ""
+    },
+    "476": {
+        "content": "Ketika melempar sebuah dadu enam sisi yang tidak adil dengan sisi-sisi bernomor 1, 2, 3, 4, 5, dan 6, probabilitas mendapatkan sisi $F$ adalah lebih besar dari $1/6$, probabilitas mendapatkan sisi yang berlawanan dengan sisi $F$ adalah kurang dari $1/6$, probabilitas mendapatkan masing-masing sisi lainnya adalah $1/6$, dan jumlah angka pada setiap pasangan sisi yang berlawanan adalah 7. Ketika dua dadu seperti ini dilempar, probabilitas mendapatkan jumlah 7 adalah $ \\frac{47}{288} $. Diketahui bahwa probabilitas mendapatkan sisi $F$ adalah $m/n$, di mana $m$ dan $n$ adalah bilangan bulat positif yang relatif prima, tentukan $m+n$.",
+        "answer": ""
+    },
+    "477": {
+        "content": "Jim dan Martha sedang berdiri bersama di sudut sebuah lapangan berbentuk persegi panjang. Jim berjalan secara diagonal melintasi lapangan. Martha mencapai lokasi yang sama dengan berjalan mengikuti panjang dan lebar lapangan. Lapangan tersebut memiliki lebar 300 kaki dan panjang 400 kaki. Berapa kaki lebih sedikit jarak yang ditempuh Jim dibandingkan Martha?",
+        "answer": ""
+    },
+    "478": {
+        "content": "Angka dua digit $``B6,''$ di mana $B$ adalah digit puluhan, merupakan kuadrat dari suatu bilangan bulat positif. Ada berapa banyak nilai berbeda yang mungkin untuk $B$?",
+        "answer": ""
+    },
+    "479": {
+        "content": "Carilah jumlah semua solusi kompleks dari persamaan\n\\[\n\\frac{1}{x^2 - 1} + \\frac{2}{x^2 - 2} + \\frac{3}{x^2 - 3} + \\frac{4}{x^2 - 4} = 2010x - 4.\n\\]",
+        "answer": ""
+    },
+    "480": {
+        "content": "Terdapat sejumlah bilangan prima terbatas $p$ yang kongruensinya\n$$8x\\equiv 1\\pmod{p}$$\ntidak memiliki solusi $x$. Tentukan jumlah dari semua bilangan prima $p$ tersebut.",
+        "answer": ""
+    },
+    "481": {
+        "content": "Misalkan $\\omega$ adalah sebuah bilangan kompleks sehingga $\\omega^3 = 1.$  Temukan semua nilai yang mungkin dari\n\\[\n\\frac{1}{1 + \\omega} + \\frac{1}{1 + \\omega^2}.\n\\]\nMasukkan semua nilai yang mungkin, dipisahkan dengan koma.",
+        "answer": ""
+    },
+    "482": {
+        "content": "Misalkan $n$ adalah bilangan bulat positif. Sederhanakan ekspresi berikut\n\\[\n\\frac{(2^4 + \\frac{1}{4})(4^4 + \\frac{1}{4}) \\dotsm [(2n)^4 + \\frac{1}{4}]}{(1^4 + \\frac{1}{4})(3^4 + \\frac{1}{4}) \\dotsm [(2n - 1)^4 + \\frac{1}{4}]}.\n\\]",
+        "answer": ""
+    },
+    "483": {
+        "content": "Jika $\\frac{a}{b}$ adalah probabilitas bahwa kebalikannya dari sebuah bilangan bulat ganjil positif yang dipilih secara acak dan kurang dari 2010 menghasilkan desimal terhingga, dengan $a$ dan $b$ adalah bilangan bulat prima relatif positif, berapakah nilai $a+b$?",
+        "answer": ""
+    },
+    "484": {
+        "content": "Luas segitiga $ABC$ sama dengan $a^2 - (b - c)^2,$ di mana $a,$ $b,$ dan $c$ adalah sisi-sisi segitiga $ABC,$ seperti biasa. Hitunglah $\\tan A.$",
+        "answer": ""
+    },
+    "485": {
+        "content": "Selesaikan\n\\[\\sqrt{x + \\sqrt{3x + 6}} + \\sqrt{x - \\sqrt{3x + 6}} = 6.\\]",
+        "answer": ""
+    },
+    "486": {
+        "content": "Berapa jarak terpendek yang dapat ditempuh jika kamu memulai dari titik mana pun, $A$, $B$, $C$, atau $D$, dan mengunjungi ketiga titik lainnya masing-masing satu kali?\n\n[asy]\npair A,B,C, D;\nA = (-3,3); B = (3,0); C = (0, -4); D = (0,0);\ndraw(D--B--C--cycle); draw(D--A--B--cycle);draw(D--A--C--cycle);\nlabel(\"$A$\", A, NW);label(\"$B$\", B, E); label(\"$C$\", C, S);label(\"$D$\", D, NE);\nlabel(\"3\", D--B, S); label(\"6\", A--B, NE); label(\"6\", A--C, SW); label(\"4\", D--C, NW+N);\nlabel(\"5\", A--D, SE+NE); label(\"5\", C--B, E);\n[/asy]",
+        "answer": ""
+    },
+    "487": {
+        "content": "Sebuah bola baja dengan jari-jari 3 inci dibuat dengan cara menghilangkan logam dari sudut-sudut sebuah kubus yang memiliki panjang sisi sekecil mungkin. Berapa inci kubik volume kubus tersebut?",
+        "answer": ""
+    },
+    "488": {
+        "content": "Tentukan sisa pembagian modulo 4 dari jumlah berikut: $$ 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 + 12. $$",
+        "answer": ""
+    },
+    "489": {
+        "content": "Harga jual sebuah kemeja tertera $\\$14{,}40$, yang merupakan harga setelah diskon $60\\%$ dari harga aslinya. Berapa dolar harga asli kemeja tersebut sebelum didiskon?",
+        "answer": ""
+    },
+    "490": {
+        "content": "Misalkan $f(x)=|x-p|+|x-15|+|x-p-15|,$ dimana $0 < p < 15.$ Tentukan nilai minimum yang diambil oleh $f(x)$ untuk setiap $x$ dalam interval $p \\leq x\\leq15.$",
+        "answer": ""
+    },
+    "491": {
+        "content": "Misalkan polinomial\n$$f(x) = a_nx^n + a_{n-1}x^{n-1} + \\cdots + a_2x^2 + a_1x + a_0$$\nmemiliki koefisien-koefisien bilangan bulat, dan akar-akarnya adalah bilangan bulat yang berbeda.\n\nDiketahui bahwa $a_n=2$ dan $a_0=66$, berapakah nilai terkecil yang mungkin dari $|a_{n-1}|$?",
+        "answer": ""
+    },
+    "492": {
+        "content": "Tom mendapatkan sebuah Mr. Potato Head untuk ulang tahunnya. Mainan tersebut dilengkapi dengan 3 gaya rambut, 2 pasang alis, 1 pasang mata goyang, 2 pasang telinga, dan 2 pasang bibir, satu pasang sepatu biasa, dan satu pasang sepatu badut sebagai bonus. Jika satu kepribadian lengkap Mr. Potato Head terdiri dari alis, mata, telinga, bibir, sepatu, dan (opsional) rambut, berapa banyak kepribadian unik yang bisa Tom ciptakan? Perhatikan bahwa Mr. Potato Head bisa saja botak.\n\nCatatan: Anda tidak dapat \"mencampur dan mencocokkan\". Misalnya, Anda tidak dapat mengambil alis kiri dari satu pasang dan alis kanan dari pasang lainnya.",
+        "answer": ""
+    },
+    "493": {
+        "content": "Himpunan vektor $\\mathbf{v}$ sehingga\n\\[\\operatorname{proj}_{\\begin{pmatrix} 2 \\\\ 1 \\end{pmatrix}} \\mathbf{v} = \\begin{pmatrix} 0 \\\\ 0 \\end{pmatrix}\\]\nterletak pada sebuah garis. Masukkan persamaan garis ini dalam bentuk \"$y = mx + b$\".",
+        "answer": ""
+    },
+    "494": {
+        "content": "Bilangan $(\\sqrt{2}+\\sqrt{3})^3$ dapat dituliskan dalam bentuk $a\\sqrt{2} + b\\sqrt{3} + c\\sqrt{6}$, di mana $a$, $b$, dan $c$ adalah bilangan bulat. Berapakah nilai $a+b+c$?",
+        "answer": ""
+    },
+    "495": {
+        "content": "Misalkan $S$ adalah himpunan titik-titik $(a,b)$ dengan $0 \\le a,$ $b \\le 1$ sedemikian sehingga persamaan\n\\[x^4 + ax^3 - bx^2 + ax + 1 = 0\\]\nmemiliki setidaknya satu akar bilangan real. Tentukan luas grafik dari $S$.",
+        "answer": ""
+    },
+    "496": {
+        "content": "Apa domain dari fungsi $f(x) = \\frac{2-x}{\\log(2-\\log(x-2))}$, di mana $\\log$ adalah fungsi logaritma basis $10$? Nyatakan jawaban Anda dalam notasi interval.",
+        "answer": ""
+    },
+    "497": {
+        "content": "Misalkan $z = 1+i$ dan $w = \\dfrac{3z+1}{5z+7}$. Tentukan $|w|$.",
+        "answer": ""
+    },
+    "498": {
+        "content": "Sebuah segi delapan sudut beraturan memiliki empat sisi dengan panjang $1$ dan empat sisi dengan panjang $\\frac{\\sqrt{2}}{2}$, disusun sedemikian rupa sehingga tidak ada dua sisi berdekatan yang memiliki panjang yang sama. Berapakah luas segi delapan tersebut?",
+        "answer": ""
+    },
+    "499": {
+        "content": "Suatu barisan bilangan berurutan $(a_n)$ didefinisikan sebagai berikut:\n\\[a_{i + 1} = \\frac{1}{1 - a_i}\\]\nuntuk $i \\ge 1.$ Jika $a_3 = a_1,$ hitung $(a_9)^9.$",
+        "answer": ""
+    },
+    "500": {
+        "content": "Garis tinggi $\\overline{AD}$ dan $\\overline{BE}$ dari $\\triangle ABC$ berpotongan di $H$. Jika $\\angle BAC = 54^\\circ$ dan $\\angle ABC = 52^\\circ$, maka berapakah besar $\\angle AHB$?",
+        "answer": ""
+    }
+}
